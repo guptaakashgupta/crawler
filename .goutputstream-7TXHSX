@@ -1,0 +1,41 @@
+import sys
+sys.path.append('/media/akash/My Passport/Dropbox/crawler')
+import stanford
+from stanford.utility import *
+
+#Cambridge
+
+def extractProject(url):
+	source=makeSoup(getSource(url))
+	base_url=url
+	divs=source.findAll('div',attrs={''})
+	projects=[]
+	for item in divs:
+		project={}
+		
+		
+		project['title']=""
+		project['home_url']=url
+		project['project_url']=""
+		project['description']=""
+		project['authors']=""
+		project["img_url"]=""
+		project["references"]=""
+		project["downloads"]=""
+		project['tags']=["Digital Technology"]
+		project['university']="cambridge"
+		project['year']="2014"
+		project["type"]="Research"
+		project["levels"]="Advance"
+		
+		
+		projects.append(project)
+	with open('stanford_hci_researchproject_2014_2013.json','w') as outfile:
+		json.dump(projects,outfile,sort_keys=True, indent=4, separators=(',', ': '))
+		
+	
+		
+
+
+if __name__=='__main__':
+	url1=""

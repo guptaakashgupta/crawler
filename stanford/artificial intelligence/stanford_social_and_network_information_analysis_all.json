@@ -1,0 +1,3722 @@
+[
+    {
+        "authors": " Tracy Chou, Stephen Guo, Mengqiu Wang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/ChouGuoWang_TheRoleOfChattingInOnlineShopping.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Role of Chatting in Online Shopping ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Carlin Eng, Chetan Sharma [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/CS322 Final Report Eng Sharma.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Examining Online Poker as a Social Network ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " David Borowitz, Fred Wulff [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/cs322_borowitz_wulff.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "An Analysis of Sexual Interactions in a Student Group ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " David M Blum, Nipun Dave, Raymond Hsu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/CS322_project_paper_blum_dave_hsu.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Mechanisms of Network Shrinkage Due to Stress ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Abhijeet Mohapatra, Abhishek Gupta [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/CS322Report-Abhishek,Abhijeet.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Item-Basket Revenue Maximization ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Angel X Chang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/ego_angelx.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Email Ego Networks ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Myunghwan Kim [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/final_kim.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inference ofKroneckerStructure ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Pranav Dandekar [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/final_report_Dandekar.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis & Generative Model for Trust Networks ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Benjamin Bercovitz [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/finalpaper_Bercovitz.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Viewing Implicit Social Networks As Bipartite Graphs ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Venu Gopal Kasturi, CV Krishnakumar Iyer [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/Kasturi_Iyer_CS322_Report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding Answerers on Yahoo! Answers ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Jaewon Yang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/Memetracker_final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing the Temporal Dynamics of the News Cycle ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Sudheendra Hangal (with Diana MacLean, Seng Keat Teh and Monica S Lam) [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/na09_hangal.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inferring Social Groups from Email Archives ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Neal Parikh [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/Parikh-ModelingGraphsWithAttributes.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling Graphs with Attributes ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Omkar Muralidharan [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/project writeup_Muralidharan.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Faster Kriging on Graphs ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Semih Salihoglu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/project_writeup_Semih_Salihoglu.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Networks as vectors of their motif frequencies and 2-norm distance as a measure of similarity ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Chuan Sheng Foo [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/project-report_sheng.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "An Empirical Analysis of Communities in Real-World Networks ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Ashton Anderson, Stefan Krawczyk [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/report_ashton.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing Stanford\u2019s Academic Network ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Sonal Gupta [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/report_Sonal_Gupta.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding Bias in Political News and Blog Websites ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Ryan Noon, Hamilton Ulmer [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/report_Ulmer.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing conferences in Twitter with Social Aviary ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Shayan Oveis Gharan, Farnaz Ronaghi Khameneh, Ying Wang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/report_Wang.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "What Memes Say about the News Cycle? ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Statistics, Rates, Authorities, and Spread ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/sigproc-sp_Visvanath.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "A Study of Meme Propagation",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Tal Rusak [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/tal_cs322_project.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Understanding the Structure of Links in Networks ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Eldar Sadikov, Maria Montserrat Medina Martinez,  [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/TwitterWriteup_Sadikov.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Information Propagation on Twitter ",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " An Empirical Study on Epinions.com ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2009/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2009/Weighing Edges_kung.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Weighing Edges",
+        "university": "Stanford University",
+        "year": 2009
+    },
+    {
+        "authors": " Abhik Lahiri, Rifat Reza Joyee, Pranav Khaitan  [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/25_FinalProjectReport.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Context to find Center-Piece Subgraph on Directed Multigraphs for Biomedical Literature ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Susan Biancani [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/03_Biancani_Final_Paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Research-Interest Similarity and Departmental Co-membership to Predict Collaborative Ties ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Eric Huang, Hyung Jin Kim, Hajoon Ko [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/07_projectwriteup.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Task Recommendation on Wikipedia ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Mahalia Miller, Conal Sathi, Daniel Wiesenthal [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/11_final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Sentiment Flow Through Hyperlink Networks ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Link Prediction and Importance Ranking ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/05_ProjectReport.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Citation Networks as a Multi-layer Graph",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Stanislav Moreinis [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/01_projectReport.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling the growth of Bump ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Adithya Rao, Sandeep Sripada, Gautam Kumar Parai [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/15_projectWriteup.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling and Analysis of Real World Networks using Kronecker Graphs ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Adam Guetz [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/33_final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Vertex Censored Stochastic Kronecker Product Graphs ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Robert West [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/21_report_CS224W-1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evaluating, Enabling, and Exploiting Wikipedia\u2019s Navigability ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Sanjay Kairam, James Notwell [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/Group19_FinalProject.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Churn Prediction in Mobile Phone Networks Using Social Signaling and Network Topology ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Alan Joyce [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/09_projectWriteup.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Experimental Evaluation of Network Properties in Public Transportation Systems ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " An Analysis of Viral Retweets on the Twittersphere ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/13_projectFinal.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "\u2018Me Too\u2019 2.0",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Chunyan Wang, Yiwei Yao, Ye Jin [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/17_final_writeup.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Reputation and Attention Wealth ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Dakan Wang, Yu Wu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/23_finalreport.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Two Models for Inferring Network Structure from Cascades ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Sungpack Hong [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/29_paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Tie-Strength and Strategies in Social Capital Management ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Tracking Popularity Through Twitter Subgraphs ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/27_final_paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "What TwitterWatches",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Evan Cox, Snir Kodesh, Dan Preston [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/31_final_project.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Win/Loss Records using Starcraft 2 Replay Data ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Haruki Oh, Chanh Nguyen [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/35_Final Paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Influence of Retweets ",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Huang-Wei Chang, Te-Yuan Huang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/02_final_project_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Information flows on Twitter",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Dean Eckles [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/06_eckles_project_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identifying Peer Influence Effects in Observational Social Network Data",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Suhaas Prasad, Divye Khilnani [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/10_projectReport.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Facebook Game Network Analysis",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Lauren Lam, Alex Loewi [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/14_Final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding an Optimal Subset of Training Parameters for Studying Civic Engagement with Link Prediction",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Salik Syed, Nikil Viswanathan and Tony Wu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/16_SyedViswanathanWu_CS224W.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing the Corporate Ecosystem",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Ravi Parikh, George Tang and Keegan Poppen [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/18_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling the Influence of Legal Opinions",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " The Effects of Sentiment on Information Propagation",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/22_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "SentNet",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Aileen Chen, Irving Lin, David Ye [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/26_ProjectFinalPaper_ClassifyingTwitterHashtagSemanticRelationships.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Classifying Twitter Hashtag Semantic Relationships",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Christopher Roach [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/38-final-paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Understanding Software Development Through Networks",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Daniel Bjorkegren [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/#",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Social and Transportation Networks",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Pei-Yu Wang, Giannis Neokleous and Amir Ghazvinian [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/08_final_paper.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Dynamics of Content Creation in Wikipedia",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/12_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community structure and information propagation in a twitter network Yihan Guan, Yiliang Jin [pdf]",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Siddharth Taduri [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/20_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Application of Patent Networks to Information Retrieval",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " David Chin-lung Fong, Felix Long-yin Yu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/24-finalWriteUp.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Discovering interesting structures and patterns within legal citation networks",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Karen Shiells and Peter Pham [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/28_writeup.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Unsupervised Clustering for Language Identification",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Beyang Liu, RJ Walsh [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/32_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Tracking the Flow of Political Money",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Abhishek Bhattacharyya, Nathan Howard and Ashish Kulkarni [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2010/proj2010/",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2010/proj2010/36_final_report.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Limits of and Enhancements to NetProbe for Analyzing Online Auction Networks",
+        "university": "Stanford University",
+        "year": 2010
+    },
+    {
+        "authors": " Anthony Chow, Kyle Tan, Chan Hao Yee [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/ac1408_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Solving the Efficient Allocation Of Resources Problem in Marketing ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Adrian Albert [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/adalbert_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Aggregate Volatility in Complex Power Grid Networks Under Uncertain Market Conditions ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Amit Chattopadhyay [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/amitch_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Examination of Business Metrics in Online Geosocial Networks  ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Abhishek Arora, Anshul Mittal, Raghav Pasari [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/anmittal_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "What makes a good researcher? ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Humberto Moreira, Rajesh Balwani, Subramanyan V Dronamraju [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/balwani_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Social and Information Network Analysis ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Neeral Beladia, Neera Vats [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/beladia_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Influence based Link Prediction using Supervised Learning  ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Chaofei Fan, Le Yu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/billyue_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inferring Social Networks Based on Movie Rating Data ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Ben Lasley, Ben Shapero,Charlton Soesanto [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/blasley_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evaluating a Grassroots PageRank Model for Predicting Election Results from Political Contributions ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Christie Brandt [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/cbrandt_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Group Evolution ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Chong-Kwan Tan [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/cktan_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding Community Structure on oDesk ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Caitlin Colgrove, Julia Neidert, Rowan Chakoumakos [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/colgrove_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Network Structure to Learn Category Classiffcation in Wikipedia ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Conrad Roche [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/conradr_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network Analysis of Semantic Web Ontologies ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Esther Hsu, AJ Minich, Daniel Ong [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/daniel89_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Cascade Analysis with Limited Network Data ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Using graph structure in user-product rating networks to generate product recommendations ",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/davidjc_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network-based recommendation",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Danny Goodman [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/degoodm_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "On Navigability in Small-World Networks ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Grace Gee, Chris Lengerich, Emma O'Neil [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/emmao_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identifying Cascades in Yelp Reviews",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Richard Barber, Austin Gibbons [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/gibbons4_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Automatic Annotation in Multirelational Information Networks ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Jack Guo [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/gxj_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predict Topic Trend in Blogosphere",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Hooyeon 'Haden' Lee [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/hlee0_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Twitter to Estimate and Predict the Trends and Opinions ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Kanak Biscuitwala, Vidya Ramesh, Kevin Tezlaf [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/ividya_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing Twitter Spam",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Jake Lussier, Jacob Bank [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/jbank_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Local Structure and Evolution for Cascade Prediction ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " A Fast Algorithm to Infer Social Networks from Cascades",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/jieyang_Finalwriteup_v3.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "FastInf",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Vipul Pandey, Juthika Dabholkar, Rex Kirshner [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/juthika_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Beyond community detection on undirected, unweighted graphs",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Kamil Pawlowski [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/kamilp_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Symphony &amp; Small Worlds as Overlay Networks",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": "\n  Kevin Leung [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/kkleung_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evolution of Internet Information Consumption Through Bookmarking ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Hongze Lai, Neel Murthy, Nisha Garimalla [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/laihz_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Predictive Power of Bias + Likeness ",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Sebastian Gil, Laney Kuenzel, Caroline Suen [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/laneyk_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Extraction and Analysis of Character Interaction Networks From Plays and Movies",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Leon Lin, Vasant Ramachandran, Sheldon Chang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/leonlin_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Properties of the Amazon Graph to Better Understand Reviews",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Andrew Dotey, Hassan Rom, Carmen Vaca [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/mrom_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Information difussion in Social Media",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Using Network Analysis to Explore the Role of Status and Reciprocity in Politicians' Voting Behavior",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/mworsley_Finalwriteup_v3.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Politics of Voting",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Nikhil Johri, Zahan Malkani, Ying Wang [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/njohri2_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Collaborative Filtering models for recommendations systems",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Juan Pablo Alperin, Nicole Rodia, Benjamin Quimby [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/nrodia_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection and Author Disambiguation in a High Energy Physics Citation Network",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Peter Lipay [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/plipay_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Investigating User Communities on Twitter",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Pierre Kreitmann [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/pmk_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network Alignment",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Binary Neural Networks",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/prgao_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inferring Network Structure from Observation I",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Jeffrey Wang, Bobby Prochnow[pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/prochnow_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Imperfect Decentralized Search",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Alexandre Becker, Jordane Giuly, Sebastien Robaszkiewicz [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/robinio_Finalwriteup_v4.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Hashtag Prediction in Twitter",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Shalini Kurian, Serene Kosaraju, Zavain Dar [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/skurian_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Supervised Random Walks on Homogeneous Projections of Heterogeneous Networks",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Clayton Mellina, Stacey Svetlichnaya [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/staceys_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Trope Propagation in the Cultural Space",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Troy Steinbauer [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/tbower_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Information and Social Analysis of Reddit",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Deepank Gupta, Travis Skare, Simone Wu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/travissk_Finalwriteup_v3.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Discovering Influential Members of Congress",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Tal Sansani [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/tsansani_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection in Economic Networks",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Jeongjin Ku, Wonhong Lee [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/wonhong_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Supervised Link Prediction by Social and Demographic Attributes",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Margaret Fu [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/xingfu_Finalwriteup_v1.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Social Recommendation System",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": " Chantat Eksombatchai, Norases Vesdapunt, Phumchanit Watanaprakornkul [pdf]",
+        "home_url": "http://snap.stanford.edu/class/cs224w-2011/proj/index.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2011/proj/yiam_Finalwriteup_v2.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Static Crawling on Social Graph",
+        "university": "Stanford University",
+        "year": 2011
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-001-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "CUDA Implementation of Large Graph Algorithms",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-002-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Eye-tracking Data of a collaborative learning situation",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Relating the Value of Topic and Quality of content to Social Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-004-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Influence on Information Diffusion",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-005-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Friendships in Large Social Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Human Compatibility in Online Chat Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-007-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Economic contagion in global trade networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Oscillators and Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-009-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identifying Influential Friends in Social Network Gaming",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-010-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Emergence of global status hierarchy in social networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-011-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Viral Marketing within Mobile Telephony Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-012-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Detection of opinion polarization",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-013-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Political Blog Leaning Classification by Graph Clustering",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-014-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Regarding spread of influence and its maximization in Social Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-015-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Social Aspects of GitHub",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-016-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding trends in the ITN",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-017-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Link Prediction on New Entities in the Yelp Review Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-018-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Efficacy of Local Leaders as Catalysts in Rumor Propagation on Twitter",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-019-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predict missed product rating in Amazon networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-020-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Friendship and mobility",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-021-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Entity Detection in Images using metadata and the crowd",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-022-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community detection and tracking user reviews for beer",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-023-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Wikispeedia: Dynamics of Giving up in Network Search",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-024-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Prediction and Analysis in Signed Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-025-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Content Popularity on Reddit",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-026-final.v02.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Data-driven Outbreak Detection in Social Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-027-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Cheers! Community Detection Using Online Beer Reviews",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-028-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Detecting Expert Reviewers in Beer",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-029-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Edge detection in review networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-030-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Valuable Entities in Stack Overflow",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-031-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Categorization of Wikipedia Articles",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-032-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network Theoretical Construction and Analysis of MRI-derived Cortical Networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-033-final.v08.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Social Network Analysis in Amazon Recommendations",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-034-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using biases to predict growth in evaluation-based networks",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-035-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Comparison of Multiple Parallelization method of Random Kronecker Graph Generator",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-036-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Sampling A Large Network: A Statistical Perspective",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-037-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Link Prediction on an Investment Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-038-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Understanding Wikipedia Link Evolution",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-039-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Yelp! Influence on a Bipartite Graph",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-040-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting ratings of peer-generated content with personalized metrics",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-041-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Cascades in Email Forwarding",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Influence of Microscopic Node Behavior and their Local Structure on the Evolution and Longevity of a Large Social Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-043-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Centrality Measures to Identify Key Members of an Innovation Collaboration Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-044-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Product Recommendation System",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-045-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evaluating Social Networks as a Medium of Propagation for Real-Time/Location-Based News",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-046-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Information Network Search",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-047-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Twitter Political Influence",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-048-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Binders Full Of Women: Convergence of Independently-Generated Hashtags on Twitter",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-049-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Rigorous Analysis of Kronecker Graphs And Their Algorithms",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-050-final.v01.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "An Analysis of GitHub's Collaborative Software Network",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Nature of Collaborative Coding on GitHub",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-052-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "De-anonymizing social networks via network alignment",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-053-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding Missing Nodes via Collaborative Filtering",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-054-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Diffusion of Tweets based on Content, Network Structure and Influence of Users",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-055-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Exploring Dependency Networks in Open-Source Software packages through Maven Repository",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2012/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2012/projects/cs224w-056-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Exploring Localized Search in a new Graph Model",
+        "university": "Stanford University",
+        "year": 2012
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-001-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing social support on the Experience Project",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-002-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Investigating Temporal Variations in the Twitter Hashtag Graph",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-031-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling Growth and Decline of Businesses in Yelp Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-038-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Collaborative Filtering Using Weighted Bipartite Graph Projection: A Recommendation System for Yelp",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-055-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Platonic Graph Inference",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-060-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Trust and Helpfulness in Amazon Reviews",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-041-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Graph based User Interest Modeling in Twitter",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-007-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evolution of startup communities in the AngelList network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-009-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predict User Compatibility in online IM-style Conversation",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-019-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Spectral Clustering of Wikipedia Articles Using the Edit History",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-024-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Reputability through Online Social Influence",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-026-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing the structure of microlending networks \nto improve user retention and loan outcomes",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-048-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analyzing the development of Wikipedia",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-065-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Detecting Communities via Absorbing Markov Chains",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-071-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Exploring the interconnectedness between companies and investors",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-011-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Bitcoin Network Inference and Deflation Dynamics",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-032-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community - Based Yel Personalization",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-039-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "De-Anonymizing bitcoin thieves",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-044-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Better Personalized Recommendations for\nQuestions to Answer on StackOverflow",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-040-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Study of Organizations in Bitcoin Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-050-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Structural and Dynamic Analysis of Foursquare Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-064-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Extending SNAP with RAMCloud to Support Large-Scale Graph Processing",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-030-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community detection in Bitcoin network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-059-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Where is the money? Modeling Bitcoin users",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-006-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "NIS Dataset Analysis",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-014-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Soundcloud Network Analysis/NOW YELP",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-015-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inferring Disease Contact Networks from Genetic Data",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-025-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Random Acts of Pizza: Analyzing the Success of Online Requests",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-027-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Member wayfinding in PCNS",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-028-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Status Differentiation Between Sub-communities in Stack Overflow",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-058-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Discovering Hidden Hubway Communities",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-068-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "What is karma? Quantifying online influence and credibility",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-005-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Transfer of Status Between Sub-Communities in Social Media",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-012-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Computer-Assisted Ideation through Idea Network Exploration",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-018-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Emergence of Programming Subcommunities on StackOverflow",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-034-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Impact of Status on the DYnamics of Information Cascades",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-035-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Link Recommendation in collaborative coding platforms like GitHub",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-047-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Diplomatic Social Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-054-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Utilizing Network Analysis to Model Congressional Voting Behavior",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-003-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Null Models For Social Networks",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-016-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Neural network structure inference from its time series",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-020-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Estimating generating measures in multifractal networks",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-029-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Illicit Activity in the Bitcoin Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-046-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Building Recommendation Systems From Open Source Contributions",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-056-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Simulating flight rerouting in a disrupted air traffic network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-070-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Efficient Implementations of Max-Flow for Very Large Graphs",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-023-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modelling chess with networks",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-033-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding great software engineers with GitHub",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-037-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "HipHop to Deep House: Navigating the Music Graph using Decentralized Search",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-042-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Recommendation System for Location-Based Social Network Service",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-051-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Building a Recommender System for Simtk",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-052-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evolution of Mainstream Music Homogeneity over Time",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-072-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Recommendation System Models in Product Rating Predictions",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-008-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Egonetwork Properties and Successful Filmmaking",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-010-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Solving the Cold Start Problem Using Product Related Contents",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-017-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Edge Properties in a Bipartite Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-021-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Interaction Quality in Online Social Networks",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-036-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Chatous Network Analysis",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-043-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Adding Dimensions to Ranking in Social Graphs",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-049-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Studying Evolution of Flickr Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-053-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Microfinance network analysis and optimal information seeding prediction",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://snap.stanford.edu/class/cs224w-2013/projects.html",
+        "proposal": "http://snap.stanford.edu/class/cs224w-2013/projects2013/cs224w-057-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Optimizing Conversations in Chatous's Random Chat Network",
+        "university": "Stanford University",
+        "year": 2013
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-2-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Networks and Promotion inside Large Bureaucratic Systems",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-4-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Tag Recommendations in Stack Overflow (89)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-5-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "CLAM!: Inferring Genres in the Discogs Collaboration Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-6-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Amazon Product Review Models to Characterize Amazon Reviewer Communities",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-7-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Spread and Quarantine of Anti-Vaccination Sentiment in Social Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-8-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding your food soulmate (65)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-9-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identification of Distinct Sub-Communities, High-Value Members and Significant Software Packages within the ROS (Robot Operating System) Community",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-10-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Evaluating Contraction Hierarchies on Real and Generated Road Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-11-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Reliability of San Franciso Bay-Area Road Network (21)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-12-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Playlist Interpolation With Double Clustering Song Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-13-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Combatting Web Spam with AffinityRank (44)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-14-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection of Singers and Artists (97)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-15-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Exploring communities in CMS Open Payments data using Community-Affiliation Graph Model (AGM)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-16-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Subreddit Recommendations within Reddit Communities",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-17-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Influence of Topical Interests on Users' Social Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-18-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Investigating Conversation Connectivity in Politically - and Socially-Charged Twitter Discussions",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-19-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Tracing the Spread of Fraudulent Activity within the Enron Email Corpus",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-20-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Using Deep Learning in Networks for Anomaly Detection: A Study of Bitcoin Systems",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-21-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Survey of Graph Clustering Algorithms Using Amazon Reviews",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Spread of influence in online fashion communities",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-23-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Discovering Emerging Businesses",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-24-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "India's #TwitterElection 2014",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-25-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding Top UI/UX Design Talent on Adobe Behance",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-26-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Decentralized Search in the Wikipedia Graph",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-27-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Reaction of a Network: Exploring the Relationship between the Bitcoin Network Structure and the Bitcoin Price",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-28-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Pinterest Analysis and Recommendation",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-29-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Building a Predictor for Movie Ratings",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "A network topology of index fluctuation patterns: contagion and inference",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-31-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Deep Learning with K-Means Applied to Graph Clustering",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-32-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Elite Users / Social nature of Yelp (36)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-33-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Facebook User Networks Based on Information Retrieval from Media Fan Pages: Network Analysis and Recommendation System",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-34-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Lifecycle within Social Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-35-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network analysis on Startups and VCs",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-36-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Who Should I chat with?",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-37-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Youtube Graph Network Model and Analysis",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-38-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modelling the evolution of a bipartite graph",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-39-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Measuring Growth Potential of Communities in the Patent Citation Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-40-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Comparing Performance Across Paradigms of Community Detection in Bipartite Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-41-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Learnings from Yelp Network Properties",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-42-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Picking Electoral Winners",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-43-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "When Learning Ends: Do Evidence Processing Biases Hinder ConsensusBuilding?",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-44-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Cascading Traffic Congestion in New York City Taxi Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-45-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting 2014 Ebola Breakout in West Africa",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-46-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Modeling Ebola using a Macro\u00ad and Micro\u00adlevel Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Inferring Network and Rankings of Tennis Players",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-48-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "The Influence of the Few - Relationships in Corporate Power Structures",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-49-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Demystifying movie ratings - A community approach",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-50-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network Analysis of Peer-to-Peer Lending Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Professional Matchmaker - Link Prediction in a Business to Business Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-52-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Survival Outcome Prediction for Cancer Patients based on gene interaction network analysis and expression profile identification",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-53-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identifying Negative Influencers in Mobile Customer Churn",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-54-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Kiva Lending and Team Network Structure",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-55-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Strategies for Modelling Signal Cascades in a Reconstructed Genetic Regulatory Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-56-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Kiva Lending and Team Network Structure",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-57-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Multilayer Network Analysis of Investment Patterns",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-58-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Future link regression using supervised learning on graph topology",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-59-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network Structure in matters of taste : Can social networks predict restaurant preferences",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-60-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of Peer-to-Peer Money Lending Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-62-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Identifying factors in congressional bill success",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-63-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "How much influence does $1 buy me?",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-64-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Case Studies of Signed Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-65-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "An Approximate Bayesian Computation Based Estimator for Respondent Driven Sampling",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-66-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Analysis of JSwipe and Social Dating Applications",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-67-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Meaning and noise in self-report public health data",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-68-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Generalized Cost Analysis for Decentralized Search over Metric-embedded networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-69-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Comparing predictive powers of Network Motif Distribution and structure of Overlapping Communities",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-70-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "An investigation of network fractality",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-71-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Remodeling Information Networks based on Collective Human Intelligence",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-72-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Long term evolution of networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-74-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Predicting Super Bowl Winners Through Graph Analysis",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-75-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Subgraph Frequencies and Network Classification",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-76-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Nonhomogenous Spreading in a Social Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-77-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Emergence of Hierarchy in Bacterial Metabolic Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-78-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Algorithms and data structures for graph analysis",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-79-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Classify My Social Contacts into circles",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-80-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection and Characteristics Analysis of Academic Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-81-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Network based real time spam filter on twitter",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-82-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Supervised link prediction on bipartite networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-83-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Structural Analysis of Criminal Network and Predicting Hidden Links using Machine Learning",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-84-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Item Graph Based Recommendation System for Bookopolis",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-85-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Spamming PageRank-like Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-86-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Link Prediction in the Yelp Social and Review Networks",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-87-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Hybrid Rating Prediction using Graph Regularization from Network Structure",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-88-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Finding current topics in news media via network of words",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-89-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Measuring Resilience to Censorship via Disruption of Historical Information Flows",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-90-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Relational Inference in Freebase Network",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-91-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection by Ensemble - Supervised model using Edge, Node and Graph Attributes (E-SEGNA)",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": [],
+        "home_url": "http://web.stanford.edu/class/cs224w/projects.html",
+        "proposal": "http://web.stanford.edu/class/cs224w/projects/cs224w-92-final.pdf",
+        "tag": [
+            "Social and Information Network Analysis",
+            "Artificial Intelligence"
+        ],
+        "title": "Community Detection vs. ground truth in physician referral networks",
+        "university": "Stanford University",
+        "year": 2014
+    }
+]

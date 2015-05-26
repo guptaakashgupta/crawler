@@ -1,0 +1,560 @@
+[
+    {
+        "date": "2014-09-15",
+        "desc": "This course is designed to help students with very little or no computing background learn the basics of building simple interactive applications.  Our language of choice, Python, is an easy-to learn, high-level computer language that is used in many of the computational courses offered on Coursera.  To make learning Python easy, we have developed a new browser-based programming environment that makes developing interactive applications in Python simple.  These applications will involve windows whose contents are graphical and respond to buttons, the keyboard and the mouse.The primary method for learning the course material will be to work through multiple \"mini-projects\" in Python.  To make this class enjoyable, these projects will include building fun games such as Pong, Blackjack, and Asteroids. When you\u2019ve finished our course, we can\u2019t promise that you will be a professional programmer, but we think that you will learn a lot about programming in Python and have fun while you\u2019re doing it.SyllabusOur course syllabus can be seen atwww.codeskulptor.org/coursera/interactivepython.html.",
+        "name": "An Introduction to Interactive Programming in Python",
+        "provider": "Coursera",
+        "rating": "4.9557142857143",
+        "reviews": "2100",
+        "university": [
+            "Rice University"
+        ],
+        "url": "https://www.coursera.org/course/interactivepython"
+    },
+    {
+        "date": "2014-09-15",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.\u672c\u8bfe\u7a0b\u7684\u6559\u5b66\u5185\u5bb9\u5305\u62ec\uff1a\u5f62\u5f0f\u8bed\u8a00\u4e0e\u81ea\u52a8\u673a\u7406\u8bba\u3001\u53ef\u8ba1\u7b97\u6027\u7406\u8bba\u3001\u8ba1\u7b97\u590d\u6742\u6027\u7406\u8bba\u7b49\u4e09\u4e2a\u90e8\u5206\u3002\u8fd9\u4e9b\u5185\u5bb9\u5206\u522b\u56de\u7b54\u4e0b\u5217\u95ee\u9898\uff1a\uff081\uff09\u6709\u54ea\u4e9b\u8ba1\u7b97\u88c5\u7f6e\uff1f\u5b83\u4eec\u7684\u80fd\u529b\u5982\u4f55\uff1f\uff082\uff09\u4ec0\u4e48\u662f\u8ba1\u7b97\uff1f\u54ea\u4e9b\u95ee\u9898\u662f\uff08\u4e0d\uff09\u53ef\u8ba1\u7b97\u7684\uff1f\uff083\uff09\u4ec0\u4e48\u662f\u6709\u6548\u8ba1\u7b97\uff1f\u54ea\u4e9b\u95ee\u9898\u662f\uff08\u4e0d\uff09\u53ef\u6709\u6548\u8ba1\u7b97\u7684\uff1f\u901a\u8fc7\u8fd9\u95e8\u8bfe\u7a0b\u7684\u5b66\u4e60\uff0c\u5b66\u751f\u5c06\u4e86\u89e3\u8ba1\u7b97\u7406\u8bba\u7684\u57fa\u7840\u77e5\u8bc6\uff0c\u638c\u63e1\u6709\u6548\u8ba1\u7b97\u7684\u6982\u5ff5\u3002\u672c\u8bfe\u7a0b\u7684\u6559\u5b66\u65b9\u5f0f\u5305\u62ec\u6559\u5b66\u5f55\u50cf\u7247\u6bb5\uff08\u6bcf\u6bb5\u5f55\u50cf8-20\u5206\u949f\uff0c\u5185\u542b1-2\u4e2a\u6d4b\u9a8c\u95ee\u9898\uff09\uff0c\u6559\u5b66\u5f55\u50cf\u4e4b\u5916\u7684\u4e66\u9762\u4f5c\u4e1a\uff0c\u4ee5\u53ca\uff08\u5fc5\u987b\u53c2\u52a0\u7684\uff09\u671f\u672b\u8003\u8bd5\u3002\u672c\u8bfe\u7a0b\u8bfe\u7a0b\u7684\u603b\u957f\u5ea6\u4e3a8\u5468\uff0c\u6bcf\u5468\u6559\u5b66\u5f55\u50cf\u957f\u5ea6\u5927\u7ea6120\u5206\u949f\u3002\u9700\u8981\u7684\u9884\u5907\u77e5\u8bc6\u662f\u79bb\u6563\u6570\u5b66\uff08\u96c6\u5408\u8bba\u3001\u6570\u7406\u903b\u8f91\u3001\u56fe\u8bba\u7b49\uff09\u7684\u57fa\u672c\u6982\u5ff5\u3002",
+        "name": "04830260x: \u7406\u8bba\u8ba1\u7b97\u673a\u79d1\u5b66\u57fa\u7840 | Introduction to Theoretical Computer Science",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Peking University"
+        ],
+        "url": "https://www.edx.org/course/li-lun-ji-suan-ji-ke-xue-ji-chu-pekingx-04830260x"
+    },
+    {
+        "date": "2014-09-15",
+        "desc": "\u8bfe\u7a0b\u4ecb\u7ecd\u89c6\u9891\u53ef\u4ee5\u8bbf\u95ee\u8fd9\u91cc\u3002\u64cd\u4f5c\u7cfb\u7edf\u662f\u8ba1\u7b97\u673a\u7cfb\u7edf\u7684\u57fa\u7840\u8f6f\u4ef6\uff0c\u800c\u7cfb\u7edf\u865a\u62df\u5316\u5df2\u6210\u4e3a\u4e91\u8ba1\u7b97\u5e73\u53f0\u7684\u6838\u5fc3\u6280\u672f\uff0c\u6ca1\u6709\u5b83\u4eec\u63d0\u4f9b\u7684\u5b89\u5168\u6027\uff0c\u8fd9\u4e9b\u8ba1\u7b97\u673a\u7cfb\u7edf\u53ca\u5176\u4e0a\u6570\u636e\u7684\u5b89\u5168\u6027\u90fd\u5c06\u65e0\u6cd5\u4fdd\u969c\u3002\u672c\u8bfe\u7a0b\u5c06\u4ece\u7406\u8bba\u4e0e\u5de5\u7a0b\u5b9e\u8df5\u76f8\u7ed3\u5408\u7684\u89d2\u5ea6\uff0c\u4ecb\u7ecd\u64cd\u4f5c\u7cfb\u7edf(Linux)\u4e0e\u7cfb\u7edf\u865a\u62df\u5316(Xen)\u5b89\u5168\u76f8\u5173\u7406\u8bba\u3001\u6280\u672f\u548c\u65b9\u6cd5\uff0c\u5305\u62ec\uff1a\u5b89\u5168\u6982\u5ff5\u3001\u5b89\u5168\u673a\u5236\u3001\u5b89\u5168\u6a21\u578b\u3001\u5b89\u5168\u4f53\u7cfb\u7ed3\u6784\u3001\u5b89\u5168\u5f00\u53d1\u65b9\u6cd5\u3001\u5b89\u5168\u6807\u51c6\u4e0e\u8bc4\u6d4b\u65b9\u6cd5\u7b49\uff0c\u5e2e\u52a9\u4f60\u6df1\u5165\u5b66\u4e60\u548c\u7406\u89e3\u8be5\u9886\u57df\u7684\u77e5\u8bc6\u4f53\u7cfb\u3001\u5b9e\u8df5\u6280\u672f\u548c\u65b9\u6cd5\u3002\u8fd9\u662f\u4e00\u95e8\u9002\u5408\u672c\u79d1\u751f\u3001\u4ee5\u53ca\u7814\u7a76\u751f\u7684\u8bfe\u7a0b\uff0c\u9002\u5408\u8ba1\u7b97\u673a\u3001\u8f6f\u4ef6\u5de5\u7a0b\u548c\u4fe1\u606f\u5b89\u5168\u7c7b\u4e13\u4e1a\uff1b\u540c\u65f6\u4e5f\u53ef\u4f9b\u6709\u5174\u8da3\u7684\u76f8\u5173\u7814\u7a76\u4eba\u5458\u3001\u5de5\u7a0b\u6280\u672f\u4eba\u5458\u3001\u7ba1\u7406\u4eba\u5458\u548c\u7231\u597d\u8005\u7b49\u5b66\u4e60\u548c\u501f\u9274\u3002\u8bfe\u7a0b\u7684\u5185\u5bb9\u4e3b\u8981\u57fa\u4e8e\u6559\u6750\u300a\u64cd\u4f5c\u7cfb\u7edf\u5b89\u5168\u8bbe\u8ba1\u300b\uff08\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e\uff0c2013.9\uff09\u3002\u8be5\u8bfe\u7a0b\u662f\u5317\u4eac\u5927\u5b66\u7cbe\u54c1\u8bfe\u7a0b\uff0cIntelUPO\u8d44\u52a9\u7684\u56fd\u5185\u9996\u6279\u8ba1\u7b97\u673a\u5b89\u5168\u7c7b\u8bfe\u7a0b\u4e4b\u4e00.Syllabus\u7b2c1\u5468. \u8ba1\u7b97\u673a\u7cfb\u7edf\u5b89\u5168\u7684\u91cd\u8981\u6027\u4e0e\u8bc4\u6d4b\u6807\u51c6\u7b2c2\u5468. \u8ba1\u7b97\u673a\u7cfb\u7edf\u57fa\u672c\u5b89\u5168\u6982\u5ff5\u548c\u8bbe\u8ba1\u601d\u60f3\u7b2c3\u5468. \u8bbf\u95ee\u63a7\u5236\u673a\u5236\uff08\u81ea\u4e3b\u8bbf\u95ee\u673a\u5236\uff0c\u5f3a\u5236\u8bbf\u95ee\u63a7\u5236\uff0c\u5ba2\u4f53\u91cd\u7528\uff09\u7b2c4\u5468. \u53ef\u8ffd\u7a76\u673a\u5236\uff08\u6807\u8bc6\u4e0e\u9274\u522b\uff0c\u53ef\u4fe1\u901a\u8def\uff0c\u5b89\u5168\u5ba1\u8ba1\uff09\u7b2c5\u5468. \u8fde\u7eed\u4fdd\u62a4\u673a\u5236\uff08I\uff09\uff08\u6700\u5c0f\u7279\u6743\u7ba1\u7406\uff0c \u7cfb\u7edf\u5b8c\u6574\u6027\uff09\u7b2c6\u5468. \u8fde\u7eed\u4fdd\u62a4\u673a\u5236\uff08II\uff09\uff08\u9690\u853d\u901a\u9053\u5206\u6790\uff1b\u53ef\u4fe1\u6062\u590d\uff09\u7b2c7\u5468. \u5b89\u5168\u6a21\u578b\uff08BLP\u6a21\u578b\uff0cBIBA\u6a21\u578b\uff0c\u4e2d\u56fd\u5899\u6a21\u578b\uff0cRBAC\u6a21\u578b\u4e0eDTE\u6a21\u578b\uff09\u7b2c8\u5468. \u5b89\u5168\u4f53\u7cfb\u7ed3\u6784\uff08Flask\u5b89\u5168\u4f53\u7cfb\u7ed3\u6784\u3001LSM\u5b89\u5168\u6846\u67b6\uff0cXSM\u5b89\u5168\u6846\u67b6\uff09\u7b2c9\u5468. \u53ef\u4fe1\u8ba1\u7b97\u6280\u672f\uff08\u8bbf\u8c08\u537f\u65af\u6c49\u6559\u6388\u3001\u738b\u7ecd\u658c\u535a\u58eb\uff09\u7b2c10\u5468. \u5b89\u5168\u64cd\u4f5c\u7cfb\u7edf\u7684\u8bbe\u8ba1\u4e0e\u5b9e\u73b0\u6280\u672f\u6848\u4f8b\uff08\u8bbf\u8c08\u537f\u65af\u6c49\u6559\u6388\uff09\u7b2c11\u5468. \u57fa\u4e8e\u5b89\u5168\u64cd\u4f5c\u7cfb\u7edf\u7684\u5e94\u7528-\u6570\u636e\u5e93\u5b89\u5168\uff08\u5f20\u654f\u8001\u5e08\u7684\u4e13\u9898\uff09\u7b2c12\u5468. \u7cfb\u7edf\u865a\u62df\u5316\u5b89\u5168\u4e0e\u865a\u62df\u53ef\u4fe1\u5e73\u53f0\u6280\u672f",
+        "name": "\u64cd\u4f5c\u7cfb\u7edf\u4e0e\u865a\u62df\u5316\u5b89\u5168",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Peking University"
+        ],
+        "url": "https://www.coursera.org/course/osvirtsecurity"
+    },
+    {
+        "date": "2014-09-19",
+        "desc": "Ce cours pr\u00e9sente des concepts de base de la programmation tels que&nbsp;&nbsp; : variables, expressions, structures de contr\u00f4le, fonctions/m\u00e9thodes, ...en les illustrant dans la syntaxe du langage C++.Ces notions simples seront pratiqu\u00e9es de fa\u00e7on intensive pour vous faire r\u00e9aliser de fa\u00e7on de plus en plus autonome&nbsp; les \u00e9tapes allant de la conception d'un programme (algorithme) \u00e0 sa mise en oeuvre concr\u00e8te.Ce cours est con\u00e7u pour \u00eatre prolong\u00e9 par les aspects orient\u00e9-objet, pr\u00e9sent\u00e9s dans le cours&nbsp;&nbsp;\u00abIntroduction \u00e0 la programmation orient\u00e9e objet (en C++)\u00bb.&nbsp;SyllabusIntroduction \u00e0 C++Structures de contr\u00f4leTableaux, cha\u00eenes de caract\u00e8resFonctions et r\u00e9utilisabilit\u00e9Structures de donn\u00e9esPointeurs et r\u00e9f\u00e9rences",
+        "name": "Initiation \u00e0 la programmation (en C++)",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+        ],
+        "url": "https://www.coursera.org/course/initprogcpp"
+    },
+    {
+        "date": "2014-09-20",
+        "desc": "This course forms a strong foundation in the understanding and design of modern computing systems. Building on a computer organization base, this course explores techniques that go into designing a modern microprocessor. Fundamental understanding of computer architecture is key not only for students interested in hardware and processor design, but is a foundation for students interested in compilers, operating systems, and high performance programming. This course will explore how the computer architect can utilize the increasing number of transistors available to improve the performance of a processor. Focus will be given to architectures that can exploit different forms of parallelism, whether they be implicit or explicit. This course covers architectural techniques such as multi-issue superscalar processors, out-of-order processors, Very Long Instruction Word (VLIW) processors, advanced caching, and multiprocessor systems.",
+        "name": "Computer Architecture",
+        "provider": "Coursera",
+        "rating": "5",
+        "reviews": "1",
+        "university": [
+            "Princeton University"
+        ],
+        "url": "https://www.coursera.org/course/comparch"
+    },
+    {
+        "date": "2014-09-22",
+        "desc": "Machine learning is the science of getting computers to act without being\n    explicitly programmed. In the past decade, machine learning has given us\n    self-driving cars, practical speech recognition, effective web search,\n    and a vastly improved understanding of the human genome. Machine learning\n    is so pervasive today that you probably use it dozens of times a day without\n    knowing it. Many researchers also think it is the best way to make progress\n    towards human-level AI. In this class, you will learn about the most effective\n    machine learning techniques, and gain practice implementing them and getting\n    them to work for yourself. More importantly, you'll learn about not only\n    the theoretical underpinnings of learning, but also gain the practical\n    know-how needed to quickly and powerfully apply these techniques to new\n    problems. Finally, you'll learn about some of Silicon Valley's best practices\n    in innovation as it pertains to machine learning and AI.This course provides a broad introduction to machine learning, datamining,\n    and statistical pattern recognition. Topics include: (i) Supervised learning\n    (parametric/non-parametric algorithms, support vector machines, kernels,\n    neural networks). (ii) Unsupervised learning (clustering, dimensionality\n    reduction, recommender systems, deep learning). (iii) Best practices in\n    machine learning (bias/variance theory; innovation process in machine learning\n    and AI). The course will also draw from numerous case studies and applications,\n    so that you'll also learn how to apply learning algorithms to building\n    smart robots (perception, control), text understanding (web search, anti-spam),\n    computer vision, medical informatics, audio, database mining, and other\n    areas.",
+        "name": "Machine Learning",
+        "provider": "Coursera",
+        "rating": "4.7894736842105",
+        "reviews": "57",
+        "university": [
+            "Stanford University"
+        ],
+        "url": "https://www.coursera.org/course/ml"
+    },
+    {
+        "date": "2014-09-22",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.Louv1.1x\u00a0(starting Sep. 22, 2014) and Louv1.2x (coming in Nov. 2014) together give an introduction to all major programming concepts, techniques, and paradigms in a unified framework. We cover the three main programming paradigms : functional, object-oriented, and declarative dataflow.The two courses are targeted toward people with a basic knowledge of programming. It will be most useful to beginning programming students, but the unconventional approach should be insightful even to seasoned professionals.Louv1.1x covers fundamental concepts. You\u2019ll learn functional programming, its techniques and its data structures. You\u2019ll use simple formal semantics for all concepts, and see those concepts illustrated with practical code that runs on the accompanying open-source platform, the Mozart Programming System.Louv1.2x covers data abstraction, state, and concurrency. You\u2019ll learn the four ways to do data abstraction and discuss the trade-offs between objects and abstract data types. You\u2019ll be exposed to deterministic dataflow, the most useful paradigm for concurrent programming, and learn how it avoids race conditions.To learn more about the practical organization of the two courses, watch the introductory video.At the end of Louv1.1x and Louv1.2x, the successful participant will be able to :Specify problems, break them down into their basic steps, and design algorithms and abstractions to solve themChoose the right programming paradigm and write a program in this paradigm to solve a problemUse formal semantics to reason about program correctnessWrite small concurrent programs in the deterministic dataflow paradigm",
+        "name": "Louv1.1x: Paradigms of Computer Programming \u2013 Fundamentals",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Universit\u00e9 catholique de Louvain"
+        ],
+        "url": "https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x"
+    },
+    {
+        "date": "2014-09-22",
+        "desc": "This course provides an overview of the evolving field of cybersecurity, with an introduction to cybersecurity standards and law. Students will learn about common cyber attacks and the techniques for identifying, detecting, and defending against cybersecurity threats. They will also gain a basic understanding of personal, physical, network, web, and wireless security, as well as a foundation for more advanced study of cybersecurity.",
+        "name": "Introduction to Cybersecurity",
+        "provider": "Canvas.net",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "National Cybersecurity Institute at Excelsior College"
+        ],
+        "url": "https://www.canvas.net/courses/introduction-to-cybersecurity-1"
+    },
+    {
+        "date": "2014-09-22",
+        "desc": "\u201dIf you are having difficulty viewing this video in mainland China, you can also find it&nbsp;here.\u8bfe\u7a0b\u4ecb\u7ecd\u89c6\u9891\u4e5f\u53ef\u4ee5\u8bbf\u95ee\u4e2d\u56fd\u7f51\u7ad9\u89c2\u770b\u3002\u672c\u8bfe\u7a0b\u9002\u7528\u4e8e\u7ffb\u8bd1\u7855\u58eb\u4e13\u4e1a\u7814\u7a76\u751f\u3001\u5916\u8bed\u4e13\u4e1a\u9ad8\u5e74\u7ea7\u672c\u79d1\u751f\u3001\u7ffb\u8bd1\u5de5\u4f5c\u8005\u4ee5\u53ca\u5916\u8bed\u7231\u597d\u8005\u7b49\u3002\u73b0\u4ee3\u8bed\u8a00\u670d\u52a1\u884c\u4e1a\u8981\u6c42\u4ece\u4e1a\u4eba\u5458\u5fc5\u987b\u5177\u6709\u5229\u7528\u8ba1\u7b97\u673a\u53ca\u7f51\u7edc\u6765\u4f7f\u7528\u5404\u7c7b\u6280\u672f\u8f85\u52a9\u5de5\u5177\u5e2e\u52a9\u5176\u5de5\u4f5c\u7684\u80fd\u529b\uff0c\u800c\u4e0d\u662f\u4ec5\u4ec5\u5b66\u4f1a\u51e0\u6b3e\u72ed\u4e49\u7684\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u8f6f\u4ef6\u3002\u672c\u8bfe\u7a0b\u4e3b\u8981\u8bb2\u6388\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u6280\u672f\u7684\u57fa\u7840\u6982\u5ff5\uff0c\u5b66\u4e60\u591a\u79cd\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u5de5\u5177\u7684\u4f7f\u7528\u65b9\u6cd5\uff0c\u953b\u70bc\u5b66\u751f\u5728\u6280\u672f\u73af\u5883\u4e0b\u4ece\u4e8b\u7ffb\u8bd1\u5de5\u4f5c\u7b49\u5404\u7c7b\u8bed\u8a00\u670d\u52a1\u5de5\u4f5c\u7684\u80fd\u529b\uff0c\u5e2e\u52a9\u5b66\u751f\u7406\u89e3\u4fe1\u606f\u5316\u65f6\u4ee3\u7684\u8bed\u8a00\u670d\u52a1\u5de5\u4f5c\u3002\u8bfe\u7a0b\u5b8c\u6574\u6db5\u76d6\u73b0\u4ee3\u8bed\u8a00\u670d\u52a1\u7684\u57fa\u672c\u60c5\u51b5\u4ecb\u7ecd\u3001\u7ffb\u8bd1\u6280\u672f\u57fa\u672c\u6982\u5ff5\u3001\u8bed\u8a00\u670d\u52a1\u9879\u76ee\u6267\u884c\u8fc7\u7a0b\u7684\u4fe1\u606f\u73af\u5883\u4e0e\u4fe1\u606f\u6280\u672f\u3001\u5982\u4f55\u5229\u7528\u7535\u5b50\u8f9e\u5178\u3001\u7f51\u7edc\u8d44\u6e90\u53ca\u8bed\u6599\u5e93\u5de5\u5177\u8f85\u52a9\u7ffb\u8bd1\u5de5\u4f5c\u3001\u72ed\u4e49\u548c\u5e7f\u4e49\u7684\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u5de5\u5177\u539f\u7406\u53ca\u5b9e\u6218\u6f14\u7ec3\u3001\u7ffb\u8bd1\u5185\u5bb9\u8d28\u91cf\u8bc4\u5b9a\u3001\u591a\u4eba\u534f\u540c\u7ffb\u8bd1\u9879\u76ee\u3001\u7ffb\u8bd1\u7ba1\u7406\u7b49\u591a\u65b9\u9762\u7684\u5185\u5bb9\u3002\u4f5c\u4e3a\u7ffb\u8bd1\u7c7b\u4e13\u4e1a\u5b66\u751f\u7684\u5fc5\u4fee\u8bfe\u7a0b\uff0c\u672c\u8bfe\u7a0b\u9002\u5408\u8bed\u8a00\u7c7b\u4e13\u4e1a\u5b66\u751f\u5b66\u4e60\u3002\u901a\u8fc7\u8bfe\u7a0b\u7684\u5b66\u4e60\uff0c\u6709\u52a9\u4e8e\u5b66\u4e60\u8005\u4e86\u89e3\u73b0\u4ee3\u8bed\u8a00\u670d\u52a1\u884c\u4e1a\uff0c\u589e\u5f3a\u5404\u7c7b\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u5de5\u5177\u7684\u4f7f\u7528\u6280\u80fd\uff0c\u63d0\u9ad8\u5305\u62ec\u7ffb\u8bd1\u5de5\u4f5c\u5728\u5185\u7684\u5404\u7c7b\u8bed\u8a00\u670d\u52a1\u5de5\u4f5c\u7684\u6548\u7387\u3002\u8be5\u8bfe\u7a0b\u662f\u201c\u5317\u5927-\u5fb7\u7a3b\u7f51\u7edc\u516c\u5f00\u8bfe\u7a0b\u201d\u4e2d\u7684\u4e00\u95e8\uff0c\u7531\u5317\u4eac\u5927\u5b66\u4e0e\u5fb7\u7a3b\u6559\u80b2\u8054\u5408\u63d0\u4f9b\u3002\u672c\u8bfe\u7a0b\u540c\u65f6\u53d7\u5230\u201c\u8bed\u8a00\u80fd\u529b\u534f\u540c\u521b\u65b0\u8ba1\u5212\u201d\u8d44\u52a9\u548c\u652f\u6301\u3002This course is suitable for postgraduate students who major in Translation and Interpreting, undergraduate students majoring in foreign language, translators and language enthusiasts.Those who work in modern language service industry are required to be capable of using computers and Internet to aid their translation job by adapting a variety of efficient tools, rather than just using word processor tools and several basic computer-aided translation software.This course teaches the basic concepts of computer-aided translation technology, helps students learn to use a variety of computer-aided translation tools, enhances their ability to engage in various kinds of language service in such a technical environment, and helps them understand what the modern language service industry looks like.This course covers introduction to modern language services industry, basic principles and concepts of translation technology, information technology used in the process of language translation, how to use electronic dictionaries, Internet resources and corpus tools, practice of different computer-aided translation tools, translation quality assessment, basic concepts of machine translation, globalization, localization and so on. As a compulsory course for students majoring in Translation and Interpreting, this course is also suitable for students with or without language major background. ",
+        "name": "\u8ba1\u7b97\u673a\u8f85\u52a9\u7ffb\u8bd1\u539f\u7406\u4e0e\u5b9e\u8df5 Principles and Practice of Computer-Aided Translation",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Peking University"
+        ],
+        "url": "https://www.coursera.org/course/catmooc"
+    },
+    {
+        "date": "2014-09-22",
+        "desc": "How it was never to learn the basics of programming playful.To participate in the course, you do not need special knowledge, only an internet connection and a computer.No special software needs to be installed on the computer.Necessary are only a current browser and an e-mail address with which you can log on openhpi.At the beginning of the free four-week course focuses on simple programming exercises.You learn to control a virtual turtle by your programming.In the following weeks you will be familiarized that will give you a basic understanding of the structure of programming with loops, and functions.In the openhpi course you'll see tutorials and check in the quiz, if you understood everything.Directly in the browser, you can then apply the learned knowledge and program drauflos.If you're stuck once, you can in the forum or the learning groups find support from other students.Upon successful completion you will receive after the course a openhpi certificate.SyllabusWeek 1:Programming and operating instructions.In the first week you will learn how a computer works and how he gets his instructions.Be presented with the programming of the keyboard, formulas, variables, and the turtle (turtle graphics)Week 2:This week you will learn how the computer can handle similar data one by one and itself makes decisions.Presents the conditional statement, loop and lists.Week 3:A major task consists of many small.This week you will learn how programs organized and the same code can be used multiple times.Are presented functions, parameters, and dictionaries.Week 4:Ask the user.In this last week of the course you will learn how the computer can react to user input.Are presented input from keyboard and mouse input, and error handling.",
+        "name": "Grundlagen des Programmierens",
+        "provider": "openHPI",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.hpi.de/courses/43f44f93-ae42-4141-8b61-ca9dea9dae4d"
+    },
+    {
+        "date": "2014-09-23",
+        "desc": "From Google Maps to consumer global positioning system (GPS) devices, spatial technology shapes many lives in both ordinary and extraordinary ways. Thanks to spatial computing, a hiker in Yellowstone and a taxi driver in Manhattan can know precisely where\n    they are, discover nearby points of interest and learn how to reach their destinations. Spatial computing technology is what powers the Foursquare check-in, the maps app on your smartphone, the devices used by scientists to track endangered species,\n    the routing directions that help you get from point A to point B, the precision agriculture technology that is revolutionizing farming, and the augmented reality devices like Google Glass that may soon mediate our interaction with the real world.This course introduces the fundamental ideas underlying spatial computing services, systems, and sciences. Topics covered will include the nature of geospatial information, proper statistical frameworks for working with geospatial data, key algorithms\n    and data structures, spatial data mining, and cartography/geovisualization. We will also address applied topics such as where to find spatial data, how to use powerful open source software to analyze and map spatial data, and frameworks for building\n    location-based services.Three Ways to Enjoy this Course:This course is designed to support three different types of students and educational goals:Curiosity Track: Most of us interact with spatial technologies every day. This track is for students who wish to learn about one or two spatial computing topics, but not commit to an entire course. Curiosity track students are not interested in\n    a certificate of accomplishment.Concepts Track: This track is for students who want to learn about spatial computing concepts in order to make informed choices, but who are not programmers and do not have extensive experience with statistical methods. For example, concepts track\n    students will learn about Tobler\u2019s First Law of ge",
+        "name": "From GPS and Google Maps to Spatial Computing",
+        "provider": "Coursera",
+        "rating": "5",
+        "reviews": "1",
+        "university": [
+            "University of Minnesota"
+        ],
+        "url": "https://www.coursera.org/course/spatialcomputing"
+    },
+    {
+        "date": "2014-09-23",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.This is the second of a two-part course, and corresponds to the second half of the Computer Programming course CS101 at IIT Bombay. This part begins with a brief review of basic programming concepts, discusses how to handle complex computational applications, and then introduces the basics of object oriented programming. Topics include:PointersStructuresFile processingHandling graphicsIntroduction to Object Oriented Programming ConceptsClasses and MethodsStandard Library of C++.Apart from solving relatively larger and more complex programming problems, participants will get exposure to building a typical programming project.",
+        "name": "CS101.2x: Introduction to Computer Programming, Part 2",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "IIT(Indian Institute of Technology Bombay)"
+        ],
+        "url": "https://www.edx.org/course/introduction-computer-programming-part-2-iitbombayx-cs101-2x"
+    },
+    {
+        "date": "2014-09-23",
+        "desc": "Welcome! The instructor has decided to teach the course in Mandarin on Coursera, while the slides of the course will be in English to ease the technical illustrations. We \nhope that this choice can help introduce Machine Learning to more \nbeginners in the Mandarin-speaking world. The English-written slides will not require advanced English ability to understand, though. If you can understand the following descriptions of this course, you can probably follow the slides.[\u6b61\u8fce\u5927\u5bb6\uff01\u9019\u9580\u8ab2\u5c07\u63a1\u7528\u82f1\u6587\u6295\u5f71\u7247\u914d\u5408\u83ef\u6587\u7684\u6559\u5b78\u8b1b\u89e3\uff0c\u6211\u5011\u5e0c\u671b\u80fd\u85c9\u9019\u6b21\u83ef\u6587\u6559\u5b78\u7684\u6a5f\u6703\uff0c\u5c07\u6a5f\u5668\u5b78\u7fd2\u4ecb\u7d39\u7d66\u66f4\u591a\u83ef\u4eba\u4e16\u754c\u7684\u5165\u9580\u8005\u3002\u8ab2\u7a0b\u4e2d\u4f7f\u7528\u7684\u82f1\u6587\u6295\u5f71\u7247\u4e0d\u6703\u4f7f\u7528\u5230\u8271\u6df1\u7684\u82f1\u6587\uff0c\u5982\u679c\u4f60\u80fd\u4e86\u89e3\u4ee5\u4e0b\u5169\u6bb5\u7684\u8ab2\u7a0b\u7c21\u4ecb\uff0c\u4f60\u61c9\u8a72\u4e5f\u53ef\u4ee5\u4e86\u89e3\u8ab2\u7a0b\u6240\u4f7f\u7528\u7684\u82f1\u6587\u6295\u5f71\u7247\u3002]Machine learning is an exciting field with lots of applications in engineering, science, finance, and commerce. It is also a very dynamic field, where many new techniques are being designed every day, and the hot techniques and theories at times can rise and disappear rapidly. Thus, users of machine learning from other fields often face the problem of choosing or using the techniques properly. In this course, we emphasize the necessary fundamentals that give any student of machine learning a \nsolid foundation, and enable him or her to exploit current techniques properly, explore \nfurther techniques and theories, or perhaps to contribute their own in the future.The course roughly corresponds to the first half-semester of the National Taiwan University course \"Machine Learning\", and the second half-semester is expected to be on Coursera under the name \"Machine Learning Techniques\" soon in the future. Based on five years of teaching this popular course successfully (including winning the most prestigious teaching award of National Taiwan University) and discussing with many other scholars actively, the instructor chooses to focus on what he believes to be the core topics that every student of the subject should know. The students shall enjoy a story-like flow moving from \"When Can Machines Learn\" to \"Why\", \"How\" and beyond.SyllabusEach of the following items correspond to approximately ",
+        "name": "\u6a5f\u5668\u5b78\u7fd2\u57fa\u77f3 (Machine Learning Foundations)",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "National Taiwan University"
+        ],
+        "url": "https://www.coursera.org/course/ntumlone"
+    },
+    {
+        "date": "2014-09-25",
+        "desc": "All SAP products are moving to SAP HANA, the most talked about SAP innovation in recent times. This evolution intensifies the demands on SAP NetWeaver Application Server ABAP (AS ABAP) to best leverage the features and capabilities of the SAP HANA database. As an ABAP developer you might ask, what is important and necessary to know concerning ABAP development for SAP HANA?This course is aimed at answering this and other related questions. You are welcome to follow the course without prior technical knowledge of ABAP development or SAP HANA, although prior knowledge is beneficial.After completing the course, you will understand the important concepts in ABAP development for SAP HANA, how to detect and analyze the performance of your ABAP coding, and which features AS ABAP provides for database-oriented programming.Registration, learning content, and the final exam are free of charge. However, to gain maximum benefit from the course, you can access a fee-based system environment where you can develop your own code. We&rsquo;ll explain how you can access this system environment in the first week of the course.Course RequirementsBasic knowledge of ABAP programming and Open SQLBasic programming skillsBeneficial: A general understanding of SAP HANA, for example, from the openSAP course&nbsp;\"An Introduction to SAP HANA by Dr. Vishal Sikka\"SyllabusWeek 1: Getting StartedThe first week is dedicated to getting you on board and introducing technical concepts and architecture information, primarily from an ABAP developer&rsquo;s point of view. As well as the important concepts of ABAP development for SAP HANA, there will be an introduction to the development tools.Week 2: ABAP Coding &ndash; Where to Optimize?What happens when you migrate coding to SAP HANA? This and related questions are answered in the second week of this course. There are a large variety of tools available in AS ABAP to detect and analyze ABAP coding, for example, to ensure functional correctness and to ana",
+        "name": "ABAP Development for SAP HANA",
+        "provider": "openSAP",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.sap.com/course/a4h1"
+    },
+    {
+        "date": "2014-09-25",
+        "desc": "This is an introductory course in machine learning (ML) that covers the basic theory, algorithms, and applications. ML is a key technology in Big Data, and in many financial, medical, commercial, and scientific applications. It enables computational systems to automatically learn how to perform a desired task based on information extracted from the data. ML has become one of the hottest fields of study today, taken up by undergraduate and graduate students from 15 different majors at Caltech. This course balances theory and practice, and covers the mathematical as well as the heuristic aspects. The lectures follow each other in a story-like fashion:What is learning?Can a machine learn?How to do it?How to do it well?Take-home lessons.The topics in the story line are covered by 18 lectures of about 60 minutes each plus Q&A.;Lecture 1: The Learning ProblemLecture 2: Is Learning Feasible?Lecture 3: The Linear Model ILecture 4: Error and NoiseLecture 5: Training versus TestingLecture 6: Theory of GeneralizationLecture 7: The VC DimensionLecture 8: Bias-Variance TradeoffLecture 9: The Linear Model IILecture 10: Neural NetworksLecture 11: OverfittingLecture 12: RegularizationLecture 13: ValidationLecture 14: Support Vector MachinesLecture 15: Kernel MethodsLecture 16: Radial Basis FunctionsLecture 17: Three Learning PrinciplesLecture 18: Epilogue",
+        "name": "CS1156x: Learning From Data",
+        "provider": "edX",
+        "rating": "4.2857142857143",
+        "reviews": "7",
+        "university": [
+            "California Institute of Technology"
+        ],
+        "url": "https://www.edx.org/course/learning-data-caltechx-cs1156x"
+    },
+    {
+        "date": "2014-09-29",
+        "desc": "We introduce the student to modern distributed file systems and MapReduce, including what distinguishes good MapReduce algorithms from good algorithms in general. &nbsp;The rest of the course is devoted to algorithms for extracting models and information from large datasets. &nbsp;Students will learn how Google's PageRank algorithm models importance of Web pages and some of the many extensions that have been used for a variety of purposes. &nbsp;We'll cover locality-sensitive hashing, a bit of magic that allows you to find similar items in a set of items so large you cannot possibly compare each pair. &nbsp;When data is stored as a very large, sparse matrix, dimensionality reduction is often a good way to model the data, but standard approaches do not scale well; we'll talk about efficient approaches. &nbsp;Many other large-scale algorithms are covered as well, as outlined in the course syllabus.SyllabusWeek 1:MapReduceLink Analysis -- PageRankWeek 2:Locality-Sensitive Hashing -- Basics + ApplicationsDistance MeasuresNearest NeighborsFrequent ItemsetsWeek 3:Data Stream MiningAnalysis of Large GraphsWeek 4:Recommender SystemsDimensionality ReductionWeek 5:ClusteringComputational AdvertisingWeek 6:Support-Vector MachinesDecision TreesMapReduce AlgorithmsWeek 7:More About Link Analysis -- &nbsp;Topic-specific PageRank, Link Spam.More About Locality-Sensitive Hashing",
+        "name": "Mining Massive Datasets",
+        "provider": "Coursera",
+        "rating": "4",
+        "reviews": "1",
+        "university": [
+            "Stanford University"
+        ],
+        "url": "https://www.coursera.org/course/mmds"
+    },
+    {
+        "date": "2014-10-01",
+        "desc": "Este curso capacita para un primer nivel de desarrollo de aplicaciones m&oacute;viles en HTML5, CSS y JavaScript accesibles desde PC, m&oacute;vil, tableta, SmartTv u otros dispositivos que soporten HTML5. El curso es para principiantes en HTML5 e ilustra los conceptos con ejemplos sencillos y multidisciplinares, tanto de programaci&oacute;n, como de dise&ntilde;o gr&aacute;fico o de dise&ntilde;o de la interacci&oacute;n. Los participantes aprender&aacute;n a dise&ntilde;ar interfaces con HTML y CSS, as&iacute; como a programar en JavaScript nuevas funcionalidades y aplicaciones. Se ense&ntilde;ar&aacute; a crear aplicaciones Web gen&eacute;ricas independientes de dispositivo, as&iacute; como a empaquetarlas para FirefoxOS. Empaquetarlas para Android o iPhone es sencillo, pero no se cubre en este curso.Firefox OS es el nuevo sistema operativo libre para tel&eacute;fonos m&oacute;viles y tabletas de la Fundaci&oacute;n Mozilla, que utiliza software libre y se programa en HTML5, utilizando HTML, CSS y Javascript, igual que las aplicaciones Web de los grandes portales de Internet, Google, Twitter, Facebook, Amazon. etc. Su calidad y car&aacute;cter abierto ha conseguido el apoyo de Telef&oacute;nica, Qualcomm, LG, Huawei Foxconn, etc.Este curso es el primero del programa \"Dise&ntilde;o de servicios en la nube para acceso m&oacute;vil y multi-dispositivo con HTML5 \"impulsado y patrocinado por&nbsp;Red.es,&nbsp;Universia,&nbsp;CENATIC,&nbsp;Telef&oacute;nica Digital&nbsp;y&nbsp;TLS. El programa consta de 5 cursos, que se ir&aacute;n incorporando progresivamente en Mir&iacute;adaX.Esta iniciativa est&aacute; recogida dentro de la medida &ldquo;Formaci&oacute;n para el Empleo&rdquo; del Plan de Inclusi&oacute;n Digital y Empleabilidad de la&nbsp;Agenda Digital para Espa&ntilde;a.&nbsp;Conocimientos necesarios:&nbsp;Si bien el curso ha sido dise&ntilde;ado para principiantes, se recomienda que los asistentes tengan nociones b&aacute;sicas de programaci&oacute;n aunque pued",
+        "name": "Desarrollo en HTML5, CSS y Javascript de WebApps, incluyendo m\u00f3viles FirefoxOS",
+        "provider": "Mir\u00edada X",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Universidad Polit\u00e9cnica de Madrid"
+        ],
+        "url": "https://www.miriadax.net/web/html5mooc"
+    },
+    {
+        "date": "2014-10-01",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.Robots today move far too conservatively, using control systems that attempt to maintain full control authority at all times. Humans and animals move much more aggressively by routinely executing motions which involve a loss of instantaneous control authority. Controlling nonlinear systems without complete control authority requires methods that can reason about and exploit the natural dynamics of our machines.This course introduces nonlinear dynamics and control of underactuated mechanical systems, with an emphasis on computational methods. Topics include the nonlinear dynamics of robotic manipulators, applied optimal and robust control and motion planning. Discussions include examples from biology and applications to legged locomotion, compliant manipulation, underwater robots, and flying machines.",
+        "name": "6.832x: Underactuated Robotics",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Massachusetts Institute of Technology"
+        ],
+        "url": "https://www.edx.org/course/underactuated-robotics-mitx-6-832x"
+    },
+    {
+        "date": "2014-10-02",
+        "desc": "Learn many of the concepts that underlie all programming languages. Use functional programming and contrast it with\nobject-oriented programming. Through experience writing programs and studying\nthree different languages, learn the key issues in designing and using\nprogramming languages, such as modularity and the complementary benefits\nof static and dynamic typing. This course is neither particularly theoretical\nnor just about programming specifics \u2013 it will give you a framework for\nunderstanding how to use language constructs effectively and how to design\ncorrect and elegant programs. By using different languages, you learn to\nthink more deeply than in terms of the particular syntax of one language.\nThe emphasis on functional programming is essential for learning how to\nwrite robust, reusable, composable, and elegant programs \u2013 in any language.Beginning with the Fall 2014 offering, verified certificates are available for this course.  The certificates look slightly different than for courses from other institutions.Here is an example.SyllabusNote: About half the students completing prior offerings report an estimated workload of 8-12\n    hours / week is accurate while most of the other half\n    spent more time -- 15 hours / week or more. Workload naturally differs for different people depending\n    on one's background. Do see the recommended-background section below.Topics (most of which may not mean anything to you until you take the\n    course):Syntax vs. semantics vs. idioms vs. libraries vs. toolsML basics (bindings, conditionals, records, functions)Recursive functions and recursive typesBenefits of no mutationAlgebraic datatypes, pattern matchingTail recursionFirst-class functions and function closuresLexical scopeCurryingSyntactic sugarEquivalence and effectsParametric polymorphism and container typesType inferenceAbstract types and modulesRacket basicsDynamic vs. static typingLaziness, streams, and memoizationImplementing languages, especially higher-order f",
+        "name": "Programming Languages",
+        "provider": "Coursera",
+        "rating": "4.875",
+        "reviews": "8",
+        "university": [
+            "University of Washington"
+        ],
+        "url": "https://www.coursera.org/course/proglang"
+    },
+    {
+        "date": "2014-10-06",
+        "desc": "Organisations around the world are collecting more data than ever. They are talking about big data, data science, business intelligence, analytics, data mining and data visualisation, and there&rsquo;s an urgent need for people with the data skills to understand, interpret and communicate this information.It&rsquo;s all about using statistical data to predict behaviours and extract insights about the real world. From businesses, governments and service organisations to researchers, data has become everybody&rsquo;s business.Data to Insight provides an introduction to statistical data analysis for those new to the subject as well as those wanting a reminder and a fresh perspective.The course focuses on data exploration and discovery, showing you what to look for in statistical data, however large it may be. We&rsquo;ll also teach you some of the limitations of data and what you can do to avoid being misled. We use data visualisations designed to teach you these skills quickly, and introduce you to the basic concepts you need to start understanding our world through data.Our goal is to help you learn to think like a statistician.This course will give you the opportunity to purchase aStatement of Participation.You can use the hashtag&nbsp;#FLdata2insight&nbsp;to join and contribute to social media conversations about this course.&nbsp;REQUIREMENTSThis course assumes very little experience with statistical ideas and concepts. The software you will use is powerful yet simple to use. It is already being used with ease by high school students around New Zealand.You will need to be comfortable thinking in terms of percentages, have basic Microsoft Excel skills, and a Windows or Macintosh computer to download and install our iNZight software.",
+        "name": "Data to Insight: An Introduction to Data Analysis",
+        "provider": "FutureLearn",
+        "rating": "4",
+        "reviews": "1",
+        "university": [
+            "University Of Auckland"
+        ],
+        "url": "https://www.futurelearn.com/courses/data-to-insight"
+    },
+    {
+        "date": "2014-10-06",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.CS184.1x teaches the Foundations of Computer Graphics. Students will make images of 3D scenes in real-time, and with offline raytracing. This course runs for 6 weeks and consists of four segments. Each segment includes an individual programming assignment:Overview and Basic Math (Homework 0: 10% of grade)Transformations (Homework 1: 20% of grade)OpenGL and Lighting (Homework 2: 35% of grade)Raytracing (Homework 3: 35% of grade)This term, students who earn a total score of 50% or greater will have passed the course and may obtain a free honor code certificate from BerkeleyX.Before your course starts, try the new edX Demo where you can explore the fun, interactive learning environment and virtual labs. Learn more.",
+        "name": "CS-184.1x: Foundations of Computer Graphics",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "University of California, Berkeley"
+        ],
+        "url": "https://www.edx.org/course/foundations-computer-graphics-uc-berkeleyx-cs184-1x"
+    },
+    {
+        "date": "2014-10-07",
+        "desc": "SAP HANA is an in-memory data platform that is deployable either as an appliance or in the cloud. At its core, it is an innovative, in-memory, relational database management system that exploits all the capabilities of current hardware to increase application performance, reduce total cost of ownership, and enable new scenarios and applications that were not possible before.SAP HANA enables you to build applications that integrate the business logic, the control logic, and the database layer with unprecedented performance. As a developer, one of the key issues is how to minimize data movements. The more you can do directly on the data in memory next to the CPUs, the better the application will perform.This course will build upon last year&rsquo;s&nbsp;Introduction to Software Development on SAP HANA&nbsp;course and go deeper into each of the major topics around SAP HANA native development. We will explore the many advances in the programming model and tooling that came with SAP HANA SPS6, SPS7, and SPS8.During the course, we will use SAP HANA studio as well as several new Web-based tools (for example, the Web-based Development Workbench, SAP HANA Lifecycle Management, and SAP HANA XS Administration Tool).We will also go well beyond the basics of each of the programming models, allowing discussion of deeper, real-world patterns and anti-patterns. We will look at the architecture of applications that are not just read-only or analytic but also transactional or provide an interface with transactional systems. We will also look at the extended capabilities of SAP HANA, from beyond a database to a complete application platform.Registration, learning content, final exam, and Record of Achievement are free of charge. However, to fully benefit from the course, you can access a fee-based system environment to develop your own code.Course RequirementsA basic knowledge of database technology, especially relational databases, SQL query language, and JavaScriptA general understa",
+        "name": "Next Steps in Software Development on SAP HANA",
+        "provider": "openSAP",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.sap.com/courses/hana2"
+    },
+    {
+        "date": "2014-10-08",
+        "desc": "\u968f\u7740\u4fe1\u606f\u6280\u672f\u53ca\u533b\u5b66\u5f71\u50cf\u6210\u50cf\u6280\u672f\u7684\u53d1\u5c55\uff0c\u533b\u5b66\u56fe\u50cf\u5904\u7406\u5728\u533b\u5b66\u4e34\u5e8a\u3001\u6559\u5b66\u548c\u79d1\u7814\u4e2d\u53d1\u6325\u7740\u8d8a\u6765\u8d8a\u91cd\u8981\u7684\u4f5c\u7528\uff0c\u6709\u529b\u5730\u63a8\u52a8\u7740\u533b\u5b66\u79d1\u5b66\u7814\u7a76\u548c\u4e34\u5e8a\u533b\u7597\u7684\u8fdb\u6b65\u3002\u5982\u4f55\u6709\u6548\u5730\u5e94\u7528\u56fe\u50cf\u589e\u5f3a\u3001\u5206\u5272\u3001\u914d\u51c6\u3001\u878d\u5408\u4ee5\u53ca\u4e09\u7ef4\u91cd\u5efa\u7b49\u6570\u5b57\u56fe\u50cf\u5206\u6790\u4e0e\u5904\u7406\u6280\u672f\uff0c\u5bf9\u4eba\u4f53\u89e3\u5256\u7ed3\u6784\u548c\u75c5\u53d8\u533a\u57df\u8fdb\u884c\u5b9a\u4f4d\u3001\u63d0\u53d6\u3001\u4e09\u7ef4\u518d\u73b0\u5e76\u91cf\u5316\u5206\u6790\u662f\u4f7f\u5f97\u533b\u5b66\u5f71\u50cf\u6570\u636e\u5e94\u7528\u4ef7\u503c\u6700\u5927\u5316\u7684\u524d\u63d0\u548c\u4fdd\u8bc1\u3002\u672c\u8bfe\u7a0b\u9488\u5bf9\u533b\u5b66\u56fe\u50cf\u7684\u7279\u5f81\uff0c\u7ed3\u5408\u4e34\u5e8a\u9700\u6c42\uff0c\u7531\u6d45\u5165\u6df1\u5730\u8bb2\u89e3\u533b\u5b66\u56fe\u50cf\u7684\u79cd\u7c7b\u3001\u7279\u5f81\u3001\u5e94\u7528\u9886\u57df\u3001\u6570\u5b57\u5316\u5b58\u50a8\u5f62\u5f0f\uff0c\u5e76\u5206\u7c7b\u8bb2\u89e3\u56fe\u50cf\u5904\u7406\u7684\u7406\u8bba\u548c\u7b97\u6cd5\uff0c\u7ed3\u5408\u5e94\u7528\u6848\u4f8b\u548c\u8bfe\u7a0b\u5b9e\u8df5\u4f7f\u5b66\u751f\u719f\u7ec3\u638c\u63e1\u7965\u5149\u9886\u57df\u7684\u77e5\u8bc6\u548c\u6280\u80fd\uff0c\u5e76\u5177\u5907\u4e00\u5b9a\u7684\u52a8\u624b\u80fd\u529b\uff0c\u4e3a\u8fdb\u4e00\u6b65\u5b66\u4e60\u533b\u5b66\u56fe\u50cf\u9886\u57df\u7684\u5176\u4ed6\u8bfe\u7a0b\u5960\u5b9a\u57fa\u7840\u3002The medical image analysis plays an important role in clinical application. The people who want to learn advance theory, algorithms and its applications on the digital image processing area is most suitable. The contents may include image acquiring, image filtering, image segmentation, image understanding and visualization. It could help students to review the history, current status and development of the research area, and could help them to apply them to their own research field. The students are required to understand the basic theory, algorithms and its applications on the digital image processing area.Syllabus\u7b2c\u4e00\u5468 \u7eea\u8bba\u7b2c\u4e8c\u5468 \u533b\u5b66\u56fe\u50cf\u57fa\u7840\u7b97\u6cd5\uff08\u4e0a\uff09\u7b2c\u4e09\u5468 \u533b\u5b66\u56fe\u50cf\u57fa\u7840\u7b97\u6cd5\uff08\u4e0b\uff09\u7b2c\u56db\u7ae0 \u4e8c\u503c\u6570\u5b66\u5f62\u6001\u5b66\u7b2c\u4e94\u7ae0 \u7070\u5ea6\u6570\u5b66\u5f62\u6001\u5b66\u7b2c\u516d\u5468 \u5f69\u8272\u56fe\u50cf\u548c\u4e09\u7ef4\u56fe\u50cf&nbsp;\u7b2c\u4e03\u5468 \u56fe\u50cf\u5206\u5272\u4e0e\u5f62\u72b6\u8f6e\u5ed3\u6a21\u578b\u7b2c\u516b\u5468 \u533b\u5b66\u56fe\u50cf\u914d\u51c6",
+        "name": "\u533b\u5b66\u56fe\u50cf\u5904\u7406\u6280\u672f Medical Image Analysis",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Shanghai Jiao Tong University"
+        ],
+        "url": "https://www.coursera.org/course/sjtumia"
+    },
+    {
+        "date": "2014-10-15",
+        "desc": "Broadly speaking, functional programming is a style of programming in which the primary method of computation is the application of functions to arguments. Among other features, functional languages offer a compact notation for writing programs, powerful abstraction methods for structuring programs, and a simple mathematical basis that supports reasoning about programs.Functional languages represent the leading edge of programming language design, and the primary setting in which new programming concepts are introduced and studied. All contemporary programming languages such as Hack/PHP, C#, Visual Basic, F#, C++, JavaScript, Python, Ruby, Java, Scala, Clojure, Groovy, Racket, \u2026 support higher-order programming via the concept of closures or lambda expressions.This course will use Haskell as the medium for understanding the basic principles of functional programming. While the specific language isn't all that important, Haskell is a pure functional language so it is entirely appropriate for learning the essential ingredients of programming using mathematical functions. It is also a relatively small language, and hence it should be easy for you to get up to speed with Haskell.Once you understand the Why, What and How that underlies pure functional programming and learned to \u201cthink like a fundamentalist\u201d, we will apply the concepts of functional programming to \u201ccode like a hacker\u201d in mainstream programming languages, using Facebook\u2019s novel Hack language as our main example.This course assumes no prior knowledge of functional programming, but assumes you have at least one year of programming experience in a regular programming language such as Java, .NET, Javascript or PHP.LICENSEThe course materials of this course are Copyright Delft University of Technology and are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Netherlands License.",
+        "name": "FP101x: Introduction to Functional Programming",
+        "provider": "edX",
+        "rating": "4.6666666666667",
+        "reviews": "3",
+        "university": [
+            "Delft University of Technology"
+        ],
+        "url": "https://www.edx.org/course/introduction-functional-programming-delftx-fp101x"
+    },
+    {
+        "date": "2014-10-15",
+        "desc": "Les r&eacute;seaux sociaux font plus que jamais bouger l&rsquo;organisation du savoir et de l&rsquo;information. Avec la g&eacute;n&eacute;ralisation de la conversation et l&rsquo;arriv&eacute;e de nouveaux m&eacute;dias sociaux, le web vit son deuxi&egrave;me chapitre 2.0. Ce cours introduit &agrave; cette nouvelle donne et r&eacute;sume les directions dans lesquelles la \"mati&egrave;re premi&egrave;re&rdquo; 2.0 est en train d&rsquo;&eacute;voluer...Condens&eacute; d&rsquo;&eacute;clairages sur les enjeux actuels du web participatif, l&rsquo;enseignement propos&eacute; alterne entre objets minuscules (captchas, &laquo; like &raquo;, tags) et des objets immenses, id&eacute;ologiques et &eacute;conomiques (l&rsquo;empowerment, les smart mobs, le Big data). Pour aider &agrave; la prise de d&eacute;cision strat&eacute;gique, le cours est accompagn&eacute; d&rsquo;un ensemble d&rsquo;interviews qui ont &eacute;t&eacute; r&eacute;alis&eacute;es au sein de l&rsquo;&eacute;cosyst&egrave;me de la Silicon Valley, autour de ses th&eacute;matiques principales. Vous pourrez d&eacute;couvrir les analyses des patrons et des analystes fran&ccedil;ais les plus en vue du web social aux Etats-Unis : Freddy Mini (Netvibes), de Dominique Piotet (RebellionLab, essayiste, co-auteur de l&rsquo;Alchimie des Multitudes avec Francis Pisani), de Carlos Diaz (Kwarter et leader du mouvement des Pigeon), de Guillaume Decugis (ScoopIt).Autour du cours, un parcours p&eacute;dagogique clair et complet a &eacute;t&eacute; &eacute;labor&eacute;, offrant de multiples &eacute;valuations, d&eacute;termin&eacute; en fonction du profil de chacun.Pr&eacute;requisAucun pr&eacute;requis sp&eacute;cifique n'est n&eacute;cessaire pour suivre ce cours.",
+        "name": "Sociologie du Web : Civilisation 2.0 et Intelligence collective",
+        "provider": "IONIS",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://courses.ionisx.com/courses/ionisx/103/p/about"
+    },
+    {
+        "date": "2014-10-16",
+        "desc": "Social networks are moving more than ever the organization of knowledge and information.With the spread of the conversation and the arrival of new social media, the web saw his second chapter 2.0.This course introduces to the new situation and summarizes the directions in which the \"raw material\" 2.0 is changing.Condensed light on current issues of the participatory web, the education offered alternate between tiny objects ('like', tag clouds) and huge objects, ideological and economic (empowerment, social Web, the Big data).To assist in strategic decision making, the course is accompanied by a set of interviews that were conducted within the Silicon Valley ecosystem around its main themes.You can explore the different looks for patterns and French analysts the most prominent of the social web in the United States: Freddy Mini (widgets), Dominique Piotet (RebellionLab, essayist, co-author of Alchemy of Hosts with Francis Pisani ), Carlos Diaz (Kwarte and leader of the movement Pigeon), Guillaume Decugis (ScoopIt).Around the course, a clear and comprehensive educational course has been developed with multiple assessments, determined according to the profile of each.",
+        "name": "Sociologie du Web : Civilisation 2.0 et Intelligence collective",
+        "provider": "IONIS",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "IONIS"
+        ],
+        "url": "https://courses.ionisx.com/courses/ionisx/103/p/about"
+    },
+    {
+        "date": "2014-10-20",
+        "desc": "\u00bfHas tenido que resolver un mismo problema varias veces?, por ejemplo, al salir de viaje o preparar una reuni\u00f3n con amigos. Y cada vez, \u00bftuviste que volver a pensar en todo lo que hay que hacer, cu\u00e1les pasos y en qu\u00e9 orden?Precisamente lo que busca este curso es proporcionarte las herramientas necesarias con las que identificar\u00e1s, analizar\u00e1s y plantear\u00e1s soluciones efectivas para estas situaciones. As\u00ed, al encontrarte con el mismo problema, ya sabr\u00e1s una manera de resolverlo.En este curso introductorio a la computaci\u00f3n, desarrollar\u00e1s el razonamiento estructurado necesario para analizar problemas b\u00e1sicos y resolverlos utilizando la reflexi\u00f3n l\u00f3gica y el pensamiento algor\u00edtmico. De igual manera, reconocer\u00e1s los elementos que est\u00e1n a tu alcance y c\u00f3mo los puedes utilizar efectivamente para lograr tus objetivos.Al finalizar el curso, aprender\u00e1s a plasmar soluciones en t\u00e9rminos computacionales a trav\u00e9s de diagramas de flujo o pseudoc\u00f3digo. Adem\u00e1s, podr\u00e1s trasladar estas soluciones a herramientas como hojas de c\u00e1lculo que te ser\u00e1n \u00fatiles en tus actividades diarias, personales y profesionales.SyllabusSemana 1 - Razonamiento algor\u00edtmico y metodolog\u00eda para la soluci\u00f3n de problemasAn\u00e1lisis y soluci\u00f3n de problemas empleando algoritmos y diagramas de flujoEntrada y salida de datosExpresiones aritm\u00e9ticas y operador de asignaci\u00f3nSoluci\u00f3n de problemas con expresiones aritm\u00e9ticasSemana 2 - Estructuras de control selectivasProblemas que involucran toma de decisionesEspecificaci\u00f3n y funcionamiento de la estructura de control selectivaOperadores relacionales (l\u00f3gicos)Semana 3 - Estructuras de control repetitivasProblemas que involucran situaciones repetitivasEspecificaci\u00f3n de un estatuto de repetici\u00f3n para formar ciclosContador y acumuladorSemana 4 - Aplicaci\u00f3n de estructuras c\u00edclicasSoluci\u00f3n de problemas utilizando estatutos de repetici\u00f3n simpleSemana 5 - Introducci\u00f3n al ambiente de hoja de c\u00e1lculoElementos b\u00e1sicos de una hoja de c\u00e1lculoReferencias absolutas y referencias relativasCr",
+        "name": "Pensamiento algor\u00edtmico",
+        "provider": "Coursera",
+        "rating": "5",
+        "reviews": "1",
+        "university": [
+            "Tecnol\u00f3gico de Monterrey"
+        ],
+        "url": "https://www.coursera.org/course/pealgoritmico"
+    },
+    {
+        "date": "2014-10-20",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.Capturing and analyzing data has changed how decisions are made and resources are allocated in businesses, journalism, government, and military and intelligence fields. Through better use of data, leaders are able to plan and enact strategies with greater clarity and confidence. Data drives increased organizational efficiency and a competitive advantage. Simply, analytics provide new insight and actionable intelligence.In education, the use of data and analytics to improve learning is referred to as learning analytics. Analytics have not yet made the impact on education that they have made in other fields. That\u2019s starting to change. Software companies, researchers, educators, and university leaders recognize the value of data in improving not only teaching and learning, but the entire education sector. In particular, learning analytics enables universities, schools, and corporate training departments to improve the quality of learning and overall competitiveness. Research communities such as the International Educational Data Mining Society (IEDMS) and the Society for Learning Analytics Research (SoLAR) are developing promising models for improving learner success through predictive analytics, machine learning, recommender systems (content and social), network analysis, tracking the development of concepts through social systems, discourse analysis, and intervention and support strategies. The era of data and analytics in learning is just beginning.Data, Analytics, and Learning provides an introduction to learning analytics and how it is being deployed in various contexts in education, including to support automated intervention, to inform instructors, and to pro",
+        "name": "LINK5.10x: Data, Analytics and Learning",
+        "provider": "edX",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "University of Texas Arlington"
+        ],
+        "url": "https://www.edx.org/course/data-analytics-learning-utarlingtonx-link5-10x"
+    },
+    {
+        "date": "2014-10-20",
+        "desc": "El curso \"Data Science en Agricultura\" dotrar&aacute; a los alumnos de los conocimientos esenciales sobre Data Science, de forma que estos puedan ser capaces de avanzar por s&iacute; mismos. La orientaci&oacute;n del curso es hacia el &aacute;mbito de la agricultura, dado que los casos pr&aacute;cticos que se emplear&aacute;n est&aacute;n relacionados con este &aacute;rea. En cualquier caso, no se requiere ning&uacute;n conocimiento espec&iacute;fico sobre agricultura y los conocimientos adquiridos son inmediatamente aplicables a cualquier otro &aacute;rea.Los temas principales ser&aacute;n:La importancia de \"Data Science\". El rol del \"Data Scientist\" y sus habilidades.Las herramientas y fuentes de datos empleadas en \"Data Science\".Casos de estudio: exploratorio, predictivo y descriptivo.El futuro de \"Data Science\".English translation:This course introduces the fundamentals of data science, using agriculture as the common thread. Concepts, tools, methods, processes, and data sources will be explored through lectures, readings, quizzes, and case study applications. Main topics will include:The importance of data scienceSkills and roles of data scientistsData science tools and data sourcesHow to identify and analyze case studiesThe outlook for data science",
+        "name": "Data Science en Agricultura",
+        "provider": "Canvas.net",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Universidad de Alcal\u00e1"
+        ],
+        "url": "https://www.canvas.net/courses/data-science-en-agricultura"
+    },
+    {
+        "date": "2014-10-20",
+        "desc": "This course is anovice-friendly and delightful introductionto computer science and to programming Android apps for smartphones and tablets.No prior programming knowledge is necessary.In this course you will have fun learning tocreate an app for modern Android devices, such as the Nexus tablet.You willuse the programming toolsthat Android software developers use to build your own useful app during this course. Along the way, we will introducefundamental computer science principles and programming ideasthat power today\u2019s smartphone and tablet apps.We will also peek beyond the borders of Android programming to the world of computer science. Meet computer science undergraduates, see one of the firstvacuum tube computers, the firsttransistor, and now-modernscientific researchon the Blue Waters supercomputer\u2014all at Illinois.Android Developer Track: Weeks 1\u20135(required for passing the course):This portion of the course is intended to give you aslow and gentle introduction to the basicsof Android application development such as downloading, installing, and setting up the tools you will use in this course. You will alsocreate your first Android appand share the results of your experience with your classmates\u2014all while writing hardly any code at all!Computer Science and Programming Track: Weeks 6\u20138(optional):During this latter portion of the course, you candelve deeper into computer science fundamentalsand beginner programming techniques. Together we will explore this content whiledeveloping another really cool projectto share.SyllabusThis course is composed of 2 tracks organized into 8 distinct weekly topics:Android Developer TrackWeek 1:An App for Hello WorldWeek 2:A Simple App for ILLIACWeek 3:A Working App for ILLIACWeek 4:An App for EmilyWeek 5:A Simple Web App and Debugging Code in 0gComputer Science and Programming TrackWeek 6:An App to Share My ViewsWeek 7:An App for Bitmaps and ImagesWeek 8:An App for Moving Pixels&nbsp;",
+        "name": "Creative, Serious and Playful Science of Android Apps",
+        "provider": "Coursera",
+        "rating": "4.5",
+        "reviews": "2",
+        "university": [
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "url": "https://www.coursera.org/course/androidapps101"
+    },
+    {
+        "date": "2014-10-20",
+        "desc": "The sequencing of the&nbsp;human genome fueled a computational revolution\n    in biology. As a result, modern biology produces as many new&nbsp;algorithms\n    as any other fundamental realm of&nbsp;science. &nbsp;Accordingly, the newly formed&nbsp;links\n    between computer science and biology affect the way we teach applied algorithms to computer\n    scientists.Genome sequencing is just one of hundreds of biological problems that\n    have become inextricable from the computational methods required to solve\n    them. In this course, we will uncover some of the algorithmic ideas\n    that are&nbsp;fundamental to an&nbsp;understanding of modern biology.&nbsp;\n    Computational concepts like dynamic programming and graph theory&nbsp;will\n    help us explore algorithms applied to&nbsp;a wide range of biological topics,\n    from finding regulatory motifs&nbsp;to determining whether the human genome has \"fragile\" regions.&nbsp; Throughout\n    the process, we will apply&nbsp;bioinformatics algorithms to&nbsp;realgenetic\n    data.Each chapter in thecourse textbookcovers a single biological question and slowly builds the algorithmic knowledge required to address this challenge. &nbsp;Along the way, coding challenges and exercises (many of which ask you to apply your skills to real&nbsp;genetic data) will be directly integrated into the text at the exact moment they are needed.SyllabusThe course will be based on six \"chapters\" covering the following central questions, with the algorithmic ideas that we will use to solve them in parentheses:Where Does DNA Replication Begin? (Algorithmic Warm-up)How Do We Sequence Antibiotics? (Brute Force Algorithms)Which DNA Patterns Act As Cellular Clocks? (Greedy and Randomized Algorithms)How Do We Assemble Genomes? (Graph Algorithms)How Do We Compare Biological Sequences? (Dynamic Programming Algorithms)Are There Fragile Regions in the Human Genome? (Combinatorial Algorithms)The grading for the course will be based on several weekly program",
+        "name": "Bioinformatics Algorithms (Part 1)",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "University of California, San Diego"
+        ],
+        "url": "https://www.coursera.org/course/bioinformatics"
+    },
+    {
+        "date": "2014-10-21",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.CS169.1x teaches the fundamentals for engineering long-lasting software using highly-productive Agile techniques to develop Software as a Service (SaaS) using Ruby on Rails. Students will understand the new challenges and opportunities of SaaS versus shrink-wrapped software. They will understand and apply fundamental programming techniques to the design, development, testing, and public cloud deployment of a simple SaaS application. Students will use best-of-breed tools that support modern development techniques including behavior-driven design, user stories, test-driven development, velocity, and pair programming. Students will learn how modern programming language features like metaprogramming and reflection can improve productivity and code maintainability. Students will work on weekly coding projects and quizzes. Those who successfully complete the assignments and earn a passing grade can get an honor code certificate or verified certificate from BerkeleyX. The videos and homeworks used in this offering of the course were revised in October 2013. The new class also includes embedded live chat with Teaching Assistants and other students and opportunities for remote pair programming with other students.Before your course starts, try the new edX Demo where you can explore the fun, interactive learning environment and virtual labs. Learn more.",
+        "name": "CS169.1x: Engineering Software as a Service",
+        "provider": "edX",
+        "rating": "4.75",
+        "reviews": "8",
+        "university": [
+            "University of California, Berkeley"
+        ],
+        "url": "https://www.edx.org/course/engineering-software-service-uc-berkeleyx-cs169-1x"
+    },
+    {
+        "date": "2014-10-21",
+        "desc": "*Note - This is an Archived course*This is a past/archived course. At this time, you can only explore this course in a self-paced fashion. Certain features of this course may not be active, but many people enjoy watching the videos and working with the materials. Make sure to check for reruns of this course.6.00.2x is aimed at students with some prior programming experience in Python and a rudimentary knowledge of computational complexity. We have chosen to focus on breadth rather than depth. The goal is to provide students with a brief introduction to many topics, so that they will have an idea of what\u2019s possible when the time comes later in their career to think about how to use computation to accomplish some goal. That said, it is not a \u201ccomputation appreciation\u201d course. Students will spend a considerable amount of time writing programs to implement the concepts covered in the course. Topics covered include plotting, stochastic programs, probability and statistics, random walks, Monte Carlo simulations, modeling data, optimization problems, and clustering.What will I learn? If you successfully complete this course, you will have:Developed some insight into the process of moving from an ambiguous problem statement to a computational formulation of a method for solving the problem,Learned a useful set of algorithmic and problem reduction techniques,Learned how to use simulations to shed light on problems that don\u2019t easily succumb to closed form solutions,Learned how to use computational tools, including simple statistical, machine learning, and plotting tools, to model and understand data.All required readings are available within the courseware, courtesy of The MIT Press. A print version of the course textbook, Introduction to Computer Science and Programming Using Python, is also available for purchase. The MIT Press is offering enrolled students a special 30% discount on books ordered directly through the publisher\u2019s website. To take advantage of this offer, ple",
+        "name": "6.00.2x: Introduction to Computational Thinking and Data Science",
+        "provider": "edX",
+        "rating": "4",
+        "reviews": "2",
+        "university": [
+            "Massachusetts Institute of Technology"
+        ],
+        "url": "https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x"
+    },
+    {
+        "date": "2014-10-24",
+        "desc": "Pr\u00e9sentation et mise en pratique en Java des concepts de base de la programmation orient\u00e9e objet&nbsp;: objets, classes, m\u00e9thodes, encapsulation, polymorphisme, ...Bien que nous vous garantissons les bases pour programmer de fa\u00e7on autonomedans le langage Java, ce cours&nbsp; se concentre avant tout sur les concepts de programmation, plut\u00f4t que sur les d\u00e9tails du langage lui-m\u00eame.&nbsp;&nbsp;Ainsi, apr\u00e8s avoir suivi ce cours, vous devriez \u00e9galement pouvoirfacilement aborder par vous-m\u00eames de nouveaux langages deprogrammation.Il est la continuation logique du cours d'introduction&nbsp;\u00abInitiation \u00e0 la programmation (en Java)\u00bb.SyllabusIntroduction au concept de \u00abProgrammation Orient\u00e9e Objet\u00bbPrincipes d'encapsulation et d'abstractionH\u00e9ritagePolymorphismeModificateurs (abstract et final)Interfaces et le modificateur static",
+        "name": "Introduction \u00e0 la programmation orient\u00e9e objet (en Java)",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+        ],
+        "url": "https://www.coursera.org/course/intropoojava"
+    },
+    {
+        "date": "2014-10-27",
+        "desc": "Ce cours vous fera d\u00e9couvrir diff\u00e9rents aspects de la conception d'un programme. Au travers de nombreuses \u00e9tudes de cas, nous mettrons en exergue les structures de donn\u00e9es et les algorithmes permettant d'apporter des solutions. Comme souvent en informatique, il n'existe pas de solution unique et nous serons amen\u00e9s \u00e0 d\u00e9couvrir diff\u00e9rentes classes d'algorithme et \u00e0 les comparer.Nous introduirons \u00e0 cet effet\u00a0la notion\u00a0de complexit\u00e9 d'un programme, c'est \u00e0 dire \u00e0 la fois une estimation du temps d'ex\u00e9cution de votre programme et de l'espace requis par celui-ci. Il est tentant de croire que le \"meilleur\" programme est celui qui minimise le temps d'ex\u00e9cution mais tr\u00e8s souvent cette complexit\u00e9 est contrainte par la m\u00e9moire dont vous disposez. Ainsi, vous n'utiliserez peut-\u00eatre pas le m\u00eame algorithme selon que votre programme s'ex\u00e9cute sur un ordinateur ou un t\u00e9l\u00e9phone !SyllabusDescription:Ce cours pr\u00e9sentera les structures de donn\u00e9es les plus classiques comme les\u00a0\u00a0tableaux, listes, piles, files, et arbres pour aller vers les graphes.En parall\u00e8le, on d\u00e9couvrira les grands concepts de l'algorithmique \u00e0 travers des \u00e9tudes cas. Nous passerons ainsi en revue les tris, parcours, les arbres de recherche quaternaires,les algorithmes gloutons ainsi que les bases de la programmation dynamique.",
+        "name": "Conception et mise en \u0153uvre d'algorithmes.",
+        "provider": "Coursera",
+        "rating": "5",
+        "reviews": "1",
+        "university": [
+            "\u00c9cole Polytechnique"
+        ],
+        "url": "https://www.coursera.org/course/algoprog"
+    },
+    {
+        "date": "2014-10-27",
+        "desc": "Les microcontr\u00f4leurs sont devenus assez simples \u00e0 mettre en\noeuvre, gr\u00e2ce en particulier \u00e0 des environnements de d\u00e9veloppement comme\nl'Arduino. Mais seule une compr\u00e9hension en profondeur permet de tirer parti au\nmaximum de leur potentiel dans de nombreuses applications, tant dans le cadre\nd'un hobby que dans un cadre industriel.SyllabusRappel d'\u00e9lectricit\u00e9 et \u00e9lectroniqueSyst\u00e8mes logiques et architectureMachines binairesProgrammation en CEntr\u00e9es-sortiesApplicationsMise au pointTimers, interruptionsSignaux analogiquesAffichagesCommunicationsRobotique",
+        "name": "Comprendre les Microcontr\u00f4leurs",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "\u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne"
+        ],
+        "url": "https://www.coursera.org/course/microcontroleurs"
+    },
+    {
+        "date": "2014-10-27",
+        "desc": "Die Enth&uuml;llungen durch Edward Snowden haben noch einmal verdeutlicht, dass Sicherheit im Internet ein wichtiges Thema ist. Internetnutzer sind sich eher der vielf&auml;ltigen M&ouml;glichkeiten bewusst, die das Internet bietet, weniger jedoch seiner potentiellen Gefahren. Dieser openHPI-Kurs f&uuml;hrt in die Grundbegriffe der Internetsicherheit ein: Hier lernen Sie nicht nur, was formelle Sicherheitsziele sind sondern auch, warum das Internet von seinem Grunddesign unsicher ist, was die h&auml;ufigsten Schwachstellen sind und wie diese ausgenutzt werden k&ouml;nnen und schlie&szlig;lich auch, wie Sie sich sch&uuml;tzen k&ouml;nnen.",
+        "name": "Einfu\u0308hrung in die Internetsicherheit",
+        "provider": "openHPI",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://openhpi.de/courses/78591fd0-bf4d-4f7f-9e00-2bf71876a3c7"
+    },
+    {
+        "date": "2014-10-27",
+        "desc": "Press releases about the theft of sensitive data in unprecedented magnitude clarify again that Internet security is an important issue.Internet users are more likely aware of the many opportunities offered by the network, but less of its potential dangers.This openhpi course introduces the basic concepts of Internet Security: Here you can not only learn what formal security goals are, but also why the Internet is insecure in its basic design.The most common vulnerability of the Internet to demonstrate how this can be exploited and finally, how you can protect yourself.The course first explains basic concepts such as \"vulnerability\", \"attack\" or \"security incident\" and clarifies who attackers on the Internet are, what they do and can thereby underlie the motives.Next, the course examines in week 2 with digital identities and passwords: How to (easily) Passwords can be cracked and how to choose a secure password?In week 3, it then goes to malware (malicious software) - ie viruses, worms and Trojans as well as their connection with the so-called botnets.Continue then in week 4 with the dangers that threaten the insecure transport routes in the open internet: How can attacker might listen to news or even engage in compounds and manipulate the communication?In addition, it comes in this week to protective measures such as firewalls and encryption for the insecure communication channels.The topic of encryption is then absorbed in the weeks 5 and 6 further: First, the course explains the conceptual underpinnings of encryption method and shows following the techniques in practice, eg based on PGP, a commonly used tool for E-mail Security .No special knowledge is required for this course.SyllabusWeek 1:Basic concepts of Internet securityWeek 2:passwords and digital identitiesWeek 3:malware - viruses, worms, Trojans and BotnetsWeek 4:Open Internet, unsafe transportation routesWeek 5:Introduction to EncryptionWeek 6:Encryption in practice",
+        "name": "Sicherheit im Internet",
+        "provider": "openHPI",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.hpi.de/courses/intsec2014"
+    },
+    {
+        "date": "2014-10-29",
+        "desc": "\u4eba\u5de5\u667a\u6167\u53ef\u5206\u70ba\u5f37\u4eba\u5de5\u667a\u6167\u53ca\u5f31\u4eba\u5de5\u667a\u6167\u3002\u5f37\u4eba\u5de5\u667a\u6167\u8457\u91cd\u65bc\u6a21\u64ec\u4eba\u985e\u667a\u80fd\uff0c\u800c\u5f31\u4eba\u5de5\u667a\u6167\u5247\u8457\u91cd\u65bc\u985e\u4f3c\u667a\u80fd\u7684\u61c9\u7528\u8868\u73fe\u3002\u9054\u6210\u667a\u80fd\u7684\u8868\u73fe\u6709\u8a31\u591a\u65b9\u6cd5\uff0c\u5176\u4e2d\u4e00\u7a2e\u5feb\u901f\u6709\u6548\u7684\u65b9\u6cd5\u5373\u70ba\u641c\u5c0b\uff0c\u4e5f\u662f\u9019\u9580\u8ab2\u7684\u91cd\u9ede\u3002\u672c\u8ab2\u7a0b\u5c07\u7d66\u4e88\u4eba\u5de5\u667a\u6167\u4e00\u822c\u6027\u7684\u4ecb\u7d39\uff0c\u4e26\u4e14\u6df1\u5165\u63a2\u7d22\u4e09\u7a2e\u5e38\u7528\u7684\u641c\u5c0b\uff1a\u4e0d\u5229\u7528\u554f\u984c\u7279\u6027\u7684uninformed search\uff0c\u4f7f\u7528\u554f\u984c\u7279\u6027\u7684informed search\uff0c\u53ca\u91dd\u5c0d\u96f6\u548c\u5c0d\u5c40\u7684adversarial search\u3002\u8ab2\u7a0b\u4e2d\u9664\u4e86\u8b1b\u89e3\u5404\u7a2e\u641c\u5c0b\u7684\u6280\u8853\u4e4b\u5916\uff0c\u4e5f\u6703\u540c\u6642\u63a2\u8a0e\u5b83\u5011\u7684\u512a\u7f3a\u9ede\u53ca\u61c9\u7528\u7bc4\u570d\uff0c\u4f7f\u540c\u5b78\u6613\u65bc\u61c9\u7528\u5176\u76f8\u95dc\u6280\u8853\u3002\u53e6\u5916\uff0c\u5e38\u4f7f\u7528\u5728\u5c08\u5bb6\u7cfb\u7d71\u4e2d\u7684\u908f\u8f2f\u4e5f\u5c07\u65bc\u6b64\u6b21\u8ab2\u7a0b\u4e00\u4f75\u4ecb\u7d39\u3002\u6211\u5011\u6703\u5f9e\u6700\u57fa\u672c\u7684\u8b49\u8a00\u908f\u8f2f\u958b\u59cb\uff0c\u9032\u800c\u4ecb\u7d39\u73fe\u5be6\u751f\u6d3b\u4e2d\u76f8\u7576\u5be6\u7528\u7684\u4e00\u968e\u908f\u8f2f\uff0c\u4e26\u8457\u91cd\u5728\u5176\u4e2d\u7cfb\u7d71\u6027\u7684\u63a8\u8ad6\u904e\u7a0b\uff0c\u540c\u6642\u6211\u5011\u9084\u6703\u4ecb\u7d39\u4e0d\u540c\u63a8\u8ad6\u6f14\u7b97\u6cd5\u7684\u7279\u6027\u53ca\u5b83\u5011\u7684\u80fd\u529b\u3002\u6700\u5f8c\uff0c\u5c07\u6703\u4ecb\u7d39\u4eba\u5de5\u667a\u6167\u5e38\u7528\u7684\u908f\u8f2f\u6027\u8a9e\u8a00prolog\uff0c \u4ee5\u53ca\u5b83\u7684\u5be6\u4f5c\uff0c\u8b93\u540c\u5b78\u5011\u80fd\u5728\u672c\u6b21\u8ab2\u7a0b\u4e2d\uff0c\u5c0d\u4eba\u5de5\u667a\u6167\u9818\u57df\u6709\u66f4\u9032\u4e00\u6b65\u7684\u8a8d\u8b58\u3002SyllabusIntroduction &amp; Intelligent agentsUninformed searchInformed searchBeyond classical searchAdversarial searchPropositional LogicFirst Order Logic",
+        "name": "\u4eba\u5de5\u667a\u6167(Artificial Intelligence)",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "National Taiwan University"
+        ],
+        "url": "https://www.coursera.org/course/ai"
+    },
+    {
+        "date": "2014-10-29",
+        "desc": "SAP Business Intelligence delivers insight into every aspect of your organization by distributing information on premise, on device, and via the cloud. With native integration to SAP HANA, users have the ability to model business scenarios in real-time, adding tremendous value to your business.In this course, you will gain hands-on experience in deploying business intelligence (BI) on SAP HANA, leveraging it both as a data source and as a platform. Learn how SAP BusinessObjects BI 4.1 is optimized for SAP HANA, and explore new features that take advantage of the speed and agility offered by SAP HANA. Benefit from best practices around design, development, and troubleshooting of BI content from SAP&rsquo;s Strategic Customer Engagements (SCE) team. Simplify your SAP BusinessObjects BI toolkit with scenarios that help you select the right client for a particular business need.You will also have the opportunity to experience SAP Lumira in the Desktop, Cloud, and Server releases, to create amazing visualizations that can be consumed anywhere. Take full advantage of the functionality offered in the latest release to update your business intelligence strategy and change the way your organization thinks about BI.The registration, learning content, and final exam are free of charge. As an optional add-on, you will be able to leverage a series of hands-on exercises to reinforce your learning on a trial image for a very reasonable cost, if desired. However, you can complete the course successfully without taking part in the hands-on exercises.Course Requirements:Experience using SAP BI products and client toolsUnderstanding of core database concepts such as SQL, joins, and functionsKnowledge of Web development concepts such as HTML5, JavaScript, and CSS is an advantage, but not essential.SyllabusWeek 1: SAP HANA as an Analytics PlatformWeek 2: Self-ServiceWeek 3: Dashboards and ApplicationsWeek 4: Semantic Layer and ReportingWeek 5: Mobility and CloudWeek 6: User Experience T",
+        "name": "BI Clients and Applications on SAP HANA",
+        "provider": "openSAP",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.sap.com/courses/bifour2"
+    },
+    {
+        "date": "2014-10-31",
+        "desc": "Part II covers graph-processing algorithms, including minimum spanning tree and shortest paths algorithms, and string processing algorithms, including string sorts, tries, substring search, regular expressions, and data compression, and concludes with an overview placing the contents of the course in a larger context.",
+        "name": "Algorithms, Part II",
+        "provider": "Coursera",
+        "rating": "4.8333333333333",
+        "reviews": "6",
+        "university": [
+            "Princeton University"
+        ],
+        "url": "https://www.coursera.org/course/algs4partII"
+    },
+    {
+        "date": "2014-11-03",
+        "desc": "In this course you will learn how to program in Python.We will take the first steps in the language to the study of the most advanced through numerous short videos concepts, exercises and mini-projects.Python has many stores that are already probably what you want.You can create a website with Django, working with databases with SQLAlchemy, developing applications on the Internet with Twisted, make network applications with Scapy, making scientific and symbolic computing with NumPy, SciPy or Sage, and more .However, to fully exploit these libraries you must acquire a deep understanding of language.Python encourages intuitive programming based on a natural syntax and powerful basic concepts that facilitate programming.It is important to master these concepts to quickly write efficient programs are easy to understand and maintain, and that fully exploit the possibilities of language.We will cover in this course all aspects of language, basic types meta-classes, but is structured around three basic concepts that are the strength of Python:the concept of dynamic typing and shared references that provide a fast, easily extensible programming and memory-efficient;the iterator concept that allows a natural and intuitive programming where browse a file is as easy as making a loop over and takes one line of code;the concept of namespace which allows safer programming, minimizing unwanted between different parts of a program interactions.&nbsp;At the end of this Mooc, you will master the fundamentals of the language and you will use them to harness the power of the Python language.Prerequisite:Basic computer: install an application, what is a file system, how to configure a path through a PATH variable, etc.Familiarity with certain mathematical concepts such as variables and functionsLogical loop, condition, basic (and, or, etc.): the concepts of algorithmicGood capacity for abstractionSyllabusWeek 1Introduction and Getting StartedWeek 2Basic typesWeek 3Shared references and ",
+        "name": "Python : des fondamentaux \u00e0 l'utilisation du langage",
+        "provider": "France Universit\u00e9 Numerique",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Inria (French Institute for Research in Computer Science and Automation)"
+        ],
+        "url": "https://www.france-universite-numerique-mooc.fr/courses/inria/41001/Trimestre_4_2014/about"
+    },
+    {
+        "date": "2014-11-03",
+        "desc": "Yapay Zeka&rsquo;ya Giri\u015f dersinin amac\u0131, s&ouml;z konusu bilim alan\u0131n\u0131n temellerine de\u011finmek ve genel Yapay Zeka yakla\u015f\u0131mlar\u0131, y&ouml;ntemleri ve tekniklerine dair gerekli bilgi ve becerilerin edinilmesini sa\u011flamakt\u0131r. Bu ders sonunda, daha ileri d&uuml;zey Yapay Zeka konular\u0131n\u0131n kavranabilmesi i&ccedil;in gereken her \u015fey &ouml;\u011frenilmi\u015f olacakt\u0131r. Yapay Zeka konusuna ilgisi olan herkes, Y&uuml;ksek&ouml;\u011frenim kurumlar\u0131n\u0131n ilgili b&ouml;l&uuml;mlerinde Yapay Zeka ile ilgili dersler alan &ouml;\u011frenciler, Yapay Zeka ile ilgili &ouml;n bilgi sahibi olup, bilgilerini peki\u015ftirmek isteyen herkes bu derse kat\u0131labilir.SyllabusYapay Zek&acirc; Kavram\u0131Yapay Zek&acirc; Problemleri ve Uygulama Alanlar\u0131Yapay Zek&acirc; Teknikleri ve S\u0131n\u0131fland\u0131rmalarGenel Yapay Zek&acirc; Teknikleri ve Y&ouml;ntemleriG&uuml;n&uuml;m&uuml;z Yapay Zek&acirc; &Ccedil;al\u0131\u015fmalar\u0131nda Temel Yakla\u015f\u0131mlarDo\u011fa Temelli Yakla\u015f\u0131m",
+        "name": "Yapay Zeka'ya Giri\u015f",
+        "provider": "Universiteplus",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "U\u015fak \u00dcniversitesi"
+        ],
+        "url": "https://www.universiteplus.com/courses/yapay-zeka-ya-giris"
+    },
+    {
+        "date": "2014-11-04",
+        "desc": "En este curso aprender&aacute;s lo b&aacute;sico del desarrollo de aplicaciones m&oacute;viles para Android, ser&aacute; un curso introductorio cubriendo los conceptos b&aacute;sicos que te permitir&aacute; crear tus primeras aplicaciones y publicarlas a Google Play.&nbsp;\"Desarrollo de Aplicaciones para Android\" ser&aacute; un curso altamente pr&aacute;ctico con demos y tareas de c&oacute;digo semanales. Requiere que el estudiante conozca el paradigma de programaci&oacute;n orientada a objetos y de preferencia el lenguaje de programaci&oacute;n Java.&nbsp;Syllabus&nbsp;Introducci&oacute;n a AndroidLayouts y elementos de interfaz gr&aacute;ficaBloques b&aacute;sicos de aplicaci&oacute;nLayouts y elementos de interfaz gr&aacute;ficaAlmacenamiento y datosAcceso a hardwarePublicaci&oacute;n de apps- See more at: http://telescopio.galileo.edu/curso/desarrollo-de-aplicaciones-para-android/#sthash.xsKBpY3b.dpuf&nbsp;",
+        "name": "Desarrollo de Aplicaciones para Android",
+        "provider": "Independent",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Galileo University"
+        ],
+        "url": "http://telescopio.galileo.edu/curso/desarrollo-de-aplicaciones-para-android/"
+    },
+    {
+        "date": "2014-11-06",
+        "desc": "In this course, we will begin by studying why the video game fascinates product marketing.We'll dissect the behavior of the players to understand their motivations to play for tens or hundreds of hours in the same game.It will consider the implementation of gamification with case studies of services that you will surely use it, and you did not know they were gamifi&eacute;s.Finally, we will end up an ethical debate about the difference between motivation and manipulation, and how to avoid falling to the dark side of the force (although there, they have cookies).PrerequisitesRecommended:Good knowledge of marketingGood knowledge of the ecosystem of applications (mobile and web)",
+        "name": "Gamifier son service",
+        "provider": "IONIS",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "IONIS"
+        ],
+        "url": "https://courses.ionisx.com/courses/ionisx/105/p/about"
+    },
+    {
+        "date": "2014-11-11",
+        "desc": "Congratulations! You&rsquo;ve made it through the Introduction and Next Steps in SAP HANA Cloud Platform, and now it&rsquo;s time to move to the next level. You&rsquo;ve already been introduced to SAP HANA Cloud Platform, and have explored some of the advanced features and services that the platform provides.This course will show you another perspective - putting SAP HANA Cloud Platform into good use for extending various SAP products. You'll learn about some of the extension options that SAP products support, and explore the required technologies and tools that will help you to be productive. As part of the course, you&rsquo;ll create your first extension to SuccessFactors, as well as experiment with different collaboration options in SAP Jam.To follow all the units, you should have completed the openSAP courses&nbsp;Introduction to SAP HANA Cloud Platform&nbsp;and&nbsp;Next Steps in SAP HANA Cloud Platform.The course content assumes that you&rsquo;re already familiar with the concepts and technologies introduced there. Registration, learning content, required systems, and the final exam are free of charge to all participants.Target AudienceApplication developersSAP partnersCourse RequirementsParticipation in the openSAP course&nbsp;Introduction to SAP HANA Cloud PlatformParticipation in the openSAP course&nbsp;Next Steps in SAP HANA Cloud PlatformBasic programming skillsBasic knowledge of how to use an Eclipse development environmentSyllabusWeek 1:Extending SAP Cloud ProductsWeek 2:Cloud Extension in DetailsWeek 3:My First SuccessFactors ExtensionWeek 4:My First SAP Jam ExtensionI Like, I Wish:We Love Your Feedback &hellip; And Want MoreFinal Exam:Good Luck!",
+        "name": "Extending SAP Products with SAP HANA Cloud Platform",
+        "provider": "openSAP",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.sap.com/courses/hanacloud3"
+    },
+    {
+        "date": "2014-11-12",
+        "desc": "Data scienceis the profession of the\nfuture, because organizations that are unable to use (big) data in a smart way\nwill not survive. It is not sufficient to focus on data storage and data\nanalysis. The data scientist also needs to relate data to process analysis.Process\nmining bridges the gap between traditional model-based process analysis (e.g.,\nsimulation and other business process management techniques) and data-centric\nanalysis techniques such as machine learning and data mining.Process mining\nseeks the confrontation between event data (i.e., observed behavior) and\nprocess models (hand-made or discovered automatically). This technology has\nbecome available only recently, but it can be applied to any type of operational\nprocesses (organizations and systems). Example applications include: analyzing\ntreatment processes in hospitals, improving customer service processes in a\nmultinational, understanding the browsing behavior of customers using a booking\nsite, analyzing failures of a baggage handling system, and improving the user\ninterface of an X-ray machine. All of these applications have in common that\ndynamic behavior needs to be related to process models. Hence, we refer to this\nas \"data science in action\".The course explains the key analysis\ntechniques in process mining. Participants will learn various process discovery\nalgorithms. These can be used to automatically learn process models from raw\nevent data. Various other process analysis techniques that use event data will\nbe presented. Moreover, the course will provideeasy-to-use software,real-life\ndata sets, andpractical skillstodirectly apply the theoryin a variety of\napplication domains.SyllabusThis course starts with an overview\nof approaches and technologies that use event data to support decision making\nand business process (re)design. Then the course focuses onprocess mining as a\nbridge between data mining and business process modeling. The course is at an\nintroductory level with various practical as",
+        "name": "Process Mining: Data science in Action",
+        "provider": "Coursera",
+        "rating": "0",
+        "reviews": "0",
+        "university": [
+            "Eindhoven University of Technology"
+        ],
+        "url": "https://www.coursera.org/course/procmin"
+    },
+    {
+        "date": "2014-11-13",
+        "desc": "SAP Business Warehouse (BW) continues to serve as a powerful data warehouse to consolidate data, harmonize master data and provide flexible reporting scenarios. Introducing SAP HANA as database underneath SAP BW was a major breakthrough in various core areas for data warehousing. With the combination of a rich data warehousing application and a fast in-memory database, we&rsquo;ve seen architectural simplification, performance improvements and new modelling experiences.The course will introduce the renewed concepts and possibilities when SAP BW is powered by SAP HANA. We&rsquo;ll introduce the major guiding points and semantics of a data warehouse and demonstrate them in a business scenario, directly in the system. You will learn and experience the latest developments, with SAP BW 7.4 powered by SAP HANA, as well as opportunities for real-time data integration and agile data modelling. We will demonstrate what it means to consume the data via a data warehouse and show you how SAP HANA helps to speed up data analysis. We&rsquo;ll also introduce the planning capabilities based on SAP BW, which is a unique combination of reporting and planning on the same platform.The registration, learning content, final exam, and the Record of Achievement are free of charge.Target AudienceConsultantsImplementation expertsArchitectsDevelopersCourse RequirementsA basic understanding of data warehousingIt is preferable to have pre-basic SAP BW knowledge.You should have already walked through the openSAP course&nbsp;ABAP Development for SAP HANA, since some concepts will be shared and further developed.SyllabusWeek 1:SAP BW powered by SAP HANA &ndash; IntroWeek 2:Data Integration &amp; ManagementWeek 3:Data Consumption &amp; AnalysisWeek 4:Planning &amp; Lifecycle ManagementI Like, I Wish:We Love Your Feedback &hellip; And Want MoreFinal Exam:Good Luck!",
+        "name": "SAP Business Warehouse powered by SAP HANA",
+        "provider": "openSAP",
+        "rating": "0",
+        "reviews": "0",
+        "university": [],
+        "url": "https://open.sap.com/courses/bwhana1"
+    }
+]

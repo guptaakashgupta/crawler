@@ -1,0 +1,672 @@
+[
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "Understanding group activities from images is an important yet challenging task. This is because there is an exponentially large number of semantic and geometrical relationships among individuals that one must model in order to effectively recognize and localize the group activities. Rather than focusing on directly recognizing group activities as most of the previous works do, we advocate the importance of introducing an intermediate representation for modeling groups of humans which we call structure groups. We contribute a method for identifying and localizing these structured groups in a single image despite their varying viewpoints, number of participants, and occlusions. We contribute an extremely challenging new dataset that contains images each showing multiple people performing multiple activities. Extensive evaluation confirms our theoretical findings.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "http://cvgl.stanford.edu/projects/groupdiscovery/groupdiscovery_eccv14.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/groupdiscovery/",
+                "Discovering Groups of People in Images"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/groupdiscovery/",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Discovering Groups of People in Images"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "Although object tracking has been studied for decades, real-time tracking algorithms often suffer from low accuracy and poor robustness when confronted with difficult, real-world data. We present a tracker that combines 3D shape, color (when available), and motion cues to accurately track moving objects in real-time. Our tracker allocates computational effort based on the shape of the posterior distribution. Starting with a coarse approximation to the posterior, the tracker successively refines this distribution, increasing in tracking accuracy over time. The tracker can thus be run for any amount of time, after which the current approximation to the posterior is returned. Even at a minimum runtime of 0.7 milliseconds, our method outperforms all of the baseline methods of similar speed by at least 10%. If our tracker is allowed to run for longer, the accuracy continues to improve, and it continues to outperform all baseline methods. Our tracker is thus anytime, allowing the speed or accuracy to be optimized based on the needs of the application.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "http://stanford.edu/~davheld/DavidHeld_files/Pull3.png",
+        "references": [
+            [
+                "http://stanford.edu/~davheld/anytime_tracking.html",
+                "Combining 3D Shape, Color, and Motion for Robust Anytime Tracking"
+            ],
+            [
+                "http://stanford.edu/~davheld/anytime_tracking.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Combining 3D Shape, Color, and Motion for Robust Anytime Tracking"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this work, we focus on the problem of tracking objects under significant viewpoint variations, which poses a big challenge to traditional object tracking methods. We propose a novel method to track an object and estimate its continuous pose and part locations under severe viewpoint change. In order to handle the change in topological appearance introduced by viewpoint transformations, we represent objects with 3D aspect parts and model the relationship between viewpoint and 3D aspect parts in a part-based particle filtering framework. Moreover, we show that instance-level online-learned part appearance can be incorporated into our model, which makes it more robust in difficult scenarios with occlusions.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/multiview_tracking.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/multiview_tracking",
+                "Monocular Multiview Object Tracking with 3D Aspect Parts"
+            ],
+            [
+                "papers/xiang_eccv14.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/multiview_tracking",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Monocular Multiview Object Tracking with 3D Aspect Parts"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project, we contribute PASCAL3D+ dataset, which is a novel and challenging dataset for 3D object detection and pose estimation. PASCAL3D+ augments 12 rigid categories of the PASCAL VOC 2012 with 3D annotations. Furthermore, more images are added for each category from ImageNet. PASCAL3D+ images exhibit much more variability compared to the existing 3D datasets, and on average there are more than 3,000 object instances per category. We believe this dataset will provide a rich testbed to study 3D detection and pose estimation and will help to significantly push forward research in this area.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/pascal3d.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/pascal3d.html",
+                "Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild"
+            ],
+            [
+                "papers/xiang_wacv14.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/pascal3d.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Beyond PASCAL: A Benchmark for 3D Object Detection in the Wild"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project, we propose a novel framework for detecting multiple objects from a single image and reasoning about occlusions between objects. We address this problem from a 3D perspective in order to handle various occlusion patterns which can take place between objects. We introduce the concept of \u201c3D aspectlets\u201d based on a piecewise planar object representation. A 3D aspectlet represents a portion of the object which provides evidence for partial observation of the object. A new probabilistic model (which we called spatial layout model) is proposed to combine the bottom-up evidence from 3D aspectlets and the top-down occlusion reasoning to help object detection.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/SLM.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/SLM",
+                "Object Detection by 3D Aspectlets and Occlusion Reasoning"
+            ],
+            [
+                "papers/xiang_3drr13.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/SLM",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Object Detection by 3D Aspectlets and Occlusion Reasoning"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we propose a new technique for dense 3D object reconstruction from multiple views. Our method overcomes the drawbacks of traditional multi-view stereo by incorporating semantic information in the form of learned category-level shape priors and object detection. Extensive qualitative and quantitative evaluations show that our framework can produce more accurate reconstructions than alternative state-of-the-art 3D reconstruction systems.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/yingze_cvpr2013.jpg",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/semantic_dense/",
+                "Dense Object Reconstruction with Semantic Priors"
+            ],
+            [
+                "papers/Bao_semantic_reconstruction_cvpr13.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/semantic_dense/",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Dense Object Reconstruction with Semantic Priors"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we focus on the problem of detecting objects in 3D from RGB-D images. We propose a novel framework that explores the compatibility between segmentation hypotheses of the object in the image and the corresponding 3D map. Our framework allows to discover the optimal location of the object using a generalization of the structural latent SVM formulation in 3D. Extensive quantitative and qualitative experimental show that our proposed approach outperforms state-of-the-art as methods for both 3D and 2D object recognition tasks. \n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/al3d_concept.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/al3d/al3dproj.html",
+                "Accurate Localization of 3D Objects from RGB-D Data using Segmentation Hypotheses"
+            ],
+            [
+                "http://www-personal.umich.edu/~bsookim/papers/bkim_cvpr13.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/al3d/al3dproj.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Accurate Localization of 3D Objects from RGB-D Data using Segmentation Hypotheses"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we develop a new approach to learn mid-level features which capture recognizable semantic concepts. This is achieved by using a weakly supervised approach based on restricted Boltzmann machine (RBM) to learn mid-level features, where only class-level supervision is provided during training. Our experimental results on object recognition tasks show significant performance gains, outperforming existing methods which rely on manually labeled semantic attributes. \n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/BoundingBoxes_sized.jpg",
+        "references": [
+            [
+                "http://www-personal.umich.edu/~rmittelm/papers/CVPR13/index.html",
+                "Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines"
+            ],
+            [
+                "papers/Mittelman_cvpr13.pdf",
+                "paper"
+            ],
+            [
+                "http://www-personal.umich.edu/~rmittelm/papers/CVPR13/index.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Weakly Supervised Learning of Mid-Level Features with Beta-Bernoulli Process Restricted Boltzmann Machines"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we present a hierarchical scene model for learning and reasoning about complex indoor scenes that can be learned from a reasonable amount of training data, and avoids oversimplification. At the core of this approach is the 3D Geometric Phrase model which captures the semantic and geometric relationships between objects which frequently co-occur in the same 3D spatial configuration. Experiments show that this model effectively explains scene semantics, geometry and object groupings from a single image, while also improving individual object detections. \n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/wongun_cvpr2013.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/3dgp/",
+                "Understanding Indoor Scenes using 3D Geometric Phrases"
+            ],
+            [
+                "papers/choi_cvpr13.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/3dgp/",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Understanding Indoor Scenes using 3D Geometric Phrases"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we present a novel coherent, discriminative framework for simultaneously tracking multiple people and estimating their collective activities. Instead of treating these two problems separately, our model is grounded in the intuition that a strong correlation exists between a person's motion, their activity, and the motion and activities of other nearby people. We introduce a hierarchy of activity types that create a natural progression that leads from a specific person\u2019s motion to the activity of the group as a whole. Experimental results on challenging video datasets demonstrate our theoretical claims and indicate that our model achieves the best collective activity classification results to date.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/wongun_eccv12.jpg",
+        "references": [
+            [
+                "http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html",
+                "A Unified Framework for Multi-Target Tracking and Collective Activity Recognition"
+            ],
+            [
+                "papers/choi_eccv_12.pdf",
+                "paper"
+            ],
+            [
+                "http://www-personal.umich.edu/~wgchoi/eccv12/wongun_eccv12.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "A Unified Framework for Multi-Target Tracking and Collective Activity Recognition"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "Given a set of images containing the same objects, the goal of co-detection is to detect the objects simultaneously in multiple images, as well as match individual instances across images. Our method can effectively measure object self-occlusions and viewpoint transformations. The co-detector is able to obtain more accurate detection results than if objects were to be detected from each image individually.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/co-detection.jpg",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/codetection/index.html",
+                "Object Co-detection"
+            ],
+            [
+                "papers/bao_eccv12_codetection.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/codetection/index.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Object Co-detection"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we propose a new framework for scene understanding that jointly models things (i.e., object categories with a well-defined shape such as people and cars) and stuff (i.e., object categories with an amorphous spatial extent such as grass and sky).  Our framework allows enforcing sophisticated geometric and semantic relationships between thing and stuff categories in a single graphical model. We demonstrate that our method achieves competitive performances in segmenting and detecting objects on several public datasets.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/byung-min.jpg",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/ACRF/ACRFproj.html",
+                "Relating Things and Stuff via Object Property Interactions"
+            ],
+            [
+                "papers/kim_hipotws_eccv12.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/ACRF/ACRFproj.html",
+                "project page"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Relating Things and Stuff via Object Property Interactions"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we seek to move away from the traditional paradigm for 2D object recognition whereby objects are identified in the image as 2D bounding boxes. We focus instead on: i) detecting objects; ii) identifying their 3D poses; iii) characterizing the geometrical and topological properties of the objects in terms of their aspect configurations in 3D.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Yu_cvpr12.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/projects/ALM",
+                "Estimating the Aspect Layout of Object Categories"
+            ],
+            [
+                "http://cvgl.stanford.edu/papers/xiang_cvpr12.pdf",
+                "paper"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/ALM/xiang_cvpr12_poster.pdf",
+                "poster"
+            ],
+            [
+                "http://cvgl.stanford.edu/projects/ALM/Aspect_Layout_Model.zip",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Estimating the Aspect Layout of Object Categories"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this work we present a novel multi-frame object detection application for the mobile platform that is capable of object localization. We implement the multi-frame detector on a mobile device running the android OS through a novel client-server framework that presents a sound and viable environment for the multi-frame detector.\n          ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/mobile_HV.png",
+        "references": [
+            [
+                "http://www.eecs.umich.edu/vision/papers/Kumar_cvpr12.pdf",
+                "paper"
+            ],
+            [
+                "posters/shyam_cvpr12_poster.pptx",
+                "poster"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Mobile Object Detection through Client-Server based Vote Transfer"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We propose a novel Branch-and-Bound (BB) method to efficiently solve exact MAP-MRF inference on problems with a large number of states (per variable). In our work, we evaluate different variants of our proposed BB algorithm and a state-of-the-art exact inference algorithm on synthetic data, human pose estimation from both a single image and a video sequence, and protein design problems.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Efficient and Exact Branch-and-Bound.png",
+        "references": [
+            [
+                "http://www.eecs.umich.edu/vision/BBproj.html",
+                "Efficient and Exact Branch-and-Bound"
+            ],
+            [
+                "papers/aistats_bb_final.pdf",
+                "paper"
+            ],
+            [
+                "papers/sun_bb_cvpr2012.pdf",
+                "paper"
+            ],
+            [
+                "posters/sun_cvpr12_poster.pdf",
+                "poster"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/BBproject/bb_codes_v0.2.zip",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Efficient and Exact Branch-and-Bound"
+    },
+    {
+        "image_url": "research/SSFM.jpg",
+        "tag": "Computer Vision"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project, we propose an new model called Articulated Part-based Model (APM) for jointly detecting objects (e.g humans) and estimating their poses (e.g. configuration of body parts such as arms, torso, head). APM recursively represents an object as a collection of parts at multiple  levels of detail, from coarse-to-fine, where parts at every level are connected to a coarser level through a parent-child relationship. Extensive quantitative and qualitative experimental results on public datasets show that APM outperforms state-of-the-art methods.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Joint Detection and Pose Estimation of Articulated Objects.png",
+        "references": [
+            [
+                "http://www.eecs.umich.edu/vision/projects/amp/apmproject.html",
+                "Joint Detection and Pose Estimation of Articulated Objects"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/projects/amp/apmproject.html",
+                "here"
+            ],
+            [
+                "papers/Sun_ICCV11_PID2005385.pdf",
+                "paper"
+            ],
+            [
+                "posters/sun_iccv11_poster.pdf",
+                "poster"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Joint Detection and Pose Estimation of Articulated Objects"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we show that the hierarchical structure of a database can be used successfully to enhance classification accuracy using a sparse approximation framework. We propose a new formulation for sparse approximation where the goal is to discover the sparsest path within the hierarchical data structure that best represents the query object. Extensive quantitative and qualitative experimental evaluation on a number of subsets of the ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Hierarchical Classification of Images by Sparse Approximation.png",
+        "references": [
+            [
+                "http://www.image-net.org/",
+                "ImageNet"
+            ],
+            [
+                "papers/kim_bmvc2011.pdf",
+                "paper"
+            ],
+            [
+                "posters/kim_bmvc11_poster.pdf",
+                "poster"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Hierarchical Classification of Images by Sparse Approximation"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We propose a coherent tracking framework which is capable of tracking multiple number of targets under unknown monocular camera motion. Our frameworks also models the interaction between targets which further helps disambiguate correspondence between targets and detections. To efficiently solve this complex inference problem, a MCMC particle filtering algorithm is incorporated. Experimental results show our algorithm is superior or comparable to the state-of-the-art multi-target system even though our algorithm only uses a single un-calibrated camera. We also tested our algorithm on a moving robotic platform equipped with a depth sensor and demonstrated higly accurate tracking capabilities.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Multi-target tracking from a Single Moving Camera.png",
+        "references": [
+            [
+                "http://cvgl.stanford.edu/data2/pr2dataset/",
+                "Multi-target tracking from a Single Moving Camera"
+            ],
+            [
+                "papers/mtt_wg_eccv2010.pdf",
+                "paper"
+            ],
+            [
+                "posters/choi_eccv10_poster.pdf",
+                "poster"
+            ],
+            [
+                "papers/choi_corp11.pdf",
+                "paper"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Multi-target tracking from a Single Moving Camera"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this research, construction progress deviations between as-planned and as-built construction are measured through superimposition of as-planned model onto site photographs for different time stamps. Our approach is based on sparse 3D reconstruction and recognition of as-built scene elements using state-of-the-art machine learning methodolgies.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/d4ar.jpg",
+        "references": [
+            [
+                "http://www.eecs.umich.edu/vision/papers/Golparvar-Fard-cvrse2011.pdf",
+                "here"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/papers/D4AR_itcon_2009.pdf",
+                "ITCON journal paper"
+            ],
+            [
+                "http://www.eecs.umich.edu/eecs/about/articles/2012/Savarese_Silvio_Best_Paper_Construction_Engineering.html",
+                "Best Paper Award"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Monitoring with D4AR (4 Dimensional Augmented Reality) Models"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We present a framework for the recognition of collective human activities. A collective activity is defined or reinforced by the existence of coherent behavior of individuals in time and space. We call such coherent behavior crowd context. Examples of collective activities are \"queuing in a line\" or \"talking\". We propose to recognize collective activities using the crowd context and introduce a new scheme for learning it automatically. Our scheme is constructed upon a Random Forest structure which randomly samples variable spatio-temporal regions to pick the most discriminating characteristics for classification.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Collective Activities Recognition.png",
+        "references": [
+            [
+                "papers/cvpr2011choishahid.pdf",
+                "paper"
+            ],
+            [
+                "posters/choi_cvpr11_poster.pdf",
+                "poster"
+            ],
+            [
+                "papers/Wongun_CollectiveActivityRecognition09.pdf",
+                "paper"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/activity-dataset.html",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Collective Activities Recognition"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We explore the idea of using high-level semantic concepts (attributes) to represent human actions from videos and argue that action attributes enable the construction of more descriptive models for human action recognition. We propose a unified framework wherein manually specified attributes are: i) selected in a discriminative fashion so as to account for intra-class variability; ii) integrated coherently with data-driven attributes to make the attribute set more descriptive.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Human Actions Recognition by Attributes.png",
+        "references": [
+            [
+                "papers/cvpr11_liu_a.pdf",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Human Actions Recognition by Attributes"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We present a novel approach for recognizing human actions from different views by establishing connections between view-dependent features across views (knowledge transfer). We introduce a novel approach for discovering these connections by using a bipartite graph to model view-dependent vocabularies of codewords. We then apply bipartite graph partitioning to co-cluster the vocabularies into visual-word clusters called bilingual-words (i.e., high-level features), which is capable of bridging the semantic gap between view-dependent vocabularies.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Cross-View Actions Recognition via View Knowledge Transfer.jpeg",
+        "references": [
+            [
+                "papers/cvpr11_liu_b.pdf",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Cross-View Actions Recognition via View Knowledge Transfer"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this project we aim at simultaneously detecting objects, estimating their pose and recovering their 3D shape. We propose a new method called DEHV - Depth-Encoded Hough Voting. DEHV is a probabilistic Hough voting scheme which incorporates depth information into the process of learning distributions of image features (patches) representing an object category. Extensive quantitative and qualitative experimental analysis on existing and newly proposed datasets demonstrates that our approach achieves convincing recognition results and is capable of estimating object shape from just a single image!\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Depth-Encoded Hough Voting for Joint Object Detection and Shape Recovery.png",
+        "references": [
+            [
+                "papers/Sun_Eccv_2010.pdf",
+                "paper"
+            ],
+            [
+                "posters/sun_eccv10_poster.pdf",
+                "poster"
+            ],
+            [
+                "http://www.eecs.umich.edu/~sunmin/app/3dimpvt_camera_ready.pdf",
+                "paper"
+            ],
+            [
+                "data/TableTopObjectDataset.zip",
+                "Dataset (Released Sep,13,2010)"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Depth-Encoded Hough Voting for Joint Object Detection and Shape Recovery"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We propose a new coherent framework for joint object detection and scene 3D layout estimation from a single image. We explore the geometrical relationship among objects, the physical space includingthe objects and the observer. In our framework object detection becomes more and more accurate as additional evidence about a specific scene becomes available. In turn, improved detection results enable more stable and accurate estimates of the scene layout and object supporting surfaces.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Coherent Object Recognition and Scene Layout Understanding.png",
+        "references": [
+            [
+                "papers/BAO_IVC_2011.pdf",
+                "here"
+            ],
+            [
+                "papers/Sun_bmvc_2010.pdf",
+                "here"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/papers/bao_cvpr2010.pdf",
+                "here for the CVPR 10 paper"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/users/yingze/proof_paper_CVPR2010.pdf",
+                "details"
+            ],
+            [
+                "http://www.eecs.umich.edu/vision/data/TableTopObjectDataset.zip",
+                "Desk-top Dataset"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Coherent Object Recognition and Scene Layout Understanding"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We propose a new 3D object class model that is capable of recognizing unseen views by pose estimation and synthesis. We achieve this by using a dense, multiview representation of the viewing sphere parameterized by a triangular mesh of viewpoints. Each triangle of viewpoints can be morphed to synthesize new viewpoints. By incorporating 3D geometrical constraints, our model establishes explicit correspondences among object parts across viewpoints. Click ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories.jpeg",
+        "references": [
+            [
+                "papers/SuSunLiSavarese_ICCV2009.pdf",
+                "here for our ICCV 09 oral"
+            ],
+            [
+                "papers/sun_A%20Multi-View%20Probabilistic%20Model%20for%203D%20Object%20Classes_cvpr09.pdf",
+                "here for the CVPR 09 version"
+            ],
+            [
+                "papers/3D%20generic%20object%20categorization_iccv07.pdf",
+                "ICCV 07 paper"
+            ],
+            [
+                "papers/savarese_feifei_eccv08.pdf",
+                "ECCV 08 paper"
+            ],
+            [
+                "http://vangogh.ai.uiuc.edu/silvio/3Ddataset.html",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Learning a dense multi-view representation for detection, viewpoint classification and synthesis of object categories"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We propose a novel statistical manifold modeling approach that is capable of classifying poses of object categories from video sequences by simultaneously minimizing the intra-class variability and maximizing inter-pose distance. We model an object category as a collection of non-parametric probability density functions (PDFs) capturing appearance and geometrical changes. We show that the problem of simultaneous intra-class variability minimization and inter-pose distance maximization is equivalent to the one of aligning and expanding the manifolds generated by these non-parametric PDFs, respectively.\n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Recognizing the 3D Pose of Object Categories by Manifold Modeling.jpeg",
+        "references": [
+            [
+                "http://www.eecs.umich.edu/vision/papers/mei_iccv2011.pdf",
+                "here"
+            ],
+            [
+                "papers/Liang_bmvc_09.pdf",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Recognizing the 3D Pose of Object Categories by Manifold Modeling"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We present a new method for categorizing video sequences capturing different scene classes. This can be seen as a generalization of previous work on scene classification from single images. A scene is represented by a collection of 3D points with an appearance based codeword attached to each point. A hierarchical structure of histograms located at different locations and at different scales is used to capture the typical spatial distribution of 3D points and codewords in the working volume. \n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Scene categorization and understanding from videos.jpeg",
+        "references": [
+            [
+                "papers/gupta_iccv09.pdf",
+                "here for our ICCV 09 paper"
+            ],
+            [
+                "3DSceneDataset.html",
+                "here for the database"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Scene categorization and understanding from videos"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "How well can the human visual system see the shape of a reflective object? How does the brain identify a specular reflection as such and not as a piece of texture attached to the surface? Psychophysics analysis sheds light to these intriguing questions. \n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Perception of Reflective materials.jpeg",
+        "references": [
+            [
+                "http://vangogh.ai.uiuc.edu/silvio/qualia.html",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Perception of Reflective materials"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "In this work we present a novel framework for learning the typical spatial-temporal relationship between object parts. These relationships are incorporated in a flexible model for object and action categorization. \n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Capturing spatial-temporal relationships for object and action categorization.jpeg",
+        "references": [
+            [
+                "papers/Discriminative%20_Object_Class_Models_savarese_winn_criminisi_06.pdf",
+                "here for the original CVPR 06"
+            ],
+            [
+                "papers/SavareseDelPozoEtAl_WMVC08.pdf",
+                "here for the WMVC08"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Capturing spatial-temporal relationships for object and action categorization"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "Recognizing and localizing specular (or mirror-like) surfaces from a single image is a great challenge to computer vision. Unlike other materials, the appearance of a specular surface changes as function of the surrounding environment as well as the position of the observer. Even though the reflection on a specular surface has an intrinsic ambiguity that might be resolved by high level reasoning, we have demonstrated that we can take advantage of low level features to successfully recognize specular surfaces in real world scenes. \n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Identification and recognition of reflective surfaces.jpeg",
+        "references": [
+            [
+                "papers/delpozo_savarese_cvpr07.pdf",
+                "here for our CVPR 07  paper"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Identification and recognition of reflective surfaces"
+    },
+    {
+        "base_url": "http://cvgl.stanford.edu/research",
+        "description": "We study geometrical properties of the mirror in the Hans Memling\u2019s 1487 diptych Virgin and Child and Maarten van Nieuwenhove. We aim at discovering if the mirror was not part of the painting\u2019s initial design, but instead added later by the artist. \n         ",
+        "home_url": "http://cvgl.stanford.edu/research.html",
+        "image_url": "research/Analysis of paintings in Renaissance art.jpeg",
+        "references": [
+            [
+                "papers/Savarese_spronk_stork_etal_08.pdf",
+                "here"
+            ],
+            [
+                "http://www.rii.ricoh.com/%7Estork/RobinsonStorkSPIE08.mov",
+                "here"
+            ]
+        ],
+        "tag": "Computer Vision",
+        "title": "Analysis of paintings in Renaissance art"
+    }
+]

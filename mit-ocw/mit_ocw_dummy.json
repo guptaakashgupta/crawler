@@ -1,0 +1,233 @@
+[
+    {
+        "description": "This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python programming language.",
+        "features": "Video lectures, Subtitles/transcript, Online textbooks, Assignments and solutions, Exams and solutions, Recitation videos",
+        "id": "6-00sc-introduction-to-computer-science-and-programming-spring-2011",
+        "instructors": "Prof. John Guttag",
+        "level": "Undergraduate",
+        "mcn": "6.00SC",
+        "sem": "Spring 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/6-00scf11-th.jpg",
+        "title": "Introduction to Computer Science and Programming"
+    },
+    {
+        "description": "This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python&trade; programming language.",
+        "features": "Video lectures, Subtitles/transcript, Assignments (no solutions), Exams and solutions",
+        "id": "6-00-introduction-to-computer-science-and-programming-fall-2008",
+        "instructors": "Prof. Eric Grimson, Prof. John Guttag",
+        "level": "Undergraduate",
+        "mcn": "6.00",
+        "sem": "Fall 2008",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/6-00f08-th.jpg",
+        "title": "Introduction to Computer Science and Programming"
+    },
+    {
+        "description": "This course provides an integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Our primary goal is for you to learn to appreciate and use the fundamental design principles of modularity and abstraction in a variety of contexts from electrical engineering and computer science. Our second goal is to show you that making mathematical models of real systems can help in the design and analysis of those systems.  Finally, we have the more typical goals of teaching exciting and important basic material from electrical engineering and computer science, including modern software engineering, linear systems analysis, electronic circuits, and decision-making.",
+        "features": "Video lectures, Subtitles/transcript, Online textbooks, Lecture notes, Assignments (no solutions), Exams and solutions, Recitation videos",
+        "id": "6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011",
+        "instructors": "Prof. Leslie Kaelbling, Prof. Jacob White, Prof. Harold Abelson, Prof. Dennis Freeman, Prof. Tom\u00e1s Lozano-P\u00e9rez, Prof. Isaac Chuang",
+        "level": "Undergraduate",
+        "mcn": "6.01SC",
+        "sem": "Spring 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6-01scs11-th.jpg",
+        "title": "Introduction to Electrical Engineering and Computer Science I"
+    },
+    {
+        "description": "This course introduces students to the principles of computation. Upon completion of 6.001, students should be able to explain and apply the basic methods from programming languages to analyze computational systems, and to generate computational solutions to abstract problems. Substantial weekly programming assignments are an integral part of the course. This course is worth 4 Engineering Design Points.",
+        "features": "Video lectures, Subtitles/transcript, Online textbooks, Selected lecture notes, Projects (no examples), Exams (no solutions)",
+        "id": "6-001-structure-and-interpretation-of-computer-programs-spring-2005",
+        "instructors": "Prof. Eric Grimson, Prof. Peter Szolovits, Prof. Trevor Darrell",
+        "level": "Undergraduate",
+        "mcn": "6.001",
+        "sem": "Spring 2005",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/6-001s05-th.jpg",
+        "title": "Structure and Interpretation of Computer Programs"
+    },
+    {
+        "description": "6.002 is designed to serve as a first course in an undergraduate electrical engineering (EE), or electrical engineering and computer science (EECS) curriculum. At MIT, 6.002 is in the core of department subjects required for all undergraduates in EECS. The course introduces the fundamentals of the lumped circuit abstraction. Topics covered include: resistive elements and networks; independent and dependent sources; switches and MOS transistors; digital abstraction; amplifiers; energy storage elements; dynamics of first- and second-order networks; design in the time and frequency domains; and analog and digital circuits and applications. Design and lab exercises are also significant components of the course. 6.002 is worth 4 Engineering Design Points. The 6.002 content was created collaboratively by Profs. Anant Agarwal and Jeffrey H. Lang. The course uses the required textbook Foundations of Analog and Digital Electronic Circuits. Agarwal, Anant, and Jeffrey H. Lang. San Mateo, CA: Morgan Kaufmann Publishers, Elsevier, July 2005. ISBN: 9781558607354.",
+        "features": "Video lectures, Subtitles/transcript, Assignments (no solutions), Exams (no solutions)",
+        "id": "6-002-circuits-and-electronics-spring-2007",
+        "instructors": "Prof. Anant Agarwal",
+        "level": "Undergraduate",
+        "mcn": "6.002",
+        "sem": "Spring 2007",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/6-002s07-th.jpg",
+        "title": "Circuits and Electronics"
+    },
+    {
+        "description": "6.003 covers the fundamentals of signal and system analysis, focusing on representations of discrete-time and continuous-time signals (singularity functions, complex exponentials and geometrics, Fourier representations, Laplace and Z transforms, sampling) and representations of linear, time-invariant systems (difference and differential equations, block diagrams, system functions, poles and zeros, convolution, impulse and step responses, frequency responses). Applications are drawn broadly from engineering and physics, including feedback and control, communications, and signal processing.",
+        "features": "Video lectures, Online textbooks, Assignments and solutions, Exams and solutions",
+        "id": "6-003-signals-and-systems-fall-2011",
+        "instructors": "Prof. Dennis Freeman",
+        "level": "Undergraduate",
+        "mcn": "6.003",
+        "sem": "Fall 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-003-signals-and-systems-fall-2011/6-003f11-th.jpg",
+        "title": "Signals and Systems"
+    },
+    {
+        "description": "\n6.004 offers an introduction to the engineering of digital systems. Starting with MOS transistors, the course develops a series of building blocks &mdash; logic gates, combinational and sequential circuits, finite-state machines, computers and finally complete systems. Both hardware and software mechanisms are explored through a series of design examples.\n6.004 is required material for any EECS undergraduate who wants to understand (and ultimately design) digital systems. A good grasp of the material is essential for later courses in digital design, computer architecture and systems. The problem sets and lab exercises are intended to give students \"hands-on\" experience in designing digital systems; each student completes a gate-level design for a reduced instruction set computer (RISC) processor during the semester.",
+        "features": "Lecture notes, Assignments and solutions, Exams and solutions",
+        "id": "6-004-computation-structures-spring-2009",
+        "instructors": "Prof. Steve Ward",
+        "level": "Undergraduate",
+        "mcn": "6.004",
+        "sem": "Spring 2009",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/6-004s09-th.jpg",
+        "title": "Computation Structures"
+    },
+    {
+        "description": "This course introduces fundamental principles and techniques of software development. Students learn how to write software that is safe from bugs, easy to understand, and ready for change. Topics include specifications and invariants; testing, test-case generation, and coverage; state machines; abstract data types and representation independence; design patterns for object-oriented programming; concurrent programming, including message passing and shared concurrency, and defending against races and deadlock; and functional programming with immutable data and higher-order functions.  The course includes weekly programming exercises and two substantial group projects.",
+        "features": "Lecture notes, Projects (no examples), Assignments (no solutions), Exams and solutions",
+        "id": "6-005-elements-of-software-construction-fall-2011",
+        "instructors": "Prof. Robert Miller",
+        "level": "Undergraduate",
+        "mcn": "6.005",
+        "sem": "Fall 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/6-005f11-th.jpg",
+        "title": "Elements of Software Construction"
+    },
+    {
+        "description": "\nThis course provides an introduction to the fundamental principles and techniques of software development that have greatest impact on practice. Topics include capturing the essence of a problem by recognizing and inventing suitable abstractions; key paradigms, including state machines, functional programming, and object-oriented programming; use of design patterns to bridge gap between models and code; the role of interfaces and specification in achieving modularity and decoupling; reasoning about code using invariants; testing, test-case generation and coverage; and essentials of programming with objects, functions, and abstract types. The course includes exercises in modeling, design, implementation and reasoning.",
+        "features": "Lecture notes, Projects (no examples), Assignments (no solutions)",
+        "id": "6-005-elements-of-software-construction-fall-2008",
+        "instructors": "Prof. Daniel Jackson, Prof. Robert Miller",
+        "level": "Undergraduate",
+        "mcn": "6.005",
+        "sem": "Fall 2008",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2008/6-005f08-th.jpg",
+        "title": "Elements of Software Construction"
+    },
+    {
+        "description": "This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+        "features": "Video lectures, Subtitles/transcript, Assignments and solutions, Exams and solutions, Recitation videos",
+        "id": "6-006-introduction-to-algorithms-fall-2011",
+        "instructors": "Prof. Erik Demaine, Prof. Srinivas Devadas",
+        "level": "Undergraduate",
+        "mcn": "6.006",
+        "sem": "Fall 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/6-006f11-th.jpg",
+        "title": "Introduction to Algorithms"
+    },
+    {
+        "description": "\nThis course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems.",
+        "features": "Lecture notes, Assignments (no solutions), Exams and solutions",
+        "id": "6-006-introduction-to-algorithms-spring-2008",
+        "instructors": "Prof. Erik Demaine, Prof. Ronald Rivest, Prof. Srinivas Devadas",
+        "level": "Undergraduate",
+        "mcn": "6.006",
+        "sem": "Spring 2008",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/6-006s08-th.jpg",
+        "title": "Introduction to Algorithms"
+    },
+    {
+        "description": "This course discusses applications of electromagnetic and equivalent quantum mechanical principles to classical and modern devices. It covers energy conversion and power flow in both macroscopic and quantum-scale electrical and electromechanical systems, including electric motors and generators, electric circuit elements, quantum tunneling structures and instruments. It studies photons as waves and particles and their interaction with matter in optoelectronic devices, including solar cells, displays, and lasers.  The instructors would like to thank Scott Bradley, David Friend, Ta-Ming Shih, and Yasuhiro Shirasaki for helping to develop the course, and Kyle Hounsell, Ethan Koether, and Dmitri Megretski for their work preparing the lecture notes for OCW publication.",
+        "features": "Demonstration - video, Lecture notes, Assignments (no solutions)",
+        "id": "6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011",
+        "instructors": "Prof. Vladimir Bulovic, Prof. Rajeev Ram, Prof. Steven Leeb, Prof. Jeffrey H. Lang, Dr. Yu Gu",
+        "level": "Undergraduate",
+        "mcn": "6.007",
+        "sem": "Spring 2011",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-007-electromagnetic-energy-from-motors-to-lasers-spring-2011/6-007f11-th.jpg",
+        "title": "Electromagnetic Energy: From Motors to Lasers"
+    },
+    {
+        "description": "This course examines signals, systems and inference as unifying themes in communication, control and signal processing. Topics include input-output and state-space models of linear systems driven by deterministic and random signals; time- and transform-domain representations in discrete and continuous time; group delay; state feedback and observers; probabilistic models; stochastic processes, correlation functions, power spectra, spectral factorization; least-mean square error estimation; Wiener filtering; hypothesis testing; detection; matched filters.",
+        "features": "Online textbooks, Exams and solutions",
+        "id": "6-011-introduction-to-communication-control-and-signal-processing-spring-2010",
+        "instructors": "Prof. Alan V. Oppenheim, Prof. George Verghese",
+        "level": "Undergraduate",
+        "mcn": "6.011",
+        "sem": "Spring 2010",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/6-011s10-th.jpg",
+        "title": "Introduction to Communication, Control, and Signal Processing"
+    },
+    {
+        "description": "This course is taken mainly by undergraduates, and explores ideas involving signals, systems and probabilistic models in the context of communication, control and signal processing applications. The material expands out from the basics in 6.003 and 6.041. The treatment involves aspects of analysis, synthesis, and optimization. Topics covered differ somewhat from semester to semester, but typically include: random processes, correlations, spectral densities, state-space modeling, multirate processing, signal estimation and detection.",
+        "features": "Exams and solutions",
+        "id": "6-011-introduction-to-communication-control-and-signal-processing-spring-2004-spring-2005",
+        "instructors": "Prof. George Verghese, Prof. Alan V. Oppenheim",
+        "level": "Undergraduate",
+        "mcn": "6.011",
+        "sem": "Spring 2004",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-011-introduction-to-communication-control-and-signal-processing-spring-2004-spring-2005/6-011s10-th.jpg",
+        "title": "Introduction to Communication, Control, and Signal Processing"
+    },
+    {
+        "description": "\n6.012 is the header course for the department's \"Devices, Circuits and Systems\" concentration. The topics covered include: modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and metal-on-silicon (MOS) devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits.",
+        "features": "Lecture notes, Projects (no examples), Assignments (no solutions), Exams (no solutions)",
+        "id": "6-012-microelectronic-devices-and-circuits-spring-2009",
+        "instructors": "Prof. Charles Sodini, Prof. Jing Kong, Prof. Judy Hoyt, Prof. Jes\u00fas del Alamo, Prof. Akintunde (Tayo) Akinwande",
+        "level": "Undergraduate",
+        "mcn": "6.012",
+        "sem": "Spring 2009",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-spring-2009/6-012s09-th.jpg",
+        "title": "Microelectronic Devices and Circuits"
+    },
+    {
+        "description": "\n6.012 is the header course for the department's \"Devices, Circuits and Systems\" concentration. The topics covered include modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and MOS devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits.",
+        "features": "Lecture notes, Projects (no examples), Assignments (no solutions), Exams and solutions",
+        "id": "6-012-microelectronic-devices-and-circuits-fall-2009",
+        "instructors": "Prof. Clifton Fonstad, Jr.",
+        "level": "Undergraduate",
+        "mcn": "6.012",
+        "sem": "Fall 2009",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2009/6-012f09-th.jpg",
+        "title": "Microelectronic Devices and Circuits"
+    },
+    {
+        "description": "6.012 is the header course for the department's &quot;Devices, Circuits and Systems&quot; concentration. The topics covered include: modeling of microelectronic devices, basic microelectronic circuit analysis and design, physical electronics of semiconductor junction and MOS devices, relation of electrical behavior to internal physical processes, development of circuit models, and understanding the uses and limitations of various models. The course uses incremental and large-signal techniques to analyze and design bipolar and field effect transistor circuits, with examples chosen from digital circuits, single-ended and differential linear amplifiers, and other integrated circuits. This course is 12 units and is worth 4 Engineering Design Points.",
+        "features": "Lecture notes, Projects (no examples), Exams (no solutions)",
+        "id": "6-012-microelectronic-devices-and-circuits-fall-2005",
+        "instructors": "Prof. Jes\u00fas del Alamo",
+        "level": "Undergraduate",
+        "mcn": "6.012",
+        "sem": "Fall 2005",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-012-microelectronic-devices-and-circuits-fall-2005/6-012f05-th.jpg",
+        "title": "Microelectronic Devices and Circuits"
+    },
+    {
+        "description": "This course explores electromagnetic phenomena in modern applications, including wireless and optical communications, circuits, computer interconnects and peripherals, microwave communications and radar, antennas, sensors, micro-electromechanical systems, and power generation and transmission. Fundamentals include quasistatic and dynamic solutions to Maxwell's equations; waves, radiation, and diffraction; coupling to media and structures; guided waves; resonance; acoustic analogs; and forces, power, and energy.",
+        "features": "Demonstration - video, Online textbooks, Lecture notes, Assignments and solutions, Exams and solutions",
+        "id": "6-013-electromagnetics-and-applications-spring-2009",
+        "instructors": "Prof. David Staelin",
+        "level": "Undergraduate",
+        "mcn": "6.013",
+        "sem": "Spring 2009",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-spring-2009/6-013s09-th.jpg",
+        "title": "Electromagnetics and Applications"
+    },
+    {
+        "description": "This course explores electromagnetic phenomena in modern applications, including wireless communications, circuits, computer interconnects and peripherals, optical fiber links and components, microwave communications and radar, antennas, sensors, micro-electromechanical systems, motors, and power generation and transmission. Fundamentals covered include: quasistatic and dynamic solutions to Maxwell's equations; waves, radiation, and diffraction; coupling to media and structures; guided and unguided waves; resonance; and forces, power, and energy.Acknowledgments The instructors would like to thank Robert Haussman for transcribing into LaTeX the problem set and Quiz 2 solutions.",
+        "features": "Lecture notes, Assignments and solutions, Exams and solutions",
+        "id": "6-013-electromagnetics-and-applications-fall-2005",
+        "instructors": "Prof. David Staelin<br/>(Contributor), Prof. Erich Ippen<br/>(Contributor), Prof. Markus Zahn",
+        "level": "Undergraduate",
+        "mcn": "6.013",
+        "sem": "Fall 2005",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-013-electromagnetics-and-applications-fall-2005/6-013f05-th.jpg",
+        "title": "Electromagnetics and Applications"
+    },
+    {
+        "description": "An introduction to several fundamental ideas in electrical engineering and computer science, using digital communication systems as the vehicle. The three parts of the course&mdash;bits, signals, and packets&mdash;cover three corresponding layers of abstraction that form the basis of communication systems like the Internet. The course teaches ideas that are useful in other parts of EECS: abstraction, probabilistic analysis, superposition, time and frequency-domain representations, system design principles and trade-offs, and centralized and distributed algorithms. The course emphasizes connections between theoretical concepts and practice using programming tasks and some experiments with real-world communication channels.",
+        "features": "Video lectures, Online textbooks, Lecture notes, Assignments (no solutions), Exams (no solutions)",
+        "id": "6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012",
+        "instructors": "Prof. Hari Balakrishnan, Prof. George Verghese",
+        "level": "Undergraduate",
+        "mcn": "6.02",
+        "sem": "Fall 2012",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/6-02f12-th.jpg",
+        "title": "Introduction to EECS II: Digital Communication Systems"
+    },
+    {
+        "description": "\nIn this subject, we consider two basic topics in cellular biophysics, posed here as questions:\n\n\nWhich molecules are transported across cellular membranes, and what are the mechanisms of transport? How do cells maintain their compositions, volume, and membrane potential?\n\n\nHow are potentials generated across the membranes of cells? What do these potentials do?\n\n\nAlthough the questions posed are fundamentally biological questions, the methods for answering these questions are inherently multidisciplinary. As we will see throughout the course, the role of mathematical models is to express concepts precisely enough that precise conclusions can be drawn. In connection with all the topics covered, we will consider both theory and experiment. For the student, the educational value of examining the interplay between theory and experiment transcends the value of the specific knowledge gained in the subject matter.\nThis course is jointly offered through four departments, available to both undergraduates and graduates.",
+        "features": "Projects (no examples)",
+        "id": "6-021j-quantitative-physiology-cells-and-tissues-fall-2004",
+        "instructors": "Prof. Dennis Freeman",
+        "level": "Undergraduate",
+        "mcn": "6.021J",
+        "sem": "Fall 2004",
+        "thumb": "/courses/electrical-engineering-and-computer-science/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/6-021jf04-th.jpg",
+        "title": "Quantitative Physiology: Cells and Tissues"
+    }
+]

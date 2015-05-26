@@ -1,0 +1,313 @@
+[
+    {
+        "authors": [
+            "Andy Hopper",
+            "Andrew Rice",
+            "Alastair Beresford",
+            "Robert Harle",
+            "Ripduman Sohan"
+        ],
+        "description": "Digital technology is becoming an indispensable and crucial component of our lives, society, and the environment. Computing for the Future of the Planet is aframeworkfor computing in the context of problems facing the planet. It is currently the group's main theme, comprising of several projects which are found below.The framework has a number of goals:an optimal digital infrastructure(energy efficiency, energy monitoring and controlling systems, better reuse of components),sensing and optimising with a global world model(real-time environment sensing and using of novel cost algorithms, global scale monitoring and analysis),reliably predicting and reacting to our environment(global scale computing for accurate predictions, better understanding of models and their validity and model correction), anddigital alternatives to physical activities(new tools, environments and infrastructure for a greater shift to cyberspace regarding activities such as wealth creation and entertainment to reduce their impact on the physical world).In Feb 2010, theCFTFPprogramme has been awarded a funding package from Google which provides 'unrestricted' grants for two to three years to fund the research across the above mentioned four areas. Seepress articlefor more.&nbsp;Videos of talks given on the framework atGoogleand theUniversity of Edinburghare available.&nbsp;",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/cftfp.jpg",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/~acr31/poster/rice-future-poster.pdf",
+        "references": [
+            "http://www.cl.cam.ac.uk/~acr31/poster/rice-future-poster.pdf",
+            "http://www.cl.cam.ac.uk/~acr31/poster/rice-future-poster.pdf",
+            "http://www.businessweekly.co.uk/2010020336096/academia/research/google-research-first-for-cambridge.html",
+            "https://www.youtube.com/watch?v=LN4H6vk1xYA",
+            "https://www.youtube.com/watch?v=8PcVqTXIUO0"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Computing for the Future of the Planet (CFTFP)",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Ian Wassell",
+            "Bogdan Roman",
+            "Ramsey Faragher",
+            "Wei Chen",
+            "Steven Herbert",
+            "Xin Ding",
+            "Yu Wang"
+        ],
+        "description": "Wireless technology&nbsp;is always in the spotlight of data communications and is now also central in world-sensing applications. The group has been conducting fundamental research for digital transmission technology at the intersection of applied mathematics, computing and engineering&nbsp;&mdash; with a tradition of dealing with problems arising in the practical implementation of state-of-the-art techniques in wireless communications.The research into wireless communications within the group encompasses the areas of physical and access control layers. It built upon our years of developing channel models and channel codes for single and multiple antenna communication, modulation and detection schemes, applying that knowledge and experience in newer areas like ultra-wideband systems, wireless sensor networks, cooperative networks, cross-layer schemes and channel models for infrastructure monitoring.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/hough_waves3-mic.jpg",
+        "levels": "Advance",
+        "project_url": "http://dtg-wireless.cl.cam.ac.uk/",
+        "references": [
+            "http://dtg-wireless.cl.cam.ac.uk/",
+            "http://dtg-wireless.cl.cam.ac.uk/"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Wireless Communications",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Andy Hopper",
+            "Ripduman Sohan",
+            "Robert Harle",
+            "Lucian Carata",
+            "Sherif Akoush",
+            "Nikilesh Balakrishnan",
+            "Thomas Bytheway",
+            "George Coulouris"
+        ],
+        "description": "We are currently accepting PhD applications for the FRESCO project. &nbsp;Please contactDr Rip Sohanif you're interested in applying.The ProblemIn the last twenty years civil society has become increasingly dependent on the use of computing technology for its maintenance on a daily basis as well as its longer term advancement.  Computing technology is now embedded into the backbone of virtually all professional and personal aspects of society.  In this regard, technology has been immensely useful for the provision of platforms for the collection, extraction, manipulation and presentation of data. This, in turn, has been fundamental in enabling (either directly or indirectly) the computation of a wide range of empirical and quantitative data.Technology is particularly suited at supporting the computation of data for a number of reasons: it is simple and easy to automatically and reliably collect accurate and fine-grained data at large scale, it is possible to accurately classify, manipulate and perform computations on the collected data, it is possible to create very accurate virtual representations of real-world objects and behaviour and experiment with these representations in an empirical fashion and it enables quantitative reasoning of complexly interlinked and multi-variate information.However, the use of technology as a platform for enabling the computation of quantitative and empirical data is not foolproof.  In particular, there is rarely any mechanism for detecting or preventing the use of incorrect data in computations.  The consequences of this weakness can be serious.  For example, in July 2009 Northern Ireland Water sent out 7800 incorrect non-domestic water bills based on wrong data costing the company &pound; 250,000 in lost revenue.Similarly, incorrect or inaccurate computations may lead to the generation of incorrect or inaccurate results, the repercussions of which can be pronounced.  For example, a 2007 report by the Center For Economic and Public Policy in Washington D.C. found evidence that between the years of 2000--2002 faulty economic analysis by the IMF caused it to consistently overestimate Argentina's GDP growth. Consequently it inaccurately considered the country a safe risk and had lent it billions of dollars when the country economically collapsed in early 2002.While the consequences of utilising incorrect or inaccurate data or computation results is highly dependent on the problem domain and the manner in which the data or results are used, it is important to note that there are two trends that suggest that, generally, the consequences are likely to increase in severity in the future.Firstly there is the growing movement ofopen data. All over the world governments and private companies are releasing more and more (archived and real-time) datasets to the public in diverse areas.  Both individuals and corporations are beginning to rely on these datasets to provide useful services. Data-heavy domains such as scientific computing are moving towards models where both source and computed data is made available as evidence of correctness, justification for decisions, elucidation and for others to use and extend.  As this trend gains momentum we expect to see increased reliance on both original and derived datasets.  Incorrect or inaccurate datasets as a result of erroneous computations in this situation are likely to result in far reaching negative effects, especially where the services are used by or affect a large number of people.Secondly there is a growing movement towards highlylinked   datawhere datasets are directly connected to or indirectly   derived from multiple datasets.  In this situation data errors in   one dataset can affect many others.  Similarly, computational errors   in one stage of a data derivation pipeline may result in derived   data errors many stages later.  As data becomes increasingly linked   it is important that we are able to trace the origins of data both   from the perspective of what source data was involved in its   computationandhow the source data was transformed to create   it in order to be able to quickly and accurately identify and   correct any errors.Even in scenarios where data provenance is unimportant,computationalprovenance is beneficial in enabling users to reason about and trust results.  For example, there are increasing calls to base federal and national policy decisions on empirical data in the interests of increased government transparency and better informed citizens.  In this case citizens would benefit from computation provenance as it enables them to confirm the decision making process or, if necessary, refute it with evidence.FRESCOThe Fabric For Reproducible Computing (FRESCO) project aims to provide Operating System level support for computational and data provenance in a general purpose UNIX (Linux) system.The overall goal of the project is to allow users to query and archive the entire computational workflow resulting in the creation or change of any file on the machine and to export the archived workflow off-host so that the result can be independently reproduced on another system.FRESCO provides a tool for creating FRESCO archives that can be independently replayed on another host.  FRESCO archives are self-contained files that contain the workflow description, application binaries, shared libraries and input files necessary to reproduce the result on another host.  FRESCO achieves this goal by: (1) tracking the execution of applications on the system (2) the effects of application execution on file-level filesystem changes and (3) the application binaries, system libraries and non-deterministic inputs and events necessary to reproduce these changes independently off-host.FRESCO also provides support for more advanced workflow manipulation. It is possible to modify workflows to introduce or delete intermediate steps, change input data or non-deterministic events and branch and merge workflows.Currently, the FRESCO project has five major themes:Completeness: Our aim is to create a general-purpose tool suitable for use on a standard kernel and which does not require application specialisation.  We are striving to create a platform that is easily usable in any application domains and that can be readily deployed on a general purpose Linux system without requiring expert understanding. To that end we are open-sourcing our efforts for adoption by the wider community.Performance: In order for FRESCO to be considered as a standard system component it is important that it does not significantly slow down application execution.  To this end we are concentrating our efforts on minimising the computational and data storage overheads of the platformDistributed Systems: Large computations are commonly spread across multiple hosts some of which may not be controlled by FRESCO.  This theme of the project aims to optimise the behaviour of FRESCO across multiple distributed hosts so that users are able to reproduce workflows created across multiple hosts.Hardware Support: The hardware theme seeks to identify and explore changes in hardware useful for minimising the overhead of FRESCO as outlined in the Performance theme.Verification &amp; Validation: The final theme in the project aims to explore the theoretical aspects of computational and data provenance. We aim to develop techniques that allow us to determinewhydifferences in workflow replay arise and auto-correct them if possible.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/fresco.jpg",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/fresco/",
+        "references": [
+            "http://www.cl.cam.ac.uk/research/dtg/fresco/",
+            "http://www.cl.cam.ac.uk/research/dtg/fresco/",
+            "../../../~rss39"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "FRESCO: A Fabric For Reproducible Computation",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Andy Hopper",
+            "Robert Harle",
+            "Agata Brajdic",
+            "Ramsey Faragher",
+            "Bogdan Roman"
+        ],
+        "description": "Location information is an important source of context for ubiquitous computing systems. Today GPS allows a device to locate itself to within 25m in an outdoor environment, but indoor localisation remains an open research problem. Researchers have yet to develop a system which can be easily and cheaply deployed in a large building, whilst still providing accurate localisation.The group has a long history of research and also development of indoor localisation systems, e.g. the Bat system based on ultrasound, a wearable indoor localisation system based on inertial measurements and particle filtering, trolley tracking in stores using cameras etc. We're currently expanding our research in indoor localisation using RF signals coupled with opportunistic signals (which exist around us inherently), Software Defined Radio and also sensors on the mobile phones.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/inert.png",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/~ojw28/localisation.html",
+        "references": [
+            "http://www.cl.cam.ac.uk/~ojw28/localisation.html",
+            "http://www.cl.cam.ac.uk/~ojw28/localisation.html"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Indoors localisation and tracking",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Robert Harle",
+            "Gareth Bailey",
+            "George Coulouris",
+            "Andy Hopper",
+            "Marcelo Pias",
+            "Salman Taherian"
+        ],
+        "description": "TheSESAMEconsortium is a multidisciplinary group formed to investigate the use of wireless sensor-based systems (e.g. on-body, pressure, trajectory aid etc.) with offline and real-time processing and feedback (e.g. high speed and infra-red cameras, synchronization mechanisms, system-on-chip etc.) in enhancing the performance of elite athletes and young athletes who have been identified as having world class potential.The overall goals of the project lie in enhancing performance, improving coach education, and advancing sports science using a range of both hardware and software technologies to achieve this. In so doing, we will build on the extensive experience that exists both within and outside the consortium in the application of sensor systems to human and animal monitoring, and we will seek to advance that knowledge both in terms of outcomes that are specific to sports and in terms of computer science fundamentals.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/sesame.jpg",
+        "levels": "Advance",
+        "project_url": "http://sesame-wiki.cl.cam.ac.uk/twiki/bin/view/Sesame",
+        "references": [
+            "http://sesame-wiki.cl.cam.ac.uk/twiki/bin/view/Sesame",
+            "http://sesame-wiki.cl.cam.ac.uk/twiki/bin/view/Sesame"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Sensing for Sport And Managed Exercise",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Bogdan Roman",
+            "Ian Wassell",
+            "Ioannis Chatzigeorgiou"
+        ],
+        "description": "The current wireless trend raises issues that call for thorough investigation and improved designs in channel access and contention mechanisms. Our interests lie in scalability and efficiency as well as low-power and reliableQoSfor challenging scenarios. We are interested in the design, modelling and implementation of wireless schemes capable of coping with large and dense networks, and rapid topology changes while striving for low-complexity.As part of this research, we developedMulti-Carrier Burst Contention(MCBC), a new class of cross-layer wireless protocols which use randomized and multi-dimensional contention schemes. It exploits both the frequency and time domains, mapping contention onto randomOFDMsubcarriers, and employs custom shaped energy bursts.TheMCBCproject has been awarded by Microsoft Research as part of the competition Microsoft Research Software Radio Academic Program 2010. The grant, in the form ofSDRhardware equipment, will allow the implementation of fully-featuredMCBCprototypes and advance research into multi-carrier techniques.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/mcbc-manhattan.jpg",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/~abr28/mcbc/",
+        "references": [
+            "http://www.cl.cam.ac.uk/~abr28/mcbc/",
+            "http://www.cl.cam.ac.uk/~abr28/mcbc/"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Cross-Layer Wireless Schemes",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Daniel Thomas",
+            "Alastair Beresford",
+            "Andrew Rice"
+        ],
+        "description": "The aim of the Nigori project is to develop a pratical, application neutral, peer-reviewed mechanism for storing sensitive user data in the cloud in such away that the cloud provider and application developer cannot read any of the stored data. Nigori handles the synchronisation of data in a distributed system of devices using untrusted cloud services and local reconciliation using application developer specified logic.There are (or will be) implementations in Java, Python, Dart and OCaml allowing support for many platforms for clients and servers, in particular android smartphones and desktop browser extensions.This project is funded by Google.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/nigori-logo-200.png",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/nigori/",
+        "references": [
+            "http://www.cl.cam.ac.uk/research/dtg/nigori/",
+            "http://www.cl.cam.ac.uk/research/dtg/nigori/"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Nigori - Secrets in the cloud",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Ian Wassell",
+            "Ioannis Chatzigeorgiou",
+            "Weisi Guo"
+        ],
+        "description": "Conventionally, wireless communications share limited resources through competition and allocation.&nbsp; One of the major challenges faced is the interference which arises from the same signal travelling through multiple different propagation paths.&nbsp; Instead of increasing the resilience of communication to combat this effect, our work investigates how resource cooperation between users can exploit and benefit from the multipath effects.&nbsp; Our research field is known as cooperative or collaborative communications, where users act as relays to assist other users or more simply: multiple relays assist a user in transmission.&nbsp; Our investigation aims to optimize the performance of multi-user systems employing high performance codes, i.e. block and turbo codes.&nbsp; We believe our work offers significant contributions to existing work which focuses primarily on pure relay networks and multi-user networks employing simple coding schemes.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/Fading Paths.jpg",
+        "levels": "Advance",
+        "project_url": "http://dtg-wireless.cl.cam.ac.uk/wct_aplic_area3.html",
+        "references": [
+            "http://dtg-wireless.cl.cam.ac.uk/wct_aplic_area3.html",
+            "http://dtg-wireless.cl.cam.ac.uk/wct_aplic_area3.html"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Cooperative Wireless Networks",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Andrew Rice",
+            "Oliver Woodman"
+        ],
+        "description": "In order to collect a detailed indoor plan of buildings, we think that this information is best entered and kept up to date by building users themselves.OpenRoomMapis a system that allows users to annotate building floor maps with fine-grain positioned furniture, appliances and room features, in a user-friendly graphical user interface. It can also be used to easily locate and visualize people's offices.OpenRoomMapis deployed in the Computer Laboratory building, where users have populated the floor maps with various annotations: the names of the floorboxes in offices, the location of air vents, the name and position of workstations, position of desks, shelving and appliances and others.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/openroommap-med.png",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/openroommap",
+        "references": [
+            "http://www.cl.cam.ac.uk/research/dtg/openroommap",
+            "http://www.cl.cam.ac.uk/research/dtg/openroommap"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "OpenRoomMap",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Marcelo Pias",
+            "Salman Taherian",
+            "George Coulouris",
+            "Andy Hopper"
+        ],
+        "description": "The Cambridge Sensor Kit (CSK) is an pervasive platform for energy management, research and development that was implemented on top of theUCAM-WSB100 wireless sensor board, itself developed within the group. As part of theCFTFPframework, it is used to quantify the effective and wasteful energy usage in order to improve effectiveness by performing fine-grained energy monitoring (across housing/university), consumption modeling and providing energy feedback to users, consumption comparison and display and energy control tools. The first deployment of the system was in May 2009 within the lab's building. Since then it has been in continuous operation and has been expanded into households. TheCSKwireless subsystem has been released as an open-source hardware platform.TheCSKwas initially used to support the experimental work ofSESAME, an UK-funded project that investigates the use of sensor systems (in particular on-body wireless sensors) with off-line and real-time processing and feedback in enhancing the performance of elite athletes.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/csk.jpg",
+        "levels": "Advance",
+        "project_url": "http://www.cambridgesensorkit.org",
+        "references": [
+            "http://www.cambridgesensorkit.org",
+            "http://www.cambridgesensorkit.org",
+            "../../../~mp431/UCAM-WSB100.pdf",
+            "http://www.marcelopias.org/Home/sentient-sports"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "CSK Energy",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Simon Fothergill",
+            "Andy Hopper",
+            "George Coulouris",
+            "Robert Harle"
+        ],
+        "description": "Sentient or context-aware computers can sense and interpret their environment in order to act on or disseminate an \"understanding\" of what they perceive and optimise or allow us to optimise our behavior. This work, affiliated with theEPSRCSESAMEproject, addresses this within the domain of rowing.A system has been developed that helps an athlete maintain a consistently good technique by providing real-time and post-workout feedback on aspects of their technique by non-invasively sensing their movements as the row using an ergometer.  The dataset collected is used to evaluate algorithms for assessing the similarity of two performances and supplementing coaches' verbal feedback by recognising common faults in technique.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/emcs0.jpg",
+        "levels": "Advance",
+        "project_url": "http://www.cl.cam.ac.uk/~jsf29/phd.html",
+        "references": [
+            "http://www.cl.cam.ac.uk/~jsf29/phd.html",
+            "http://www.cl.cam.ac.uk/~jsf29/phd.html",
+            "http://www.sesame.ucl.ac.uk/"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "Automated Assessment of Kinaesthetic Performance in Rowing",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": [
+            "Andrew Rice",
+            "Dominic Orchard"
+        ],
+        "description": "Programming languages provide an interface for developing increasingly complex models in science. However, as computer models grow more complex, it is  increasingly difficult to deliver on core requirements such as verifiability, maintainability, understandability, validity, and portability.Managing software complexity more effectively   has been a focus of programming language research for many years, yet we see little adoption of new approaches in the natural sciences. Instead we see scientists continually striving to evolve their software to more complex models, or bigger data sets or novel execution architectures.We are running an multidisciplinary project involving computer scientists and natural scientists to understand how state-of-the-art programming language research can be leveraged for more effective programming in the sciences.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/www/research/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/www/images/research/HaskellLogoStyPreview-1.png",
+        "levels": "Advance",
+        "project_url": "https://www.cl.cam.ac.uk/research/dtg/naps",
+        "references": [
+            "https://www.cl.cam.ac.uk/research/dtg/naps",
+            "https://www.cl.cam.ac.uk/research/dtg/naps"
+        ],
+        "tags": [
+            "Digital Technology"
+        ],
+        "title": "New approaches to programming in the sciences",
+        "type": "Research",
+        "university": "cambridge",
+        "year": "2014"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Implement anti-spam algorithm (e.g. Trust Rank) on a collection of webpages",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Implement a better version of topic-sensitive PageRank on a collection of webpages (by \"better,\" we mean \"incorporating your own ideas\")",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Implement collaborative filtering technique on certain basket/item data (from Ebay or Amazon, for instance)",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Tell something useful about a collection of documents -- Web pages, news articles, reviews, blogs, e.g. Possible goals include identifyingsentiment(is a review positive or negative?), telling wise blogs from foolish, telling real news from publicity releases",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Frequency-Domain Characterization of Trending Topics",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "A Music Recommendation System based on Yahoo! Data Corpus",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Identifying Trending Topics on Twitter",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Wikipedia vandalism",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Product Offer Comparison across Different Merchants",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Extracting Information from Yelp Reviews",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Exploring Methods of De-Novo Short Read Assembly Using MapReduce",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Topic Chaining and Phrase Linking",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Understanding Correlations between Product Reviews and Ratings",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Finding the Social Roots of Controversy in Wikipedia",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Techniques to improve detection of trending topics on Twitter",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Mining Hospital Records for Predicting Patient Drop-off",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Social Information Engine: Data Mining Twitter for Product Recommendations",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Comparing the impact of cross-disciplinary and cross-institutional academic research: An exploration of the ISI Web of Science database",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Woodstock: Using Twitter tweets' sentiments to predict stock price change",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Book Recommendation System",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Seven years of Wikipedia's Revision History as a Time dependent Graph: A Love Story",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Adaptive Locality Sensitive Hashing for Recommending Twitter Followers",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Combining Content Filtering and Collaborative Filtering for the Netflix Prize",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Twitter #Hashtags",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Collaborative Filtering on Netflix Challenge",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "A Music Recommendation System",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Content Based Auto-tagging of Flickr Images using ImageWebs",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "A Data Mining Based Approach to Determining Causal Associations Between Drugs and Condition",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Twitter Personal Newspaper",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "WikiSuggest: A Suggestion Engine for Editors on Wikipedia",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "Hashtags on Twitter",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    },
+    {
+        "title": "OMOP Cup",
+        "university": "Stanford University",
+        "url": "http://snap.stanford.edu/class/cs345a-2010/project.html",
+        "year": 2010
+    }
+]

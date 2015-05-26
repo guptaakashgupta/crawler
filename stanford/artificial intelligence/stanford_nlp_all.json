@@ -1,0 +1,3392 @@
+[
+    {
+        "authors": "Zoe Abrams, Mark Chavira, and Dik Kin Wong",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/mchavira/project.htm",
+                "Gender Classification of Literary Works"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Gender Classification of Literary Works",
+        "year": 2000
+    },
+    {
+        "authors": "Magnus Almgren and Jenny Berglund<DT><a href=\"staceyb/writeup.doc\">Stacey Map</a>\n<DD>Stacey Berkowitz",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/berglund/report.pdf",
+                "Information Extraction of Seminar\n\t  Information"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Information Extraction of Seminar\n\t  Information",
+        "year": 2000
+    },
+    {
+        "authors": "Dmitri Bobrovnikoff",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/dmitrib/report.pdf",
+                "Semantic Bootstrapping with a\n\t  cluster-based extension to DIPRE"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Semantic Bootstrapping with a\n\t  cluster-based extension to DIPRE",
+        "year": 2000
+    },
+    {
+        "authors": "Francis Bond, Roger Levy, Kyonghee Paik, Colleen Richey, and Ana\n\tPaula Quirino Sim&otilde;es",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/bond/final-writeup.pdf",
+                "Interleaving Translation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Interleaving Translation",
+        "year": 2000
+    },
+    {
+        "authors": "Chris Callison-Burch and Philip Shilane",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/philips/project.pdf",
+                "A Natural Language Question and Answer \n\t  System"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Natural Language Question and Answer \n\t  System",
+        "year": 2000
+    },
+    {
+        "authors": "Alex Carobus and Jyoti Paul",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/jpaul2/paperoutline.html",
+                "A Distributed Two-Tier\n\t  Architecture for Multiple Domain Language Understanding:\nCombining Call-Routing and Domain Specific Understanding to Increase\n\t  Performance, Location Independance and Scalability"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Distributed Two-Tier\n\t  Architecture for Multiple Domain Language Understanding:\nCombining Call-Routing and Domain Specific Understanding to Increase\n\t  Performance, Location Independance and Scalability",
+        "year": 2000
+    },
+    {
+        "authors": "Daniel Chai",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/dchai/project.pdf",
+                "A Trainable Web Page Document Summarizer"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Trainable Web Page Document Summarizer",
+        "year": 2000
+    },
+    {
+        "authors": "Jeff Chang",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/jefftc/finalproj.pdf",
+                "Using the MeSH Hierarchy to Index\n\t  Bioinformatics Articles"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using the MeSH Hierarchy to Index\n\t  Bioinformatics Articles",
+        "year": 2000
+    },
+    {
+        "authors": "Brent Fitzgerald",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/brentf/report.pdf",
+                "Implementation of an Automated Text\n\t  Segmentation System using Hearst's TextTiling Algorithm"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Implementation of an Automated Text\n\t  Segmentation System using Hearst's TextTiling Algorithm",
+        "year": 2000
+    },
+    {
+        "authors": "Elif Kurklu",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/ekurklu/ProjectReport.htm",
+                "Natural language generation\nusing recursive grammars and word collocation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Natural language generation\nusing recursive grammars and word collocation",
+        "year": 2000
+    },
+    {
+        "authors": "Ido Milstein and Magnus Sandberg",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/magnuss/report.pdf",
+                "An Association-based Approach to\n\t  Semantics"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "An Association-based Approach to\n\t  Semantics",
+        "year": 2000
+    },
+    {
+        "authors": "Paul Ruhlen, Husrev Tolga Ilhan, and Vladimir Livshits",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/ruhlen/Project.html",
+                "Unsupervised Web Page Clustering"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Unsupervised Web Page Clustering",
+        "year": 2000
+    },
+    {
+        "authors": "Ben Taskar",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2000/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2000/btaskar/report.htm",
+                "Part-of-Speech Tagging Using Iterative\n\t  Relaxation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Part-of-Speech Tagging Using Iterative\n\t  Relaxation",
+        "year": 2000
+    },
+    {
+        "authors": "Annaka Kalton",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001akalton/Mockingbird.html",
+                "Mockingbird: A stylistic text imitation system"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Mockingbird: A stylistic text imitation system",
+        "year": 2001
+    },
+    {
+        "authors": "Laura Back & Alexei Kosut",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001akosut/writeup.pdf",
+                "Categorizing Documents Based on Learned Rules"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Categorizing Documents Based on Learned Rules",
+        "year": 2001
+    },
+    {
+        "authors": "Alex Gruenstein",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001alexgru/writeup.ps",
+                "Learning Hypernyms from Corpora"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Learning Hypernyms from Corpora",
+        "year": 2001
+    },
+    {
+        "authors": "Aaron R. Bradley & Andrew M. Bradley",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001ambrad/writeup.pdf",
+                "EMU: A Web Portal Generator"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "EMU: A Web Portal Generator",
+        "year": 2001
+    },
+    {
+        "authors": "Sep Kamvar & Carla Pinon",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001cpinon/writeup.pdf",
+                "Probabilistic Models for Automatic Text Classification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Probabilistic Models for Automatic Text Classification",
+        "year": 2001
+    },
+    {
+        "authors": "Tom Griffiths",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001gruffydd/index.html",
+                "Bayesian Smoothing Through Text Classification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Bayesian Smoothing Through Text Classification",
+        "year": 2001
+    },
+    {
+        "authors": "Alex Khomenko & Nickolay Stanev",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001homa/README.txt",
+                "Extracting Collocations From a Corpus and Finding Relations Between Them"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting Collocations From a Corpus and Finding Relations Between Them",
+        "year": 2001
+    },
+    {
+        "authors": "Justin Lessler",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001jlessler/FinalProj.html",
+                "Extracting \"Who is?\" Data From Web Pages"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting \"Who is?\" Data From Web Pages",
+        "year": 2001
+    },
+    {
+        "authors": "Jim McFadden",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001jmcf/writeup.html",
+                "Information Extraction with Hidden Markov Models"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Information Extraction with Hidden Markov Models",
+        "year": 2001
+    },
+    {
+        "authors": "Stephen Patel & Joseph Smarr",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001jsmarr/NGramWordClassifier.pdf",
+                "Automatic Classification of Previously Unseen Proper Noun Phrases into Semantic Categories Using an N-Gram Letter Model"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Classification of Previously Unseen Proper Noun Phrases into Semantic Categories Using an N-Gram Letter Model",
+        "year": 2001
+    },
+    {
+        "authors": "Matthew Chiu",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001mc77/summary.htm",
+                "Text Summarization System"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Text Summarization System",
+        "year": 2001
+    },
+    {
+        "authors": "Matt Ginzton",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001mginzton/writeup.doc",
+                "Usenet (or Email) Message Thread Analyzer"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Usenet (or Email) Message Thread Analyzer",
+        "year": 2001
+    },
+    {
+        "authors": "Nancy R. Zhang",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001nzhang/NancyZhang_CS224nFinalProject.pdf",
+                "Hidden Markov Models for Information Extraction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Hidden Markov Models for Information Extraction",
+        "year": 2001
+    },
+    {
+        "authors": "Scott Sanner",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2001",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2001sanner/CS224NFP.doc",
+                "HMM-Based Text Extractor"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "HMM-Based Text Extractor",
+        "year": 2001
+    },
+    {
+        "authors": "Alexis Battle & Huy Nguyen",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002alexis-battle-huy-nguyen-report.pdf",
+                "Verb Selectional Preferences and Clustering"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Verb Selectional Preferences and Clustering",
+        "year": 2002
+    },
+    {
+        "authors": "Gloria T. Lau",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002gloria-lau-report.pdf",
+                "REGBASE: An Information Infrastructure for Regulation Management and \nAnalysis"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "REGBASE: An Information Infrastructure for Regulation Management and \nAnalysis",
+        "year": 2002
+    },
+    {
+        "authors": "Jared Mowery",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002jared-mowery-report.doc",
+                "A Natural Language Generation System for Database Summarization"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Natural Language Generation System for Database Summarization",
+        "year": 2002
+    },
+    {
+        "authors": "Jinxing Cheng",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002jim-cheng-report.pdf",
+                "A Question Answering System for Construction Project Management"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Question Answering System for Construction Project Management",
+        "year": 2002
+    },
+    {
+        "authors": "Ash Brown & Levente Barczy",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002levente-barczy-ash-brown-report.doc",
+                "Examining the Effects of Relative Clause Chunking on POS Accuracy"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Examining the Effects of Relative Clause Chunking on POS Accuracy",
+        "year": 2002
+    },
+    {
+        "authors": "Steven S. Ngai & Randy B. Gullett",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002randy-gullet-steven-ngai-report.doc",
+                "Example-Based Machine Translation: An Investigation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Example-Based Machine Translation: An Investigation",
+        "year": 2002
+    },
+    {
+        "authors": "Teg Grenager & Galen Andrew",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002galen-andrew-trond-grenager-report.ps",
+                "Using Simultaneous Training to Improve the Performance of both a Verb\nSubcategorization Model and a Word Sense Model"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using Simultaneous Training to Improve the Performance of both a Verb\nSubcategorization Model and a Word Sense Model",
+        "year": 2002
+    },
+    {
+        "authors": "KarWaii (Sammy) Sy",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002sammy-sy-report.doc",
+                "Project Enhanced Google"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Project Enhanced Google",
+        "year": 2002
+    },
+    {
+        "authors": "Thai Tran",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002thai-tran-report.doc",
+                "Inside Yahoo! Generator"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Inside Yahoo! Generator",
+        "year": 2002
+    },
+    {
+        "authors": "Serge Saxonov & Iwei Yeh",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002serge-saxonov-iwei-yeh-report.doc",
+                "Annotating Protein Clusters and Motifs"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Annotating Protein Clusters and Motifs",
+        "year": 2002
+    },
+    {
+        "authors": "Steven Branson",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002steven-branson-report.html",
+                "Head-Driven Corpus-Based Natural Language Generation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Head-Driven Corpus-Based Natural Language Generation",
+        "year": 2002
+    },
+    {
+        "authors": "Yulin Li",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2002",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2002yulin-li-report.html",
+                "Hyponym Hierarchy Extraction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Hyponym Hierarchy Extraction",
+        "year": 2002
+    },
+    {
+        "authors": "Brendan O'Connor",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/brendano/writing/writeup.doc",
+                "Clustering Political Words: Senses and Connotations"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Clustering Political Words: Senses and Connotations",
+        "year": 2003
+    },
+    {
+        "authors": "Chuong Do",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/chuongdo/cs224n-fpp.pdf",
+                "Posterior Decoding for Generative Constituent-Context Grammar Induction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Posterior Decoding for Generative Constituent-Context Grammar Induction",
+        "year": 2003
+    },
+    {
+        "authors": "Yuanli Zhou",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/ecelyft/Writeup.doc",
+                "Transformation-Based Learning \nFor English Grapheme-to-Phoneme Conversion"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Transformation-Based Learning \nFor English Grapheme-to-Phoneme Conversion",
+        "year": 2003
+    },
+    {
+        "authors": "Haoyi Wang and Yang Huang",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/huangy/final_project.doc",
+                "Bondec - A Sentence Boundary Detector"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Bondec - A Sentence Boundary Detector",
+        "year": 2003
+    },
+    {
+        "authors": "Jenny Finkel and Penka Markova",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/jrfinkel/report.doc",
+                "Using Hidden Markov Models to Extract Target Phrases \nFrom Text"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using Hidden Markov Models to Extract Target Phrases \nFrom Text",
+        "year": 2003
+    },
+    {
+        "authors": "Keith Ito",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/keithito/paper.ps",
+                "Email Event Extraction and Interpretation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Email Event Extraction and Interpretation",
+        "year": 2003
+    },
+    {
+        "authors": "Susumu Harada and Shashikant Khandelwal",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/kshashi/project_khandelwal_harada.doc",
+                "Automatic Topic Extraction and \nClassification of Usenet Threads"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Topic Extraction and \nClassification of Usenet Threads",
+        "year": 2003
+    },
+    {
+        "authors": "Dan Siroker and Steve Miller",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/millersj/cs224nfp.pdf",
+                "Topic Clustering, Summarization, and Visualization"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Topic Clustering, Summarization, and Visualization",
+        "year": 2003
+    },
+    {
+        "authors": "Mohith Julapalli and Sameer Dhond",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/mohith/paper.pdf",
+                "Word Alignment in Bilingual Parallel Corpora"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Word Alignment in Bilingual Parallel Corpora",
+        "year": 2003
+    },
+    {
+        "authors": "Margaret Aycinena, Mykel J. Kochenderfer and David Carl Mulford",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/mykel/induction.pdf",
+                "An Evolutionary Approach to Natural Language Grammar \nInduction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "An Evolutionary Approach to Natural Language Grammar \nInduction",
+        "year": 2003
+    },
+    {
+        "authors": "Patri Friedman",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/patri/patri-final-224n.pdf",
+                "Automated Web Search Classification and \nRefinement"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automated Web Search Classification and \nRefinement",
+        "year": 2003
+    },
+    {
+        "authors": "Jeanette Pettibone and Heather Pon-Barry",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/ponbarry/pettibon-ponbarry-final8.ps",
+                "A Maximum Entropy Approach to \nRecognizing Discourse Relations in Spoken Language"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Maximum Entropy Approach to \nRecognizing Discourse Relations in Spoken Language",
+        "year": 2003
+    },
+    {
+        "authors": "Ari Greenberg and Praveen Srinivasan",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/praveens/finalproj.pdf",
+                "A Survey of Algorithms to Properly Order Adjective \nTrigrams"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Survey of Algorithms to Properly Order Adjective \nTrigrams",
+        "year": 2003
+    },
+    {
+        "authors": "Chris Cox, Michael Siliski and Charlie Stockman",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/siliski/report.doc",
+                "Clustering Web Search Results"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Clustering Web Search Results",
+        "year": 2003
+    },
+    {
+        "authors": "Tyrone Nicholas",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/tyronen/report.pdf",
+                "Using AdaBoost and Decision Stumps to Identify Spam \nE-mail"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using AdaBoost and Decision Stumps to Identify Spam \nE-mail",
+        "year": 2003
+    },
+    {
+        "authors": "Vassil Chatalbashev",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/vasco/mnpaper.ps",
+                "Hierarchical Classification Using Markov Networks"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Hierarchical Classification Using Markov Networks",
+        "year": 2003
+    },
+    {
+        "authors": "Yirong Shen and Jing Jiang",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/yirong99/report.pdf",
+                "Improving the Preformance of Naive Bayes for Text \nClassification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Improving the Preformance of Naive Bayes for Text \nClassification",
+        "year": 2003
+    },
+    {
+        "authors": "Taqi Jaffri",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/tjaffri/tjaffri_CS224N.doc",
+                "The Emotion Bot"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "The Emotion Bot",
+        "year": 2003
+    },
+    {
+        "authors": "Imran Q. Sayed",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2003/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2003/fp/iqsayed/project_report.pdf",
+                "Issues in Anaphora Resolution"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Issues in Anaphora Resolution",
+        "year": 2003
+    },
+    {
+        "authors": "Julie Black and Nisheeth Ranjan",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/jblack-final-report.pdf",
+                "Automated Event Extraction from Email"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automated Event Extraction from Email",
+        "year": 2004
+    },
+    {
+        "authors": "Louis Eisenberg",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/eisenberg-cs224n-report.doc",
+                "Comparing Naive Bayesian and k-NN algorithms for automatic email\nclassification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Comparing Naive Bayesian and k-NN algorithms for automatic email\nclassification",
+        "year": 2004
+    },
+    {
+        "authors": "Dan Fingal, Jeff Michels, Jamie Nicolson",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/jmichels-writeup.pdf",
+                "Summarizing Movie Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Summarizing Movie Reviews",
+        "year": 2004
+    },
+    {
+        "authors": "Daniel Gindikin and Pierre Ponce",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/GindikinReport224n.doc",
+                "Automatic Mnemonic Device Generation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Mnemonic Device Generation",
+        "year": 2004
+    },
+    {
+        "authors": "Kavi Goel, Anthony Huiabove one is where I was up to in going through them in fp dirorder....",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/huics_kgoel_final_project.htm",
+                "Sentiment Extraction and Classification of Movie Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Extraction and Classification of Movie Reviews",
+        "year": 2004
+    },
+    {
+        "authors": "Aria Haghighi, Guy Isley, Alex Williams",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/guyi-writeup.pdf",
+                "Answer Extraction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Answer Extraction",
+        "year": 2004
+    },
+    {
+        "authors": "Richard May and Ari Steinberg",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/may-steinberg-project.pdf",
+                "Building a Question Classifier for a TREC-Style\nQuestion Answering System"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Building a Question Classifier for a TREC-Style\nQuestion Answering System",
+        "year": 2004
+    },
+    {
+        "authors": "Matthew Rubens and Puneet Agarwal",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/cs224n_final_mrubens_agarwalp.pdf",
+                "Information Extraction from Online Automotive Classifieds"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Information Extraction from Online Automotive Classifieds",
+        "year": 2004
+    },
+    {
+        "authors": "Rion Snow and Kayur Patel",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2004/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2004/AHC_0602_FINAL_nlp.pdf",
+                "Automatic Hypernym Classification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Hypernym Classification",
+        "year": 2004
+    },
+    {
+        "authors": "Adam Ginsburg",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/AdamGinsburg",
+                "Using NLP for Information Retrieval Against a Large,\nHeterogeneous Product Catalog"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using NLP for Information Retrieval Against a Large,\nHeterogeneous Product Catalog",
+        "year": 2005
+    },
+    {
+        "authors": "Peter Ciccolo, Robbie Yan",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/Ciccolo-final-writeup.rtf",
+                "Author Classification for Weblogs"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Author Classification for Weblogs",
+        "year": 2005
+    },
+    {
+        "authors": "Colin Schatz",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/CSchatz_CS224N.doc",
+                "NLP in Fictional Interactive Environments"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "NLP in Fictional Interactive Environments",
+        "year": 2005
+    },
+    {
+        "authors": "David Kale and Gauhar Wadhera",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/Kale-ProjectReport.pdf",
+                "Hidden State Language Modeling Based on Soft-membership Clustering of Words"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Hidden State Language Modeling Based on Soft-membership Clustering of Words",
+        "year": 2005
+    },
+    {
+        "authors": "Paul Fontes and David Orr",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/Fontes-cs224n_project.doc",
+                "Relativizer Frequency as Influenced by Relative Clause Predictability"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Relativizer Frequency as Influenced by Relative Clause Predictability",
+        "year": 2005
+    },
+    {
+        "authors": "Joshua Ainslie, Roger Grosse, and Mark Linsey",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/AinslieGrosseLinsey.doc",
+                "Maximum Entropy Text Classification by Political Stance"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Maximum Entropy Text Classification by Political Stance",
+        "year": 2005
+    },
+    {
+        "authors": "Joseph Baker-Malone and David Christie",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/dchrist-jmalone.pdf",
+                "An Anaphora Resolver for Parsed Sentences"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "An Anaphora Resolver for Parsed Sentences",
+        "year": 2005
+    },
+    {
+        "authors": "Neha Agarwal, Kelley Herndon Ford, and Max Shneider",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/agarwal_herndon_shneider_final.pdf",
+                "Sentence Boundary Detection Using a MaxEnt Classifier"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentence Boundary Detection Using a MaxEnt Classifier",
+        "year": 2005
+    },
+    {
+        "authors": "Oleg Slezberg",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/olegs.doc",
+                "Applying NLP Techniques to Improve Cranfield Collection IR Precision"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Applying NLP Techniques to Improve Cranfield Collection IR Precision",
+        "year": 2005
+    },
+    {
+        "authors": "Michael Turitzin",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/turitzin.pdf",
+                "Statistical Machine Translation of French and German into English Using \nIBM Model 2 Greedy Decoding"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Statistical Machine Translation of French and German into English Using \nIBM Model 2 Greedy Decoding",
+        "year": 2005
+    },
+    {
+        "authors": "Yu-shan Chang and Yun-Hsuan Sung",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/SungChang.pdf",
+                "Applying Name Entity Recognition to Informal Text"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Applying Name Entity Recognition to Informal Text",
+        "year": 2005
+    },
+    {
+        "authors": "Cheng-Tao Chu, Ryohei Takahashi, Pei-Chin Wang",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/Chu-Takahashi-project-report.pdf",
+                "Classifying the Sentiment\nof Movie Review Data"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Classifying the Sentiment\nof Movie Review Data",
+        "year": 2005
+    },
+    {
+        "authors": "Anna Rafferty and TongKe Xue",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/rafferty-xue.pdf",
+                "Increasing Accuracy While Maintaining\nMinimal Grammars in CKY Parsing"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Increasing Accuracy While Maintaining\nMinimal Grammars in CKY Parsing",
+        "year": 2005
+    },
+    {
+        "authors": "Eric Yeh",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2005/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2005/Eric-Yeh-updated.pdf",
+                "Picking the Fresh from the Rotten: Quote and Sentiment Extraction from\nRotten Tomatoes Movie Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Picking the Fresh from the Rotten: Quote and Sentiment Extraction from\nRotten Tomatoes Movie Reviews",
+        "year": 2005
+    },
+    {
+        "authors": "Naren Chittar",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/chittar.doc",
+                "Entity Resolution of Person Names in Web Documents"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Entity Resolution of Person Names in Web Documents",
+        "year": 2007
+    },
+    {
+        "authors": "Natha Sakunkoo",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/sakunkoo.pdf",
+                "Improving Sentimental Classifications Using Contextual Sentences"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Improving Sentimental Classifications Using Contextual Sentences",
+        "year": 2007
+    },
+    {
+        "authors": "Deepa Paranjpe",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/paranjpe.pdf",
+                "Clustering Semantically Similar and Related Questions"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Clustering Semantically Similar and Related Questions",
+        "year": 2007
+    },
+    {
+        "authors": "Arpit Aggarwal and Vijay Krishnan",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/arpitagg-kvijay.doc",
+                "Text Classification based on Quality of Writing"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Text Classification based on Quality of Writing",
+        "year": 2007
+    },
+    {
+        "authors": "David Borowitz and Fred Wulff",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/borowitz-frew.pdf",
+                "Multi-Way, Multi-Stage Categorization on Pro ject Gutenberg"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Multi-Way, Multi-Stage Categorization on Pro ject Gutenberg",
+        "year": 2007
+    },
+    {
+        "authors": "Francisco Adarve and Helen Kwong and Mike Speriosu",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/adarve-kwong-speriosu.pdf",
+                "Topic Segmentation of Meetings Using Lexical Chains"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Topic Segmentation of Meetings Using Lexical Chains",
+        "year": 2007
+    },
+    {
+        "authors": "Dave Kale",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/kale.pdf",
+                "Learning Paraphrase Models from Google New Headlines"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Learning Paraphrase Models from Google New Headlines",
+        "year": 2007
+    },
+    {
+        "authors": "Ethan Dreyfuss and Ian Goodfellow and Paul Baumstarck<DT><a href=\"huetsch-sstiller.pdf\">Tone detection for Mandarin spontaneous speech\n\t  </a>\n<DD>Mark Huetsch and Stephan Stiller",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/ethand-ia3n-paulb42.pdf",
+                "Clustering Methods for Improving Language Models"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Clustering Methods for Improving Language Models",
+        "year": 2007
+    },
+    {
+        "authors": "Jingye Wang and Heng Re",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/johnnyw-hengren.pdf",
+                "Feature-based Customer Review Mining"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Feature-based Customer Review Mining",
+        "year": 2007
+    },
+    {
+        "authors": "Mike Mintz  and Eric Karl",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/mintz-ekarl.pdf",
+                "EMTAIL: Eric-Mike Tree Associations in Language"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "EMTAIL: Eric-Mike Tree Associations in Language",
+        "year": 2007
+    },
+    {
+        "authors": "Ryan Timmons and Kari Lee",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/timmonsr-kylee84.pdf",
+                "Predicting the Stock Market with News Articles"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Predicting the Stock Market with News Articles",
+        "year": 2007
+    },
+    {
+        "authors": "Jyotika Prasad and Antone R. Vogt and Riku Inoue",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2007/fp/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2007/fp/qa42.pdf",
+                "qa42: Web-Based Question Answering System"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "qa42: Web-Based Question Answering System",
+        "year": 2007
+    },
+    {
+        "authors": "Gaurav Aggarwal, Roshan Sumbaly, Shakti Sinha",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/0.pdf",
+                "Update Summarization"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Update Summarization",
+        "year": 2009
+    },
+    {
+        "authors": "Andrey Gusev",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/1.pdf",
+                "Multi-Lingual Document Tagging"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Multi-Lingual Document Tagging",
+        "year": 2009
+    },
+    {
+        "authors": "Albert Lai",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/2.pdf",
+                "Movie Title Recognition in E-Mails"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Movie Title Recognition in E-Mails",
+        "year": 2009
+    },
+    {
+        "authors": "AlecGo, Lei Huang, Richa Bhayani",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/3.pdf",
+                "Twitter Sentiment Analysis"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Twitter Sentiment Analysis",
+        "year": 2009
+    },
+    {
+        "authors": "Anton Andryeyev",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/4.pdf",
+                "Case Prediction for Morphologically Poor Languages"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Case Prediction for Morphologically Poor Languages",
+        "year": 2009
+    },
+    {
+        "authors": "Hieu Nguyen, Brian Sa",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/5.pdf",
+                "Rap Lyric Generator"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Rap Lyric Generator",
+        "year": 2009
+    },
+    {
+        "authors": "Chetan Kalyan, Min Young Kim",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/6.pdf",
+                "Detecting emotional scenes using Semantic Analysis  \non Subtitles"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Detecting emotional scenes using Semantic Analysis  \non Subtitles",
+        "year": 2009
+    },
+    {
+        "authors": "Maneesh Bhand, Dan Robinson, Conal Sathi",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/7.pdf",
+                "Text Classifiers for Political Ideologies"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Text Classifiers for Political Ideologies",
+        "year": 2009
+    },
+    {
+        "authors": "David O'Steen, David Breeden",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/8.pdf",
+                "Named Entity Recognition in Arabic: A \nCombined Approach"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Named Entity Recognition in Arabic: A \nCombined Approach",
+        "year": 2009
+    },
+    {
+        "authors": "Abhishek Gupta, Tejaswi Tenneti, Ankit Gupta",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/9.pdf",
+                "Sentiment based Summarization of Restaurant Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment based Summarization of Restaurant Reviews",
+        "year": 2009
+    },
+    {
+        "authors": "John Bauer",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/11.pdf",
+                "Clustering Scientific Articles"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Clustering Scientific Articles",
+        "year": 2009
+    },
+    {
+        "authors": "Kevin Jue, Nam Wook Kim",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/12.pdf",
+                "A System for Extracting Structural \nInformation \nfrom Online Advertisements"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A System for Extracting Structural \nInformation \nfrom Online Advertisements",
+        "year": 2009
+    },
+    {
+        "authors": "Brett Miller, Katsiap",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/14.pdf",
+                "Extracting Common Sentiments From Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting Common Sentiments From Reviews",
+        "year": 2009
+    },
+    {
+        "authors": "Jason Fennell, Karen Shiells, Bharath Sitaraman",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/15.pdf",
+                "Auto-Categorization of Businesses on Yelp.com"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Auto-Categorization of Businesses on Yelp.com",
+        "year": 2009
+    },
+    {
+        "authors": "Andres Cassinelli, Chih-Wei Chen",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/16.pdf",
+                "Boost up! Sentiment Categorization with Machine \nLearning Techniques"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Boost up! Sentiment Categorization with Machine \nLearning Techniques",
+        "year": 2009
+    },
+    {
+        "authors": "Gayle McElvain, Anand Madhavan",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/18.pdf",
+                "Automated Annotation for Medical Discharge Summaries"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automated Annotation for Medical Discharge Summaries",
+        "year": 2009
+    },
+    {
+        "authors": "Ravi Parikh and Matin Movassate",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/19.pdf",
+                "Sentiment Analysis of User-Generated Twitter \nUpdates using Various Classi\ufb01cation \nTechniques"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Analysis of User-Generated Twitter \nUpdates using Various Classi\ufb01cation \nTechniques",
+        "year": 2009
+    },
+    {
+        "authors": "Michael Levin, Suman Chakravartula, Adam Bliss",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/20.pdf",
+                "Automatic Comment Summarization"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Comment Summarization",
+        "year": 2009
+    },
+    {
+        "authors": "Michael Gummelt, David Brody",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/21.pdf",
+                "Converting In-N-Out Orders into a Structured Form"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Converting In-N-Out Orders into a Structured Form",
+        "year": 2009
+    },
+    {
+        "authors": "John Lewin, Alex Pribula",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/22.pdf",
+                "Extracting emotion from twitter"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting emotion from twitter",
+        "year": 2009
+    },
+    {
+        "authors": "xavier falco, rafi witten, robin zhou",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/24.pdf",
+                "sentiment and objectivity \nclassification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "sentiment and objectivity \nclassification",
+        "year": 2009
+    },
+    {
+        "authors": "Zandro Luis Gonazalez",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/25.pdf",
+                "Sentiment Analysis of Movie Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Analysis of Movie Reviews",
+        "year": 2009
+    },
+    {
+        "authors": "Nikhil Gupta, Praveen Kumar, Rahul Gupta",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/26.pdf",
+                "Automated extraction of product attributes from reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automated extraction of product attributes from reviews",
+        "year": 2009
+    },
+    {
+        "authors": "Karthik Raghunathan, Stefan Krawczyk",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/27.pdf",
+                "Investigating SMS Text Normalization using Statistical Machine \nTranslation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Investigating SMS Text Normalization using Statistical Machine \nTranslation",
+        "year": 2009
+    },
+    {
+        "authors": "David Murray, Josh Herbach, Rohan Jain",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/28.pdf",
+                "Information Extraction from Housing Advertisements"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Information Extraction from Housing Advertisements",
+        "year": 2009
+    },
+    {
+        "authors": "Saurabh Shrivastava",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/29.pdf",
+                "Extracting Polarity of Movie Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting Polarity of Movie Reviews",
+        "year": 2009
+    },
+    {
+        "authors": "Atif Faheem, Shahin Saneinejad",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/30.pdf",
+                "Improving Parsing Performance for Arabic PP Attachment Ambiguity"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Improving Parsing Performance for Arabic PP Attachment Ambiguity<DD>Spence Green\n  <DT><a href=\"fp/32.pdf\">Sentiment\nClassification\nOn\nMultiple\u2010Point\u2010Of\u2010Interest\nDocuments </a>",
+        "year": 2009
+    },
+    {
+        "authors": "Antonio Ricciardi",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/33.pdf",
+                "Classifying Second Life Player Gender Using Chat Data"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Classifying Second Life Player Gender Using Chat Data",
+        "year": 2009
+    },
+    {
+        "authors": "HeeTae Jung, Jonathan Hernandez, YongRim Rhee",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2009/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2009/fp/34.pdf",
+                "Predicting Category Tags \nby Using N-gram Models"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Predicting Category Tags \nby Using N-gram Models",
+        "year": 2009
+    },
+    {
+        "authors": "Amir Ghazvinian",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/amirg.pdf",
+                "Star Quality: Sentiment Categorization of Restaurant Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Star Quality: Sentiment Categorization of Restaurant Reviews",
+        "year": 2010
+    },
+    {
+        "authors": "Naveed Ahmad and Aram Zinzalian [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/aramz-naveed.pdf",
+                "Predicting Stock Volatility from Quarterly Earnings Calls and Transcript Summaries using Text Regression"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/aramz-naveed.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Predicting Stock Volatility from Quarterly Earnings Calls and Transcript Summaries using Text Regression",
+        "year": 2010
+    },
+    {
+        "authors": "Bipin Suresh",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/bipins.pdf",
+                "Inclusion of large input corpora in Statistical Machine Translation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Inclusion of large input corpora in Statistical Machine Translation",
+        "year": 2010
+    },
+    {
+        "authors": "Ciaran O'Reilly",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/ciarano.pdf",
+                "`These go to eleven' Investigations in tuning the Stanford Statistical Parser"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "`These go to eleven' Investigations in tuning the Stanford Statistical Parser",
+        "year": 2010
+    },
+    {
+        "authors": "Divij Gupta and Chanh Nguyen",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/divijg-chanhn.pdf",
+                "Detecting Real-Time Messages of Public Interest in Tweets"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Detecting Real-Time Messages of Public Interest in Tweets",
+        "year": 2010
+    },
+    {
+        "authors": "Robin Melnick and Dan Preston [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/dpreston-rmelnick.pdf",
+                "Great Food, Lousy Service: Topic Modeling for Sentiment Analysis in Sparse Reviews"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/dpreston-rmelnick.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Great Food, Lousy Service: Topic Modeling for Sentiment Analysis in Sparse Reviews",
+        "year": 2010
+    },
+    {
+        "authors": "Siddharth Batra and Deepak Rao [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/drao-sidbatra.pdf",
+                "Entity Based Sentiment Analysis on Twitter"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/drao-sidbatra.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Entity Based Sentiment Analysis on Twitter",
+        "year": 2010
+    },
+    {
+        "authors": "Erik Kuefler and Estelle Comment",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/ekuefler-estelle.pdf",
+                "Multi-Aspect Sentiment Classification of Reviews Via Sentence Selection"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Multi-Aspect Sentiment Classification of Reviews Via Sentence Selection",
+        "year": 2010
+    },
+    {
+        "authors": "Orr Keshet and Evan Rosen",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/emrosen-okeshet.pdf",
+                "Quote Clustering in Online News"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Quote Clustering in Online News",
+        "year": 2010
+    },
+    {
+        "authors": "Heeyoung Lee and Sudarshan Rangarajan [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/heeyoung-sudarshn.pdf",
+                "A Deterministic Coreference System with Rich Syntactic Features and Semantic Knowledge"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/heeyoung-sudarshn.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Deterministic Coreference System with Rich Syntactic Features and Semantic Knowledge",
+        "year": 2010
+    },
+    {
+        "authors": "Anand Iyer and Ritvik Mudur [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/iyera-rmudur.pdf",
+                "Question Classification using Latent Focus Words"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/iyera-rmudur.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Question Classification using Latent Focus Words",
+        "year": 2010
+    },
+    {
+        "authors": "James Mao",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/jamesmao.pdf",
+                "Modification Identification in Recipe Comments"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Modification Identification in Recipe Comments",
+        "year": 2010
+    },
+    {
+        "authors": "Divye Khilnani, Pranav Khaitan and Ye Jin [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/joiceye-divyeraj-pranavkh.pdf",
+                "A Novel Approach to Event Duration Prediction"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/joiceye-divyeraj-pranavkh.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Novel Approach to Event Duration Prediction",
+        "year": 2010
+    },
+    {
+        "authors": "Jun Araki",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/junaraki.pdf",
+                "Dialogue Act Recognition using Cue Phrases"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Dialogue Act Recognition using Cue Phrases",
+        "year": 2010
+    },
+    {
+        "authors": "Klaus V\u0e23\u0e16lker and Simone Wu",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/kavau-simonem.pdf",
+                "Unsupervised Methods for Word Disambiguation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Unsupervised Methods for Word Disambiguation",
+        "year": 2010
+    },
+    {
+        "authors": "Matt Bush, Ivan Lee and Tony Wu [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/mattbush-tonywu-iylee.doc",
+                "NLP-based Approach to Twitter User Classification"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/mattbush-tonywu-iylee.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "NLP-based Approach to Twitter User Classification",
+        "year": 2010
+    },
+    {
+        "authors": "Manoj Pawar and Deepak Mallya",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/mpawar-dmallya.doc",
+                "Automated Summarization of Restaurant Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automated Summarization of Restaurant Reviews",
+        "year": 2010
+    },
+    {
+        "authors": "Olalere Williams",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/olalerew.pdf",
+                "High-Performance Question Classification Using Semantic Features"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "High-Performance Question Classification Using Semantic Features",
+        "year": 2010
+    },
+    {
+        "authors": "Sander Parawira",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/parawira.pdf",
+                "Part of Speech Tagging using a Hidden Markov Model"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Part of Speech Tagging using a Hidden Markov Model",
+        "year": 2010
+    },
+    {
+        "authors": "Moontae Lee and Patrick Grafe [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/pgrafe-moontae.pdf",
+                "Multiclass Sentiment Analysis with Restaurant Reviews"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/pgrafe-moontae.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Multiclass Sentiment Analysis with Restaurant Reviews",
+        "year": 2010
+    },
+    {
+        "authors": "R.J. Walsh",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/rjwalsh.pdf",
+                "Sentiment Analysis of Stanford Course Reviews"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Analysis of Stanford Course Reviews",
+        "year": 2010
+    },
+    {
+        "authors": "Richard Frankel, Kara Levy and Kevin Montag",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/rof-karalevy-kmontag.pdf",
+                "The Metric System: Transforming Prose to Verse"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "The Metric System: Transforming Prose to Verse",
+        "year": 2010
+    },
+    {
+        "authors": "Ben Roth",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/rothben.pdf",
+                "Topic Extraction and Relation in Instant Messaging"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Topic Extraction and Relation in Instant Messaging",
+        "year": 2010
+    },
+    {
+        "authors": "John Rothfels and Julie Tibshirani",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/rothfels-jtibs.pdf",
+                "Unsupervised sentiment classification of English movie reviews using automatic selection of positive and negative sentiment items"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Unsupervised sentiment classification of English movie reviews using automatic selection of positive and negative sentiment items",
+        "year": 2010
+    },
+    {
+        "authors": "Saeed Hassanpour and Siddharth Taduri",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/saeedhp-staduri.pdf",
+                "Semantics-based Text Mining of Biomedical Concepts in Scientific Publications"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Semantics-based Text Mining of Biomedical Concepts in Scientific Publications",
+        "year": 2010
+    },
+    {
+        "authors": "Caitlin Colgrove, Sheldon Chang and Phumchanit (Yiam) Watanaprakornkul",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/sheldonc-yiam-colgrove.pdf",
+                "Literary Period Classification"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Literary Period Classification",
+        "year": 2010
+    },
+    {
+        "authors": "Neeraj Agrawal and Ankush Singla [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/singla-nirajuec.pdf",
+                "Using Named Entity Recognition to improve Machine Translation"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/singla-nirajuec.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Using Named Entity Recognition to improve Machine Translation",
+        "year": 2010
+    },
+    {
+        "authors": "Shrey Gupta and Sonali Aggarwal [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/sonali9-shreyg.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "#title We know what @you tweeted last summer !",
+        "year": 2010
+    },
+    {
+        "authors": "Sandeep Sripada, Venu Gopal Kasturi and Gautam Kumar Parai [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/ssandeep-venuk-gkparai.pdf",
+                "Multi-document extraction based Summarization"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/ssandeep-venuk-gkparai.odp",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Multi-document extraction based Summarization",
+        "year": 2010
+    },
+    {
+        "authors": "Julie Kane Ahkter and Steven Soria [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/ssoriajr-kanej.pdf",
+                "Sentiment Analysis: Facebook Status Messages"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/ssoriajr-kanej.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Analysis: Facebook Status Messages",
+        "year": 2010
+    },
+    {
+        "authors": "Suhaas Prasad",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/suhaasp.pdf",
+                "Micro-blogging Sentiment Analysis Using Bayesian Classification Methods"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Micro-blogging Sentiment Analysis Using Bayesian Classification Methods",
+        "year": 2010
+    },
+    {
+        "authors": "Sunil Khanal [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/sukhanal.pdf",
+                "Sentiment Classification using Language Models and Sentence Position Information"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/sukhanal.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment Classification using Language Models and Sentence Position Information",
+        "year": 2010
+    },
+    {
+        "authors": "Ryan Thompson",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/thompsor.pdf",
+                "\"Mixing Deterministic and Probabilistic Models for Simple Story Generation\""
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "\"Mixing Deterministic and Probabilistic Models for Simple Story Generation\"",
+        "year": 2010
+    },
+    {
+        "authors": "Yingjie (Roger) Zheng and Philip (Tony) Hairr [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/yzheng-thairr.pdf",
+                "Geo-location Route Recognition"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/slides/yzheng-thairr.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Geo-location Route Recognition",
+        "year": 2010
+    },
+    {
+        "authors": "Christopher Lin, Jessica Long, and Arun Miduthuri",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/Long-Lin-Miduthuri-Final-Project.pdf",
+                "A\r\n    Comparison of Google N-grams and Gigaword Dependencies\r\nas Automatically Mined Features in Temporal Relation Extraction"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A\r\n    Comparison of Google N-grams and Gigaword Dependencies\r\nas Automatically Mined Features in Temporal Relation Extraction",
+        "year": 2010
+    },
+    {
+        "authors": "Evan Cox and Marcelo Worsley",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2010/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2010/reports/CoxWorsleyFinal.pdf",
+                "In Pursuit of an\r\n    Efficient Multi-Domain Text Classification Algorithm"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "In Pursuit of an\r\n    Efficient Multi-Domain Text Classification Algorithm",
+        "year": 2010
+    },
+    {
+        "authors": "Zhenghao Chen and Pang Wei Koh [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/pangwei-zhenghao.pdf",
+                "Analyzing Patient Interactions within Cancer Support Groups"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/pangwei-zhenghao.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Analyzing Patient Interactions within Cancer Support Groups",
+        "year": 2011
+    },
+    {
+        "authors": "David Cummings, Haruki Oh, and Ningxuan Wang [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/nwang6-davidjc-harukioh.pdf",
+                "Who Needs Polls? Gauging Public Opinion from Twitter Data"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/nwang6-davidjc-harukioh.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Who Needs Polls? Gauging Public Opinion from Twitter Data",
+        "year": 2011
+    },
+    {
+        "authors": "Xuwen Cao, Beyang Liu [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/beyangl-caoxuwen.pdf",
+                "Unsupervised Clustering of People, Places, and Organizations in Wikileaks Cables with NLP Cues"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/beyangl-caoxuwen.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Unsupervised Clustering of People, Places, and Organizations in Wikileaks Cables with NLP Cues",
+        "year": 2011
+    },
+    {
+        "authors": "Nick Cohen, Jinjian Zhai and Anand Atreya [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/nccohen-aatreya-jameszjj.pdf",
+                "Sentiment analysis of news articles for financial signal prediction"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/nccohen-aatreya-jameszjj.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Sentiment analysis of news articles for financial signal prediction",
+        "year": 2011
+    },
+    {
+        "authors": "Laureen Lam [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/laureen.pdf",
+                "Semantic Analysis of Movie Reviews for Rating Prediction"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/laureen.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Semantic Analysis of Movie Reviews for Rating Prediction",
+        "year": 2011
+    },
+    {
+        "authors": "Susan Marie Biancani [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/biancani.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Measure of Similarity Between Pairs of Papers, Using Textual Content and Metadata",
+        "year": 2011
+    },
+    {
+        "authors": "Patrick Lai [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/patlai.pdf",
+                "Extracting Strong Sentiment Trends from Twitter"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/patlai.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Extracting Strong Sentiment Trends from Twitter",
+        "year": 2011
+    },
+    {
+        "authors": "Panagiotis Papadimitriou and Rifat Reza Joyee  [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/joyee-ppapadim.pdf",
+                "Structured Annotations of Queries"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/joyee-ppapadim.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Structured Annotations of Queries",
+        "year": 2011
+    },
+    {
+        "authors": "Jeff Pinner",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/jpinner.pdf",
+                "Symmetrized Word Alignments for English-Inuktitute Machine Translation"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Symmetrized Word Alignments for English-Inuktitute Machine Translation",
+        "year": 2011
+    },
+    {
+        "authors": "David Harwath",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Analysis of EBay Users' Security Questions",
+        "year": 2011
+    },
+    {
+        "authors": "Andrew Maas, Peter Pham, and Ying Wang [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/amaas-ptpham-ygw.pdf",
+                "Learning Representations for Multi-Dimensional Sentiment Analysis"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/amaas-ptpham-ygw.pdf",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Learning Representations for Multi-Dimensional Sentiment Analysis",
+        "year": 2011
+    },
+    {
+        "authors": "Eric Huang [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/ehhuang.pdf",
+                "Paraphrase Detection Using Recursive Autoencoders"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/ehhuang.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Paraphrase Detection Using Recursive Autoencoders",
+        "year": 2011
+    },
+    {
+        "authors": "Yu-Wei Lin [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/yuweilin.pdf",
+                "Transformation between Right and Left News Based on Text Similarity and News Structure"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/yuweilin.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Transformation between Right and Left News Based on Text Similarity and News Structure",
+        "year": 2011
+    },
+    {
+        "authors": "Minjong Chung, Wonhong Lee, and Hyung Jin Kim [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/mjipeo-evion-wonhong.pdf",
+                "Literary Style Classification with Deep Linguistic Analysis Features"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/mjipeo-evion-wonhong.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Literary Style Classification with Deep Linguistic Analysis Features",
+        "year": 2011
+    },
+    {
+        "authors": "Dakan Wang and Wu Yu [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/ywu2-vondrak.pdf",
+                "Hierachical Name Entity Recognition"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/ywu2-vondrak.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Hierachical Name Entity Recognition",
+        "year": 2011
+    },
+    {
+        "authors": "Rahul Agarwal and Kevin Miller [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/rahul1-kjmiller.pdf",
+                "Information Extraction from Recipes"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/rahul1-kjmiller.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Information Extraction from Recipes",
+        "year": 2011
+    },
+    {
+        "authors": "Jiho Han and Dowon Ko [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/jihohan-gogo9th.pdf",
+                "Automatic Product Profiling through NLP"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/jihohan-gogo9th.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Product Profiling through NLP",
+        "year": 2011
+    },
+    {
+        "authors": "Micol Marchetti-Bowick [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/micolmb.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Tweet Classification for Political Sentiment Analysis",
+        "year": 2011
+    },
+    {
+        "authors": "Beth Percha [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/blpercha.pdf",
+                "Discovering New Drug-Drug Interactions by Text-Mining the Biomedical Literature"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/blpercha.pdf",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Discovering New Drug-Drug Interactions by Text-Mining the Biomedical Literature",
+        "year": 2011
+    },
+    {
+        "authors": "Brian Highfill [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/highfill.pdf",
+                "Part of Speech Tagging with Discriminatively Re-ranked Hidden Markov Models"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/highfill.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Part of Speech Tagging with Discriminatively Re-ranked Hidden Markov Models",
+        "year": 2011
+    },
+    {
+        "authors": "David Edwards and Cybelle Smith [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/dedwards-cybelles.pdf",
+                "Gender Prediction for Japanese Authors"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/dedwards-cybelles.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Gender Prediction for Japanese Authors",
+        "year": 2011
+    },
+    {
+        "authors": "Yu Cao and Tao Wang [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/twangcat-yufcao.pdf",
+                "Automatic Author Name Transliteration via OCR and NLP"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/twangcat-yufcao.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Author Name Transliteration via OCR and NLP",
+        "year": 2011
+    },
+    {
+        "authors": "Issao Fujiwara and Yaron Friedman [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/issao-yfriedma.pdf",
+                "Correlating Language Model Clusters of News Agencies and Political Campaigns with Political Biases"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/issao-yfriedma.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Correlating Language Model Clusters of News Agencies and Political Campaigns with Political Biases",
+        "year": 2011
+    },
+    {
+        "authors": "Yi Liu and Ahmet Altay [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/liuyipei-altay.pdf",
+                "Selecting a Biomedical Funding Source Based on Grant Abstracts"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/liuyipei-altay.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Selecting a Biomedical Funding Source Based on Grant Abstracts",
+        "year": 2011
+    },
+    {
+        "authors": "Chris Anderson, Edward Segel, and Dan Wiesenthal [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/cadander-esegel-jepense.pdf",
+                "Automatic Snippet Generation for Music Reviews"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/cadander-esegel-jepense.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Automatic Snippet Generation for Music Reviews",
+        "year": 2011
+    },
+    {
+        "authors": "Andrew Tausz",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/atausz.pdf",
+                "Predicting the Date of Authorship of Historical Texts"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Predicting the Date of Authorship of Historical Texts",
+        "year": 2011
+    },
+    {
+        "authors": "Ben Komalo and Sujeevan Rajayogam",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Unsupervised Extraction of Opinion Features From Product Reviews",
+        "year": 2011
+    },
+    {
+        "authors": "Nikhil Johri [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/njohri.pdf",
+                "A Labeled LDA Approach to Understanding the Dynamics of Collaboration"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/njohri.pptx",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "A Labeled LDA Approach to Understanding the Dynamics of Collaboration",
+        "year": 2011
+    },
+    {
+        "authors": "Hyungoo Kang [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/hyungoo.pdf",
+                "Adaptive Language Models"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/hyungoo.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Adaptive Language Models",
+        "year": 2011
+    },
+    {
+        "authors": "Mason Chua [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/aftran.pdf",
+                "Supervised classification of news articles by whether they mention diseases and outbreaks"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/aftran.ppt",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Supervised classification of news articles by whether they mention diseases and outbreaks",
+        "year": 2011
+    },
+    {
+        "authors": "Natalia Silveira [slides]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2011/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/reports/natalias.pdf",
+                "Different Uses of Alignments in Extraction of Synchronous Grammars for Translation from Natural to Formal Languages"
+            ],
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2011/slides/natalias.pdf",
+                "slides"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Different Uses of Alignments in Extraction of Synchronous Grammars for Translation from Natural to Formal Languages",
+        "year": 2011
+    },
+    {
+        "authors": "Jaclyn Chen, Ashley Jin, and Jessica Tai [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/ChenJinTai_FinalReport224N.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Trigger Extraction in Biological Text for Question Answering",
+        "year": 2012
+    },
+    {
+        "authors": "Jianfeng Hu, Guan (Bell) Wang, Zhemin Li [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/CS224NProjectReport.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Syntactico Semantic Word Representations in Multiple Languages",
+        "year": 2012
+    },
+    {
+        "authors": "Miriam Connor [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/Connor_FinalReport.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Figurative Language Classification of English Manner of Motion Verbs for a Machine Translation System",
+        "year": 2012
+    },
+    {
+        "authors": "Alex Perelygin [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/cs224n_report.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Semantic Compositionality and Deep Learning for Sentiment Analysis",
+        "year": 2012
+    },
+    {
+        "authors": "Austin Gibbons and Zahan Malkani [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/emote_cat_final.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Emote-Cat : Automatic Attitude Categorization",
+        "year": 2012
+    },
+    {
+        "authors": "Rob Voigt [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/final_project_report.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Cool-to-Hot Pivoting for Improved Machine Translation",
+        "year": 2012
+    },
+    {
+        "authors": "MacKenzie Cumings [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/final_report.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Translation Quality Assessment",
+        "year": 2012
+    },
+    {
+        "authors": "Minghan Shen [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/finalreport.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Article Recommendations for News Feed",
+        "year": 2012
+    },
+    {
+        "authors": "Justine Kao and Jireh Tan [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/KaoTanHumor.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Play on Words: Predicting Punniness with Statistics and Semantics",
+        "year": 2012
+    },
+    {
+        "authors": "Katherine Busch [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/kat_busch_writeup.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Distinguishing Opinion from News",
+        "year": 2012
+    },
+    {
+        "authors": "Alex Fandrianto, Anand Natarajan, and Hanzhi Zhu[Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/report.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Chinese Radicals in NLP Tasks",
+        "year": 2012
+    },
+    {
+        "authors": "Aman Neelappa and Deniz Kahramaner[Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/Report.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Joint Entity-Event Coreference via Spectral Coclustering",
+        "year": 2012
+    },
+    {
+        "authors": "David Goldblatt and Tyler O'Neil [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/writeup.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "How a Bill Becomes a Law-Predicting Votes from Legislation Text",
+        "year": 2012
+    },
+    {
+        "authors": "Jean Y. Wu and Yuanyuan Pao [Report]",
+        "home_url": "http://nlp.stanford.edu/courses/cs224n/2012/",
+        "references": [
+            [
+                "http://nlp.stanford.edu/courses/cs224n/2012/reports/WuJean_PaoYuanyuan_224nReport.pdf",
+                "Report"
+            ]
+        ],
+        "tag": [
+            "Artificial Intelligence",
+            "Natural Language Processing"
+        ],
+        "title": "Predicting Sentiment from Rotten Tomatoes Movie Reviews",
+        "year": 2012
+    }
+]

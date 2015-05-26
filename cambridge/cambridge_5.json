@@ -1,0 +1,269 @@
+[
+    {
+        "authors": "Daniel Wagner, Andrew Rice and Alastair R. Beresford",
+        "description": "Device Analyzer collects usage statistics in the background while you use your phone. This data is stripped of personally identifying information and periodically uploaded to our server where we aggregate it and draw inferences from the patterns that emerge from the usage patterns of many contributors. Personal analytics - extracting data from the things we do every day, e.g. phone calls or our movement patterns - is becoming increasingly popular. We provide you with new ways to look at what is happening inside your mobile phone!\n   \nSee theproject webpagefor further information.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/da-logo.png",
+        "levels": "Intermediate",
+        "project_url": "http://deviceanalyzer.cl.cam.ac.uk",
+        "references": [
+            [
+                "http://deviceanalyzer.cl.cam.ac.uk",
+                "project webpage"
+            ],
+            [
+                "http://deviceanalyzer.cl.cam.ac.uk",
+                "project webpage"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Device Analyzer: Get statistics about your phone use and contribute to scientific research!",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Alastair R. Beresford, Andrew Rice, Nicholas Skehin and Rip Soh",
+        "description": "MockDroid is a modified version of the Android operating system which allows the user to control the permissions of an application at runtime. For example, if you install the Skype application on Android, and you don't want this application to access your current location, simply disable it in the menu!\n   \nSee theproject webpagefor further information.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/mock/mock-logo.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/android/mock/",
+        "references": [
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/mock/",
+                "project webpage"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/mock/",
+                "project webpage"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "MockDroid: Improved Android OS with runtime app permissions",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "David Tattersall.",
+        "description": "miniBus puts Cambridgeshire's public transport in the palm of your hand. Need to know when the bus leaves? miniBus allows you to view live arrival and departure information for any bus stop in Cambridgeshire&mdash;perfect for planning your journey home after a day in town. You can also locate bus stops closest to your current position or look up bus stops by street name, nearest post code or place name. Once you've decided which bus you plan to catch your phone will even remind you before it's due to leave&mdash;so you'll never miss the bus again. More information is available on theproject Website.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/minibus/icon.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/android/minibus/",
+        "references": [
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/minibus/",
+                "project Website"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/minibus/",
+                "project Website"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "miniBus: Never miss the bus again!",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Vytautas Vaitukaitis.",
+        "description": "Learn! enables you to create your own flashcard learning content using nothing but a phone. You can download collections created by other users and upload your learning material and make use of many of the phones multimedia features; learning cards can contain pictures, audio and video. Learn! also keeps track of your progress with individual learning cards and maximizes the effectiveness of learning using a learning algorithm. See theproject website and web interfacefor further information, including collections.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/Learn/learnlogo.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/language/",
+        "references": [
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/language/",
+                "project website and web interface"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/language/",
+                "project website and web interface"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Learn!: Flashcard based learning application",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Connell Gauld.",
+        "description": "TorProxy is an Android application that makes it possible to use Internet sites and services anonymously from a mobile device. This is possible thanks to theTor networkandOnionCoffee. TorProxy can be used by many different Android applications to obtain an anonymous Internet application. For example, if you want to browse website anonymously you will need to install an web browser which uses TorProxy such as Shadow (see below). More information is available on theproject website.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/tor/torproxy-logo.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+        "references": [
+            [
+                "http://torproject.org/",
+                "Tor network"
+            ],
+            [
+                "http://onioncoffee.sourceforge.net/",
+                "OnionCoffee"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+                "project website"
+            ],
+            [
+                "http://torproject.org/",
+                "Tor network"
+            ],
+            [
+                "http://onioncoffee.sourceforge.net/",
+                "OnionCoffee"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+                "project website"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "TorProxy: Connect to the Internet anonymously",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Connell Gauld.",
+        "description": "Shadow is an Android application allows you to browse the Web anonymously from your mobile phone. The Shadow browser requires TorProxy (see above) do do this. In addition to using the Tor network to anonymously retrieve information from the Web, Shadow also helps you manage anycookiessent to Shadow by Websites to protect your browsing history. More information is available on theproject website.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/tor/shadow-logo.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+        "references": [
+            [
+                "http://en.wikipedia.org/wiki/HTTP_cookie",
+                "cookies"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+                "project website"
+            ],
+            [
+                "http://en.wikipedia.org/wiki/HTTP_cookie",
+                "cookies"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/tor/",
+                "project website"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Shadow Web Browser: Browse the Web anonymously",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Rhodri Karim.",
+        "description": "Hertz is a simple audio recorder that doesn't compress your sounds into oblivion. Most \"sound recorder\" applications on the marketplace&mdash;and even the built-in Android Sound Recorder&mdash;save your audio into the 3GPP format. This makes anything other than simple voice recordings sound like they've been put through a meat grinder. Hertz records your audio straight to the uncompressed WAV format, at a sampling rate of your choosing. No processing or compression. Just higher sample rates for higher-quality recordings. You can then grab it off the Android's SD card and do whatever you want to it. See theproject webpagefor download and further information.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/hertz/speakerlogo.png",
+        "levels": "Intermediate",
+        "project_url": "http://www.cl.cam.ac.uk/research/dtg/android/hertz/",
+        "references": [
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/hertz/",
+                "project webpage"
+            ],
+            [
+                "http://www.cl.cam.ac.uk/research/dtg/android/hertz/",
+                "project webpage"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Hertz, the WAV recorder: Classy audio for classy people",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "David Piggot.",
+        "description": "Records a list of barcodes when you scan them and reminds you if you've seen it before. Useful for remembering which books you've read or things you've seen in the shop.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/BarcodeBox/barcodebox-logo.png",
+        "levels": "Intermediate",
+        "project_url": "",
+        "references": [],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Barcode Box: Bulk barcode scanning",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    },
+    {
+        "authors": "Rhodri Karim.",
+        "description": "Spectral explores the mapping between images and sound, by allowing you to take your pictures and turn them into spectrograms. Spectral also includes image manipulation tools, so try using these on your images and see how the sound changes. To save memory, Spectral is very fastidious in cleaning up after itself so make sure you save what you want to save. Want to see what Spectral can do? Try playing some of the spectrogram images onYouTubeinto Spectral.",
+        "downloads": "",
+        "home_url": "https://www.cl.cam.ac.uk/research/dtg/android/",
+        "img_url": "https://www.cl.cam.ac.uk/research/dtg/android/Spectral/spectral-logo.png",
+        "levels": "Intermediate",
+        "project_url": "",
+        "references": [
+            [
+                "http://www.youtube.com/results?search_query=spectogram+face+in+sound&search_type=&aq=f",
+                "YouTube"
+            ],
+            [
+                "http://www.youtube.com/results?search_query=spectogram+face+in+sound&search_type=&aq=f",
+                "YouTube"
+            ]
+        ],
+        "tags": [
+            "Digital Technology",
+            "Android",
+            "Mobile Technology"
+        ],
+        "title": "Spectral: Turn images into sound (and back again)",
+        "type": "Final Year",
+        "university": "cambridge",
+        "year": "2014"
+    }
+]

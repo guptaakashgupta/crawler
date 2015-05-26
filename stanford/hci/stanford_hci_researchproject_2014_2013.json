@@ -1,0 +1,326 @@
+[
+    {
+        "description": "Designing an interactive cognitive aid system for crisis in the operating room.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "/research/icogaid/",
+        "tags": "hci",
+        "title": "Interactive Cognitive Aid",
+        "type": "Research",
+        "year": 2014
+    },
+    {
+        "description": "Help people complete tasks.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://taskgenie.stanford.edu/",
+        "tags": "hci",
+        "title": "Private, Accountable Crowdsourcing",
+        "type": "Research",
+        "year": 2014
+    },
+    {
+        "description": "Web design alternatives by borrowing from examples.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "bricolage/",
+        "tags": "hci",
+        "title": "Bricolage",
+        "type": "Research",
+        "year": 2014
+    },
+    {
+        "description": "Learn creative skills and wisdom.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "/research/assess",
+        "tags": "hci",
+        "title": "Self & Peer Assessment",
+        "type": "Research",
+        "year": 2014
+    },
+    {
+        "description": "Helping people prototype, ideate, and discover by building software.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "opportunistic/",
+        "tags": "hci",
+        "title": "Opportunistic Programming",
+        "type": "Research",
+        "year": 2014
+    },
+    {
+        "description": "Voice-based social media for rural developing regions.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "otalo/",
+        "tags": "hci",
+        "title": "Voice4All",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Gaining design insight through interaction prototyping tools.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "juxtapose/",
+        "tags": "hci",
+        "title": "Juxtapose",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Software toolsandinteraction techniquesintegrating the paper and digital worlds.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "paper/",
+        "tags": "hci",
+        "title": "PaperToolkit",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Electronic capture of design artifacts for design education.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "ideas/",
+        "tags": "hci",
+        "title": "iDeas",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "an infovis system for investigating security",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "isis/",
+        "tags": "hci",
+        "title": "Isis",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Prototyping Camera-based Interaction through Examples",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "eyepatch/",
+        "tags": "hci",
+        "title": "Eyepatch",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Gaze-enhanced User Interface Design",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "GUIDe/",
+        "tags": "hci",
+        "title": "GUIDe",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Capture and Access Technologies for field scientists (associated with theBioACT! Collaboration).",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "biology/",
+        "tags": "hci",
+        "title": "Field Tools: Technology support for field research",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Rapid construction of Web API calls through Programming by a Sample",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "mashups/",
+        "tags": "hci",
+        "title": "d.mix",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Using mice to create an interactive classroom where all students can be connected cheaply and scalably.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://moraveji.org/projects_med.html",
+        "tags": "hci",
+        "title": "Mischief",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "A collaborative work environment.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "teamspace",
+        "tags": "hci",
+        "title": "Teamspace",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Supporting co-located, collaborative work with computationally-enhanced tables.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "tables",
+        "tags": "hci",
+        "title": "Tabletop Groupware",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Persuasive technology in the automobile.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "speedometer",
+        "tags": "hci",
+        "title": "Dynamic Speedometer",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Interaction on horizontal table surfaces",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "itable",
+        "tags": "hci",
+        "title": "iTable",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "An interactive wall for design brainstorming",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "postbrainstorm",
+        "tags": "hci",
+        "title": "PostBrainstorm",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Combining command, text, and parameter entry with an integrated context menu",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "flowmenu",
+        "tags": "hci",
+        "title": "FlowMenu",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Scalable Multi-user Laser Input",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "lumipoint",
+        "tags": "hci",
+        "title": "LumiPoint",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Implement-free interaction with a wall-mounted display",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "barehands",
+        "tags": "hci",
+        "title": "BareHands",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "An active blackboard for geometrical exploration",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "geometer",
+        "tags": "hci",
+        "title": "Geometer's Workbench",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "An infrastructure for dynamic event creation and interchange across devices.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://graphics.stanford.edu/papers/eheap/",
+        "tags": "hci",
+        "title": "Event Heap",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "An overall infrastructure architecture that incorporates the Event Heap and other components.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://graphics.stanford.edu/papers/iwork-sosp18/",
+        "tags": "hci",
+        "title": "iROS",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Moving information across displays and browsers",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://graphics.stanford.edu/papers/mb_ubicomp01/",
+        "tags": "hci",
+        "title": "MultiBrowsing",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "A system for pointer/keyboard redirection among multiple displays and machines",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "pointright",
+        "tags": "hci",
+        "title": "PointRight",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Toolkit support for tangible input",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "papier-mache",
+        "tags": "hci",
+        "title": "Papier-M&acirc;ch&eacute;",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "A toolkit for basic, generic physical I/O in ubicomp environments",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "istuff",
+        "tags": "hci",
+        "title": "iStuff",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Capture and review of meetings, classes, and other activities",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "navigator",
+        "tags": "hci",
+        "title": "Workspace Navigator",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Flexibly organizing photographs on a computer",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "photopiles",
+        "tags": "hci",
+        "title": "Photopiles",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Multiparty video conferencing software",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://graphics.stanford.edu/%7Emiltchen/VideoAuditorium/",
+        "tags": "hci",
+        "title": "Video Auditorium",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "A mobile PDA-based web information interface",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "http://www-diglib.stanford.edu/%7Etestbed/doc2/PowerBrowsing/",
+        "tags": "hci",
+        "title": "PowerBrowser",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "A toolkit for location-aware mash-ups.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "lash-ups/",
+        "tags": "hci",
+        "title": "Lash-Ups",
+        "type": "Research",
+        "year": 2013
+    },
+    {
+        "description": "Tools for Domain Expert Programming in Mobile Computing.",
+        "home_url": "http://hci.stanford.edu/research/",
+        "project_url": "mobile/",
+        "tags": "hci",
+        "title": "A Killer Ecology",
+        "type": "Research",
+        "year": 2013
+    }
+]

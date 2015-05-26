@@ -1,0 +1,119 @@
+[
+    {
+        "author": "Jean-Baptiste Boin",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/jbb.pdf",
+        "tag": "Mobile Vision",
+        "title": "Improving feature tracking using motion sensors",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Apaar SadhwaniJason Su",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/asjs.pdf",
+        "tag": "Mobile Vision",
+        "title": "Billiards augmentation using computer vision",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Qifeng ChenTsung\u8db3Chuan ChenXiong Jing",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/qctcxj.pdf",
+        "tag": "Mobile Vision",
+        "title": "Accurate background replacement on mobile devices",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Subhasis DasMilad Mohammadi",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/sdmm.pdf",
+        "tag": "Mobile Vision",
+        "title": "Traffic Sign Detection Mobile App",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Anirban Chatterjee",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/ac.pdf",
+        "tag": "Mobile Vision",
+        "title": "Building a landmark recognition system without server-side processing",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "William Castillo",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/wc.pdf",
+        "tag": "Mobile Vision",
+        "title": "Object Measurements via reference",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Jason Chaves",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/jc.pdf",
+        "tag": "Mobile Vision",
+        "title": "Mobile HDR Capture and Exposure Fusion",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Toan TranArtem VasilievVivardhan Kanoria",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/avttvk.pdf",
+        "tag": "Mobile Vision",
+        "title": "Virtual reality camera on Google Glass",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Pallabi GhoshAyesha KhwajaJohn Doherty",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/pgakjd.pdf",
+        "tag": "Mobile Vision",
+        "title": "Low resolution scene representation for retinal prostheses",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Yang LiDavid Molin",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/yldm.pdf",
+        "tag": "Mobile Vision",
+        "title": "Image\u8db3-based tracking and localization on a mobile device",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Rose PerroneKevin Nam Truong",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/rpknt.pdf",
+        "tag": "Mobile Vision",
+        "title": "Pill-Identification",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Philip Lee",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/pl.pdf",
+        "tag": "Mobile Vision",
+        "title": "Automatic Picture Facial Hair Augmentation",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    },
+    {
+        "author": "Sebastian Echegaray",
+        "proposal": "http://web.stanford.edu/class/cs231m/proposals/se.pdf",
+        "tag": "Mobile Vision",
+        "title": "Increase accuracy in 3D reconstruction using VSLAM by integrating information from the cellphone IMU",
+        "university": "Stanford University",
+        "url": "http://web.stanford.edu/class/cs231m/projects.html",
+        "year": 2014
+    }
+]

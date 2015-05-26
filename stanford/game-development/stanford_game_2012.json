@@ -1,0 +1,102 @@
+[
+    {
+        "author": "Elaine Chen, Joy Kim, Riddhi Mittal, Graham Roth",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/donburi_final_paper1.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Donburi: Social game creation for non-coders",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://www.youtube.com/watch?v=hdcw_UIkP-Y",
+        "year": 2012
+    },
+    {
+        "author": "Derek Lim, Maxine Lim, Kevin Nguyen, Arvind Satyanarayanan ",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/martin_final_paper.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Martin: Crowdsourced social queries over Facebook data",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://swiss.stanford.edu/martin/martin_screencast_mobile.mov",
+        "year": 2012
+    },
+    {
+        "author": "Kanak Biscuitwala, Steve Fan ",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/omnistanford_paper.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "OmniStanford: Location-based journaling and introductions",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "https://vimeo.com/43798033",
+        "year": 2012
+    },
+    {
+        "author": "Bobby Georgescu ",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/aggregation_paper.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Aggregation over social feeds",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://www.youtube.com/watch?v=KXqwntHUBOw",
+        "year": 2012
+    },
+    {
+        "author": "Brian O'Connor, TJ Purtell, Kenny Root ",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/silent_disco_final_paper.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Nearby social groups and silent disco",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://youtu.be/weNTtuX5hZM",
+        "year": 2012
+    },
+    {
+        "author": "Jack Wu",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/final_paper",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Social recommendations for apps",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "https://www.dropbox.com/s/nr3luad0g1yo6we/cs294s%20Video.mp4",
+        "year": 2012
+    },
+    {
+        "author": "Camille Lamy",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/musugps_paper",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Location view for Musubi",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "https://dl.dropbox.com/u/46166987/CS294S/musugps.m4v",
+        "year": 2012
+    },
+    {
+        "author": "Michael Fischer",
+        "proposal": "",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Corktastic: a social corkboard for big displays",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "",
+        "year": 2012
+    },
+    {
+        "author": "Christophe Chong, Jeongjin Ku",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/musubi_extended_paper",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Social news sharing over Musubi",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://www.youtube.com/watch?v=gFw_77N37PQ",
+        "year": 2012
+    },
+    {
+        "author": "Michael Chun",
+        "proposal": "http://suif.stanford.edu/~courses/cs294s/papers/michaelchun_feed_movie_revised_paper.pdf",
+        "tag": "Mobile and Social Computing Systems",
+        "title": "Animation of social feeds",
+        "university": "Stanford University",
+        "url": "http://suif.stanford.edu/~courses/cs294s/projects.html",
+        "video": "http://www.youtube.com/watch?v=WVmWPMJ-_54",
+        "year": 2012
+    }
+]

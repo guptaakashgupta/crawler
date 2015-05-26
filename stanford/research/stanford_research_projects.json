@@ -1,0 +1,90 @@
+[
+    {
+        "description": "What kind of tools would you need to make a functional interactive prototype of a media player in 30 minutes? d.tools is a hardware and software system that enables designers to rapidly prototype the bits (the form) and the atoms (the interaction model) of physical user interfaces in concert. d.tools was built to support design thinking rather than implementation tinkering. With d.tools, designers place physical controllers (e.g., buttons, sliders), sensors (e.g., accelerometers), and output devices (e.g., LEDs, LCD screens) directly onto form prototypes, and author their behavior visually in our software workbench.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/spotlight_images/12368125057866.gif",
+        "project_url": "https://cs.stanford.edu/content/dtools",
+        "title": "d.tools",
+        "type": "research"
+    },
+    {
+        "description": "This video production documents the life and career of Ed Feigenbaum, \"Father of Expert Systems,\" through archival photographs, a Computer History Museum oral history, and the recollections of his collaborators and students. These recollections were videotaped at the Feigenbaum 70th Birthday Symposium, held on March 25-26, 2006 and co-sponsored by the Stanford Computer Forum.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/12916613706821_0.jpg",
+        "project_url": "https://cs.stanford.edu/research/ed-feigenbaums-search-ai",
+        "title": "Ed Feigenbaum&#039;s Search for A.I.",
+        "type": "research"
+    },
+    {
+        "description": "ImageNet is an image dataset organized according to the WordNet hierarchy. Each meaningful concept in WordNet, possibly described by multiple words or word phrases, is called a \"synonym set\" or \"synset\". There are more than 100,000 synsets in WordNet, majority of them are nouns (80,000+). In ImageNet, we aim to provide on average 1000 images to illustrate each synset. Images of each concept are quality-controlled and human-annotated. In its completion, we hope ImageNet will offer tens of millions of cleanly sorted images for most of the concepts in the WordNet hierarchy.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/imagenet.jpg",
+        "project_url": "https://cs.stanford.edu/content/imagenet-large-scale-hierarchical-image-database",
+        "title": "ImageNet",
+        "type": "research"
+    },
+    {
+        "description": "For transistors it is important to have an atomically thin channel that enables gate length scaling while maintaining good carrier transport required for a high current drive. At the same time, parasitic resistance from the contacts and parasitic capacitance from the device structure must be minimized. Currently, we are working on the use of carbon nanotube (CNT) and two-dimensional layered materials (the transition metal dichalcogenide family of materials) as the atomically thin channel. We are also working on techniques to minimize the contact resistance and the parasitic capacitance. By building practical systems of these emerging technologies, we learn how to solve device and materials problems that have system-level impact.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/13920766595672.jpg",
+        "project_url": "https://cs.stanford.edu/research/logic",
+        "title": "Logic",
+        "type": "research"
+    },
+    {
+        "description": "An artist might spend weeks fretting over questions of depth, scale and perspective in a landscape painting, but once it is done, what's left is a two-dimensional image with a fixed point of view. But the Make3d algorithm, developed by Stanford computer scientists, can take any two-dimensional image and create a three-dimensional \"fly around\" model of its content, giving viewers access to the scene's depth and a range of points of view.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/spotlight_images/12078036779816a.jpg",
+        "project_url": "https://cs.stanford.edu/content/make3d",
+        "title": "Make3d",
+        "type": "research"
+    },
+    {
+        "description": "I started doing research on memory devices around 2003. Research on memory had been rather \u201cpredictable\u201d for many years until recently. It was predictable because the major advances for memory devices involved scaling down the physical dimensions of essentially the same device structure using basically the same materials. The situation has changed in the last decade. Memory devices are beginning to be difficult to scale down. But perhaps the most important change is that new applications and products (e.g. mobile phones, tablets, enterprise-scale disk storage) in the last decade are often enabled by advances in memory technology, in particular solid-state non-volatile memories. Our research on memory devices focuses on phase change memory&nbsp;(PCM)&nbsp;and metal oxide resistive switching memory(RRAM). We work on understanding the fundamental physics of these devices and develop models of how they work. We explore the use of various materials and device structures (e.g. 3D vertical RRAM) to achieve desired characteristics. We often utilize the unique properties of nanoscale materials such as carbon nanotube, graphene, and nanoparticles to help us gain understanding of the physics and scaling properties of memory devices.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/13920771160831.jpg",
+        "project_url": "https://cs.stanford.edu/research/memory",
+        "title": "Memory",
+        "type": "research"
+    },
+    {
+        "description": "Who will be writing software in the future and how will they be doing it? As computing becomes increasingly important in people's work andhobbies, a much broader range of people are engaging in programming. Understanding and building tools for professional software developers has a long history, but there has been relatively little research on how to support amateur, opportunistic programmers. Professor Scott R. Klemmer's NSF-funded research group at Stanford University is currently studying this problem. So far, they have done fieldwork with exhibit designers at San Francisco's Exploratorium Museum, and conducted several empirical studies on how these programmers use information resources while building software. Most notably, the Web has revolutionized the way these individuals write software. They build entire applications by iteratively searching for, understanding, and integrating pieces of functionality embodied in 15-line chunks of code! Right now, Professor Klemmer's research group is building a number of tools to support amateur programmers that embody and support this reliance on Web resources. The broad goal of this work is to make software development faster, easier, and less error-prone for a much larger population.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/books.jpg",
+        "project_url": "https://cs.stanford.edu/research/opportunistic-programming",
+        "title": "Opportunistic Programming",
+        "type": "research"
+    },
+    {
+        "description": "The Red Sea Robotics Research Exploratorium was created in April 2012 through a generous research award from the King Abdullah University of Science and Technology (KAUST)&nbsp;. As a part of the KAUST Global Collaborative Research Program&nbsp;, Stanford University&nbsp;is part of a team of universities working to build a major science and technology university along a marshy peninsula on Saudi Arabia\u2019s western coast. Meka Robotics&nbsp;joined the collaboration and provides the hardware for the development of dexterous underwater robot arms.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/13666729858056.JPG",
+        "project_url": "https://cs.stanford.edu/research/red-sea-robotics-exploratorium-0",
+        "title": "The Red Sea Robotics Exploratorium",
+        "type": "research"
+    },
+    {
+        "description": "Given an image, we propose a hierarchical generative model that classifies the overall scene, recognizes and segments each object component, as well as annotates the image with a list of tags. To our knowledge, this is the first model that performs all three tasks in one coherent framework. For instance, a scene of a \u2018polo game\u2019 consists of several visual objects such as \u2018human\u2019, \u2018horse\u2019, \u2018grass\u2019, etc. In addition, it can be further annotated with a list of more abstract (e.g. \u2018dusk\u2019) or visually less salient (e.g. \u2018saddle\u2019) tags. Our generative model jointly explains images through a visual model and a textual model. Visually relevant objects are represented by regions and patches, while visually irrelevant textual annotations are influenced directly by the overall scene class. We propose a fully automatic learning framework that is able to learn robust scene models from noisy web data such as images and user tags from Flickr.com. We demonstrate the effectiveness of our framework by automatically classifying, annotating and segmenting images from eight classes depicting sport scenes. In all three tasks, our model significantly outperforms state-of- the-art algorithms.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/spotlight_images/12789520631214-1.jpg",
+        "project_url": "https://cs.stanford.edu/content/total-scene-understanding",
+        "title": "Total Scene Understanding",
+        "type": "research"
+    },
+    {
+        "description": "The PIs of this NSF-sponsored project are Prof. Leonid Kazovsky (Stanford), Prof. Vincent Chan (MIT), and Prof. Andrea Fumagalli (UT-Dallas). UltraFlow is a secure, agile and cost-effective architecture that will replace legacy Electronic Packet Switching (EPS), specifically for its ability to enable very large file transfers (terabits of data) in a fast and efficient manner. At Stanford, our mandate is to design and experimentally demonstrate UltraFlow Access, a novel last-mile network architecture that offers dual-mode Internet access to end users: IP and optical flow. The new hybrid Internet architecture is designed to be secure, dynamic (both agile and adaptive), and significantly more cost effective for future growth in data volumes and number of users. UltraFlow relies on a novel optical network architecture comprising new transport mechanisms and a new comprehensive control plane including network protocols from the physical layer up to the application layer. It also integrates the foregoing new network modalities with the conventional TCP/IP network architecture and provides multiple service types to suit any user needs.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/13924076876176.jpg",
+        "project_url": "https://cs.stanford.edu/research/ultraflow-hybrid-future-internet-architecture",
+        "title": "UltraFlow: A Hybrid Future Internet Architecture",
+        "type": "research"
+    },
+    {
+        "description": "Social software \u2013 email, blogs, wikis, forums, social networks \u2013 has revolutionized how people share expertise and collaborate on the web. However, in rural developing regions, many do not have direct access to Internet-connected PCs or the literacy skills to interact with textual content. How might we design a communications platform for these communities? In our research, we are designing voice-based applications for communities in rural India to access agricultural advice and share expertise, using the mobile phone. The key challenges are contending with limited capability speech recognition for regional languages, designing for illiterate users, and methods for search and filtering of user-generated audio content. We have deployed one pilot system for farmers in Gujarat, India, to record agricultural questions and get responses from experts and other farmers. Based on the enthusiastic response, the application will be launched later this year to serve over 500,000 farmers across the state.",
+        "home_url": "https://cs.stanford.edu/research/projects",
+        "image_url": "https://cs.stanford.edu/system/files/imagecache/research_spotlight/spotlight_images/12349014567129_0.jpg",
+        "project_url": "https://cs.stanford.edu/content/voice-based-social-media-developing-regions",
+        "title": "Voice-Based Social Media for Developing Regions",
+        "type": "research"
+    }
+]

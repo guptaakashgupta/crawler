@@ -1,0 +1,542 @@
+[
+    {
+        "authors": "Austin C, Jeff G, Tom K",
+        "description": "Theme: Creation | Collaboratively create digital memories of events.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/coco",
+        "tags": "hci",
+        "title": "Coco",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Igor B, Scott B, Joseph H, Raymond K",
+        "description": "Theme: Creation | Gamifying the music creation process through mobile multiplayer jam sessions.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/lovestep",
+        "tags": "hci",
+        "title": "LoveStep",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "William D, Chris M",
+        "description": "Theme: Creation | Realtime coordination of chemotherapy treatment plans.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/chemosync",
+        "tags": "hci",
+        "title": "ChemoSync",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Tyler B, Sujeet G, Samuel GP, Kevin Z",
+        "description": "Theme: Creation | Creating custom tours which place personal stories, history, and local knowledge in the hands of visitors.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/unguided",
+        "tags": "hci",
+        "title": "unGuided",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Emmerich A, Robert F, Jorge P",
+        "description": "Theme: Creation | Facilitating the discovery of lesser-known musical artists.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/soneme",
+        "tags": "hci",
+        "title": "Soneme",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Ken C, Genie H, Trijeet M",
+        "description": "Theme: Creation | Incentivizing the completion of personal projects through community and game-ification.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/flow",
+        "tags": "hci",
+        "title": "Flow",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Aaron F, Aashna M, Tyler S",
+        "description": "Theme: Creation | Using VR to facilitate more accurate and innovative lighting design and stage control.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/creation/virtual_venue",
+        "tags": "hci",
+        "title": "Virtual Venues",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Moustafa A, Raissa L, Matt T, Kate W",
+        "description": "Discovery | Discover the travel destinations you never imagined.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/uncharted",
+        "tags": "hci",
+        "title": "Uncharted",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Casey C, Phillip J, Stephen R, Santiago S",
+        "description": "Discovery | Contextual, social, and automated music suggestion",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/merge",
+        "tags": "hci",
+        "title": "Merge",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Sukhi G, Lawrence M, Alka N, Julie N",
+        "description": "Discovery | Aiding the process of self-discovery through strengthening creative intuition and ability.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/id8",
+        "tags": "hci",
+        "title": "ID8",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Asad K, Edwin P, Ji P, Quentin P",
+        "description": "Discovery | Enabling fluid, easy and efficient discovery of the things we want to see, do, and experience.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/usher",
+        "tags": "hci",
+        "title": "Usher",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Cesca F, Kirby G, William H",
+        "description": "Discovery | Discover new and exciting activities while meeting interesting people.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/mix",
+        "tags": "hci",
+        "title": "Mix",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Chris B, James L, Kevin Y, Vivian Y",
+        "description": "Discovery | We help engineers discover awesome places to work",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/insidejob",
+        "tags": "hci",
+        "title": "InsideJob",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Brandon E, Nadav L, Joe P, Mike W",
+        "description": "Discovery | Making finding, planning, and organizing events much easier with friends or by ourselves",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/huddle",
+        "tags": "hci",
+        "title": "Huddle",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Lea C, Andrea S, John YS, Allen Y",
+        "description": "Discovery | mWork helps complete tasks and alleviate poverty by connecting clients with micro-tasks via mobile devices",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/discovery/mwork",
+        "tags": "hci",
+        "title": "mWork",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Julia E, Clementine J, Griffin K, TJ S",
+        "description": "Behavioral Change | A tool that encourages users to meet their daily goals by magnifying personal success into positive social impact.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/springboard",
+        "tags": "hci",
+        "title": "SpringBoard",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Milan D, Maxine F, Nick H, Devon Z",
+        "description": "Behavioral Change | See how your spending is linked to political contributions.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/papertrail",
+        "tags": "hci",
+        "title": "Paper Trail",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Louis B, Josephine C, Asli K, Ryan M",
+        "description": "Behavioral Change | On-demand student-to-student tutoring within the same college campus",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/tutornow",
+        "tags": "hci",
+        "title": "tutorNOW",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Lorena HL, Steven Q, Kate S, Jessica X",
+        "description": "Behavioral Change | A background application that provides real-time suggestions for maintaining civil conversations in a professional setting.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/civility",
+        "tags": "hci",
+        "title": "Civility",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Kelsey J, Megan L, Mathieu R",
+        "description": "Behavioral Change | A platform that visualizes and compares people's environmental impacts and spurs action to reduce those impacts with links to political campaigns.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/drop",
+        "tags": "hci",
+        "title": "Drop",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Path B, Josh C, Sanby L",
+        "description": "Behavioral Change | A social alarm clock",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/sleepycloud",
+        "tags": "hci",
+        "title": "SleepyCloud",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Janet A, Bruno D, Timi O, Stephany Y",
+        "description": "Behavioral Change | Discover, relive, and share memories over time and space",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/token",
+        "tags": "hci",
+        "title": "Token",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Jon D., An L., Da Eun K., Debnil S.",
+        "description": "Behavioral Change | Sending memories for your friends to find",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/parcel",
+        "tags": "hci",
+        "title": "Parcel",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Nico C., Jane E., Veronica C., Matthew L.",
+        "description": "Behavioral Change | We aim to provide a means of accurately tracking water usage on personal and aggregate levels, as well as a source of external motivation to conserve.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/h2o_low",
+        "tags": "hci",
+        "title": "H2O low",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Maya I., Marina E., Devon H., Christina G.",
+        "description": "Behavioral Change | Incentivize young voters to make informed decisions by matching their views with candidates\u2019.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/behavior/right2vote",
+        "tags": "hci",
+        "title": "right2vote",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Ashley R, Brad H, Charles Y, David Y",
+        "description": "Learning | Engaging children with math in the world outside",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/math_outside_the_box",
+        "tags": "hci",
+        "title": "Math Outside the Box",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Brad R, Karen G, Nick A, Reid W",
+        "description": "Learning | Better lectures, powered by real-time student data",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/speakup",
+        "tags": "hci",
+        "title": "Speak\u2191",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Alex W, Erin S, Patrick B, Elia A",
+        "description": "Learning | Connecting helpful tutors with hardworking students.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/tutera",
+        "tags": "hci",
+        "title": "Tutera",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Daniel H, Juan C, Jennifer F, Nikhita O",
+        "description": "Learning | A simple and user-friendly way to make lecture a more effective learning tool.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/electurefy",
+        "tags": "hci",
+        "title": "electurefy",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Angela G, Joanie H, Maggie S, Rassan W",
+        "description": "Learning | Smartphone aid for smarter seniors",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/smartsenior",
+        "tags": "hci",
+        "title": "SmartSenior",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Gabriela G, Eric C, Tommy T, Carlos A",
+        "description": "Learning | Integrating context-sensitive visual and aural language acquisition into your daily life",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/learning/speakeasy",
+        "tags": "hci",
+        "title": "SpeakEasy",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Divya K, Eric T, Juan M, Sami R",
+        "description": "Motivation/Achievement | You are never alone in your desire to reach your goals",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/lets_do_this",
+        "tags": "hci",
+        "title": "Let's Do This",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Matt M, Alec D, Pallabi G, Pascal O",
+        "description": "Motivation/Achievement | Make every part of your day productive",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/ontop",
+        "tags": "hci",
+        "title": "OnTop",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Prasanth V, Nicole H, Lakshmi P, John N",
+        "description": "Motivation/Achievement | Make exercise both fun and social",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/goalfriend",
+        "tags": "hci",
+        "title": "GoalFriend",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Harshitha R, Henry T, Janette C",
+        "description": "Motivation/Achievement | Helping children manage diabetes in a fun and engaging way, in turn reducing stress and anxiety over managing their condition",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/jollypod",
+        "tags": "hci",
+        "title": "FunPod",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Alistar I, Haley S, Thomas Z, Rebecca W",
+        "description": "Motivation/Achievement | Harnesses the ubiquitous and influential power of mobile to instill positivity in users through daily challenges that increase gratitude and improve offline interactions",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/pass_it_on",
+        "tags": "hci",
+        "title": "Pass It On",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Jack R, Mark U, Kartik S",
+        "description": "Motivation/Achievement | Become motivated to reconnect with old friends and make new friendships that you trust you will keep",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/yobomb",
+        "tags": "hci",
+        "title": "YoBomb",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Andrew L, Camilo A, Mikala S",
+        "description": "Motivation/Achievement | Connects learners with knowledgeable peers in the area and have them engage in personalized and relationship-driven learning",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/motivation/skillit",
+        "tags": "hci",
+        "title": "Skill-It",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Baris A., Chris S., Megan H.",
+        "description": "Crowd Power | When an athlete first suffers from an injury, a tough decision has to be made about what course of action to take. CrowdMD provides an easily navigated interface for viewing concrete data about what works for recovering injuries, directly from the source, the patients.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/crowdmd",
+        "tags": "hci",
+        "title": "CrowdMD",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Adam K., Laila C., Gavin N.",
+        "description": "Crowd Power | @Home is a fast and easy way to connect great home service providers to everyone who needs help at home.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/athome",
+        "tags": "hci",
+        "title": "@Home",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Thuy Ny L., Chris P., Howon L.",
+        "description": "Crowd Power | Kindergarten will provide instructors with a simple and quick method for gathering feedback and questions from their students.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/kindergarten",
+        "tags": "hci",
+        "title": "Kindergarten",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Andrew L., Ben U., Alex E., Onkur S.",
+        "description": "Crowd Power | Flavr instantly connects hungry students with food while reducing waste.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/flavr",
+        "tags": "hci",
+        "title": "Flavr",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Jared W., Clifford H., Frances G., Inseong C.",
+        "description": "Crowd Power | showMe is a ubiquitous music sharing service that fosters exploration and connectivity by providing easy access and interpersona\r\n            l incentives to encourage individuals to exchange music preferences.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/showme",
+        "tags": "hci",
+        "title": "MUSIT",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Kuan P., Varun D., Kesler T.",
+        "description": "Crowd Power | A collaborative platform for helping kids learn to love writing.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/adventurecraft",
+        "tags": "hci",
+        "title": "Adventurecraft",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Ishita P., Alex W., Anna Y.",
+        "description": "Crowd Power | Tongues is an accurate, real-time translation application powered by the crowd.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/tongues",
+        "tags": "hci",
+        "title": "Tongues",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Abaho K., Ellen S., Stephane Z.",
+        "description": "Crowd Power | QuickSpace is your location-based, on-demand rental space platform while you\u2019re on the go.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/crowd/quickspace",
+        "tags": "hci",
+        "title": "QuickSpace",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Ari E., Sherman L., David E., Akaash N.",
+        "description": "Information | Clarity closes the feedback loop between students and teachers by lowering the energy barrier for student input while increasing the quality/value of student feedback.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/clarity",
+        "tags": "hci",
+        "title": "Clarity",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Tony W., Jiakun L., Shahab F., Brandon B.",
+        "description": "Information | Bringing families together.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/kinx",
+        "tags": "hci",
+        "title": "KinX",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Gabriel P., Kat G., Leigh H., Yang D.",
+        "description": "Information | Harness your curiosity: Kill time, not the cat.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/wonderlust",
+        "tags": "hci",
+        "title": "Wonderlust",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "David K., David M., Matt A., Aaron S.",
+        "description": "Information | A better way to discover and understand new investments.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/elon_buffett",
+        "tags": "hci",
+        "title": "InvestorScope",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Omar R., Kyle Q., Gene O., Wen S.",
+        "description": "Information | Our goal is to motivate people to cook for themselves by removing inconvenient and time-consuming barriers to cooking.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/platelist",
+        "tags": "hci",
+        "title": "Platelist",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "Albert C., Ian H., Tang Z.",
+        "description": "Information | Ola will enable patients to live a normal life without ever having to worry about their conditions and medication.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/information/ola",
+        "tags": "hci",
+        "title": "Ola",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "",
+        "description": "Sustainability | FoodConnect streamlines food donations on campus and makes volunteering more social so that less food reaches the dumpster.",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/sustainability/foodconnect",
+        "tags": "hci",
+        "title": "FoodConnect",
+        "university": "Stanford University",
+        "year": 2014
+    },
+    {
+        "authors": "",
+        "description": "Sustainability | Creating consumers-supplier relationships by centralizing information about food in order to facilitate sustainable behavior",
+        "home_url": "http://hci.stanford.edu/courses/cs147/2014/au/projects.html",
+        "project_url": "http://stanford.edu/class/cs147/projects/sustainability/foodshed",
+        "tags": "hci",
+        "title": "foodShed",
+        "university": "Stanford University",
+        "year": 2014
+    }
+]

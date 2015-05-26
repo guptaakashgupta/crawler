@@ -1,0 +1,184 @@
+[
+    {
+        "authors": "Alex Cope ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/alexcope.pdf",
+        "title": "Authorship and Date Classification using Syntactic Tree Features",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Melvin Jose Johnson Premkumar, Ankur Bapna, Sree Avinash Parchuri ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/premkumar.pdf",
+        "title": "Modeling Function Word Errors in DNN-HMM Based LVCSR Systems",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Ashwin Apte, Dimuth Kulasinghe ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/ashwina.pdf",
+        "title": "Chord Prediction Using Lyric Sentiments",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Michael Comstock ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/comstock.pdf",
+        "title": "Coreference Resolution",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Borui Wang, Huimin Li ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/wangli.pdf",
+        "title": "Context Independent Poem Recognition and Poetic Sentence Modification",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Colin Mayer, Francois Chaubard ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/mayer.pdf",
+        "title": "Visualization for Coreference Resolution Error Analysis",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Dylan Rhodes ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/dylanr.pdf",
+        "title": "Conditional Random Field Latin Word Segmenter",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Mark Kowarsky, Neha Nayak ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/nayakne.pdf",
+        "title": "Intensionality of Adjectives",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Alan Newman, Devin Guillory ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/newman.pdf",
+        "title": "Predicting Stack Exchange Keywords",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Firas Abuzaid ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/abuzaid.pdf",
+        "title": "Re\u00ad-Alignment Improvements for Deep Neural Networks on Speech Recognition Systems",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Sushobhan Nayak, Raghav Ramesh, Suril Shah ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/nayak.pdf",
+        "title": "A Study of Multilabel Text Classification and the Effect of Label Hierarchy",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Eliza Evans ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/evans.pdf",
+        "title": "Text Classification of College Attendance",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Alborz Bejnood, Tri Dao, Sam Keller ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/bejnood.pdf",
+        "title": "Alternate Equivalent Substitutes: Examining The Recognition of Synonyms Using Word Vectors",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Julian Kates-Harbeck, Mickey Haggblade ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/katesharbeck.pdf",
+        "title": "A Two-Stage Citation Recommendation System",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Keenon Werling ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/werling.pdf",
+        "title": "Recursive OpenIE",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Gil Shotan, Rafael Ferrer ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/shotan.pdf",
+        "title": "cRhyme: A Computer Engine for Generating Rhyming Sentences",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Jim Cai and Nicolas Ehrhardt ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/cai.pdf",
+        "title": "Is This A Joke?",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Kai Sheng Tai ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/kst.pdf",
+        "title": "Sentiment Analysis of Tweets: Baselines and Neural Network Models",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Pei-Chun Chen, Hao Zhang ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/chen.pdf",
+        "title": "Learning Structures of Biological Processes with Joint Inference",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Kelvin Gu, Naftali Harris ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/gu.pdf",
+        "title": "Large-Vocabulary Continuous Speech Recognition",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Peng Qi ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/qi.pdf",
+        "title": "Large-Vocabulary Continuous Speech Recognition with Linguistic Features for Deep Learning",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Desmond C. Ong, Wen Hao Lui ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/ong.pdf",
+        "title": "Building an Emotional Relation Extraction Tool",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Bertrand Schneider ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/schneider.pdf",
+        "title": "Exploring the Effect of Mutual Gaze Perception on Students\u2019 Collaborative Discourse",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Samir Bajaj ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/bajaj.pdf",
+        "title": "Shakespeare in One Hundred Words",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Shihui Song, Jason Zhao ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/song.pdf",
+        "title": "Automated Essay Scoring Using Machine Learning",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    },
+    {
+        "authors": "Dustin Janatpour ",
+        "report_url": "http://web.stanford.edu/class/cs224n/reports/2013/ .pdf",
+        "title": "Visual Summarization of Fairy Tales through Automated Tagging of Beats",
+        "url": "http://web.stanford.edu/class/cs224n/2013_projects.shtml",
+        "year": 2013
+    }
+]
